@@ -117,8 +117,8 @@ www.scansa.fr
 
 Les instructions varient selon votre registrar. Voici les plus courants :
 
-#### Ionos
-1. Connectez-vous à votre compte Ionos
+#### OVH
+1. Connectez-vous à votre manager OVH
 2. Allez dans **Domaines** → Sélectionnez `scansa.fr`
 3. Cliquez sur l'onglet **Zone DNS**
 4. Cliquez sur **Ajouter une entrée DNS**
@@ -152,18 +152,6 @@ Les instructions varient selon votre registrar. Voici les plus courants :
    - TTL : **1 heure**
 5. Cliquez sur **Enregistrer**
 
-#### OVH
-1. Connectez-vous à votre manager OVH
-2. Allez dans **Domaines** → Sélectionnez `scansa.fr`
-3. Cliquez sur l'onglet **Zone DNS**
-4. Cliquez sur **Ajouter une entrée DNS**
-5. Configurez :
-   - Type : **CNAME**
-   - Sous-domaine : **www** (ou laissez vide pour le domaine racine)
-   - Cible : `votre-username.github.io`
-   - TTL : **3600**
-6. Cliquez sur **Suivant** puis **Valider**
-
 ### 4.3 Configurer sur GitHub
 
 1. Retournez sur GitHub → Repository → **Settings** → **Pages**
@@ -181,40 +169,12 @@ Les instructions varient selon votre registrar. Voici les plus courants :
 
 ## 🔒 Étape 5 : HTTPS (Certificat SSL)
 
-**⚠️ Note Importante concernant HTTPS :**
+GitHub fournit automatiquement un certificat SSL gratuit pour les domaines personnalisés.
 
-Si vous utilisez un hébergeur comme **Ionos** qui ne fournit pas de certificat SSL gratuit, vous rencontrerez ce message :
-
-> "Enforce HTTPS — Unavailable for your site because your domain is not properly configured to support HTTPS (scansa.fr)"
-
-**Solutions disponibles :**
-
-#### Option A : Désactiver temporairement l'application forcée d'HTTPS (Recommandé pour l'instant)
 1. Allez sur GitHub → Repository → **Settings** → **Pages**
-2. Sous **HTTPS**, **décochez** "Enforce HTTPS"
-3. Cliquez sur **Save**
-4. Votre site sera accessible en HTTP : `http://scansa.fr`
-5. Une fois que vous avez un certificat SSL, vous pourrez réactiver cette option
-
-#### Option B : Utiliser Cloudflare (SSL Gratuit)
-1. Créez un compte gratuit sur [Cloudflare](https://dash.cloudflare.com/sign-up)
-2. Ajoutez votre domaine `scansa.fr` à Cloudflare
-3. Cloudflare vous fournira des serveurs DNS à utiliser
-4. Mettez à jour vos enregistrements DNS chez Ionos avec les serveurs Cloudflare
-5. Cloudflare fournit automatiquement un certificat SSL gratuit
-6. Une fois propagé, réactivez "Enforce HTTPS" sur GitHub
-
-#### Option C : Acheter un certificat SSL chez votre hébergeur
-1. Contactez le support de votre hébergeur (Ionos)
-2. Demandez l'activation d'un certificat SSL pour votre domaine
-3. Suivez leurs instructions pour l'installation
-4. Une fois installé, réactivez "Enforce HTTPS" sur GitHub
-
-**Pour l'instant (Option A) :**
-1. Allez sur GitHub → Repository → **Settings** → **Pages**
-2. Sous **HTTPS**, **décochez** "Enforce HTTPS"
-3. Cliquez sur **Save**
-4. Votre site sera accessible en HTTP : `http://scansa.fr`
+2. Sous **HTTPS**, cochez **Enforce HTTPS**
+3. Attendez quelques minutes pour que le certificat soit généré
+4. Votre site sera accessible en HTTPS : `https://scansa.fr`
 
 ---
 
@@ -282,8 +242,8 @@ Remplacez les liens placeholder :
 - [ ] Fichier CNAME créé avec "scansa.fr"
 - [ ] DNS configuré chez le registrar (CNAME vers votre-username.github.io)
 - [ ] Domaine personnalisé configuré sur GitHub
-- [ ] HTTPS configuré (désactivé si hébergeur sans SSL gratuit, ou activé avec SSL)
-- [ ] Site accessible sur http://scansa.fr (ou https://scansa.fr si SSL disponible)
+- [ ] HTTPS activé
+- [ ] Site accessible sur https://scansa.fr
 - [ ] Liens vers les stores activés (une fois l'app publiée)
 
 ---
@@ -307,10 +267,9 @@ Remplacez les liens placeholder :
 - Attendez plus longtemps pour la propagation
 
 ### HTTPS ne fonctionne pas
-- **Si message d'erreur "Enforce HTTPS — Unavailable"** : Votre hébergeur ne fournit pas de certificat SSL gratuit
-- **Solution immédiate** : Décochez "Enforce HTTPS" dans GitHub Pages settings (voir Étape 5 - Option A)
-- **Solution long terme** : Utilisez Cloudflare (SSL gratuit) ou achetez un certificat SSL chez votre hébergeur
-- Une fois le certificat SSL installé, réactivez "Enforce HTTPS"
+- Attendez que GitHub génère le certificat SSL (peut prendre jusqu'à 24h)
+- Vérifiez que le DNS est correctement configuré
+- Cochez "Enforce HTTPS" dans GitHub Pages settings
 
 ---
 
