@@ -100,7 +100,7 @@ function initContactForm() {
             });
         }
 
-        // Form submission
+        // Form submission via AJAX to Formspree
         contactForm.addEventListener('submit', async (e) => {
             e.preventDefault();
             
@@ -114,10 +114,37 @@ function initContactForm() {
                 return;
             }
 
-            // For demo purposes, just show success message
-            // In production, you would send this to a backend API
-            showNotification('Message envoyé avec succès ! Nous vous répondrons prochainement.');
-            contactForm.reset();
+            const submitBtn = contactForm.querySelector('button[type="submit"]');
+            const originalBtnText = submitBtn.textContent;
+            submitBtn.textContent = 'Envoi en cours...';
+            submitBtn.disabled = true;
+
+            try {
+                const response = await fetch(contactForm.action, {
+                    method: 'POST',
+                    body: formData,
+                    headers: {
+                        'Accept': 'application/json'
+                    }
+                });
+
+                if (response.ok) {
+                    showNotification('Message envoyé avec succès ! Nous vous répondrons prochainement.');
+                    contactForm.reset();
+                } else {
+                    const errorData = await response.json();
+                    if (Object.hasOwn(errorData, 'errors')) {
+                        showNotification(errorData.errors.map(err => err.message).join(', '));
+                    } else {
+                        showNotification('Oups ! Une erreur est survenue lors de l\'envoi.');
+                    }
+                }
+            } catch (error) {
+                showNotification('Oups ! Une erreur réseau est survenue.');
+            } finally {
+                submitBtn.textContent = originalBtnText;
+                submitBtn.disabled = false;
+            }
         });
     }
 }
