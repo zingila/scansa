@@ -335,10 +335,10 @@ p {
   display: flex;
   gap: 2rem;
   align-items: flex-start;
-  background: linear-gradient(90deg, var(--color-surface) 0%, transparent 100%);
+  background-color: var(--color-bg);
   padding: 2rem;
   border-radius: var(--radius-lg);
-  border-left: 2px solid var(--color-primary);
+  border: 1px solid var(--color-primary);
 }
 
 .step-number {
