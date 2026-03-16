@@ -4,7 +4,7 @@
 // ============================================
 // Notification System (replaces alert())
 // ============================================
-function showNotification(message, duration = 3000) {
+function showNotification(message, type = 'info', duration = 3000) {
     // Remove existing notification if any
     const existingNotification = document.querySelector('.notification');
     if (existingNotification) {
@@ -17,6 +17,11 @@ function showNotification(message, duration = 3000) {
     notification.textContent = message;
     notification.setAttribute('role', 'alert');
     notification.setAttribute('aria-live', 'polite');
+    
+    // Appliquer une couleur verte si c'est un message de succès
+    if (type === 'success') {
+        notification.style.backgroundColor = '#059669'; // Vert émeraude (meilleur contraste)
+    }
 
     // Add to DOM
     document.body.appendChild(notification);
@@ -129,7 +134,7 @@ function initContactForm() {
                 });
 
                 if (response.ok) {
-                    showNotification('Message envoyé avec succès ! Nous vous répondrons prochainement.');
+                    showNotification('Message envoyé avec succès ! Nous vous répondrons prochainement.', 'success');
                     contactForm.reset();
                 } else {
                     const errorData = await response.json();
