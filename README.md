@@ -36,8 +36,7 @@ scansa/
 ├── .gitignore        # Fichier d'ignore Git
 ├── README.md         # Documentation du projet
 └── logo/            # Dossier des logos
-    ├── Generated Image February 13, 2026 - 11_46AM.png
-    └── Generated Image February 13, 2026 - 11_48AM.png
+    └── logo.png
 ```
 
 ## 🎨 Design System
