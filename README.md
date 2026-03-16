@@ -186,13 +186,13 @@ Les boutons App Store et Google Play dans le footer sont actuellement des placeh
 
 1. **Remplacer les liens** dans `index.html`, `contact.html`, `privacy.html`, `terms.html` :
    ```html
-   <a href="https://apps.apple.com/app/scansa/idXXXXXXX" class="store-button">
+   <a href="https://apps.apple.com/app/id6758580692" class="store-button">
    <a href="https://play.google.com/store/apps/details?id=com.scansa.app" class="store-button">
    ```
 
 2. **Remplacer les liens CTA** dans `index.html` :
    ```html
-   <a href="https://apps.apple.com/app/scansa/idXXXXXXX" class="btn btn-primary">
+   <a href="https://apps.apple.com/app/id6758580692" class="btn btn-primary">
    <a href="https://play.google.com/store/apps/details?id=com.scansa.app" class="btn btn-secondary">
    ```
 

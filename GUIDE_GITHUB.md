@@ -257,7 +257,7 @@ Une fois que votre application est disponible sur l'App Store et Google Play :
 
 ### Dans index.html (Section CTA)
 ```html
-<a href="https://apps.apple.com/app/scansa/idXXXXXXX" class="btn btn-primary download-btn">
+<a href="https://apps.apple.com/app/id6758580692" class="btn btn-primary download-btn">
     Télécharger sur l'App Store
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.scansa.app" class="btn btn-secondary download-btn">

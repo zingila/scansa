@@ -612,6 +612,10 @@ textarea.form-control {
   max-width: 400px;
 }
 
+.notification.success {
+  background-color: var(--color-success);
+}
+
 .notification.show {
   opacity: 1;
   transform: translateY(0);

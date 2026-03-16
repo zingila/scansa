@@ -18,9 +18,9 @@ function showNotification(message, type = 'info', duration = 3000) {
     notification.setAttribute('role', 'alert');
     notification.setAttribute('aria-live', 'polite');
     
-    // Appliquer une couleur verte si c'est un message de succès
+    // Ajouter la classe success si c'est un message de succès
     if (type === 'success') {
-        notification.style.backgroundColor = '#059669'; // Vert émeraude (meilleur contraste)
+        notification.classList.add('success');
     }
 
     // Add to DOM
@@ -47,8 +47,11 @@ function initDownloadButtons() {
     const downloadButtons = document.querySelectorAll('.download-btn');
     downloadButtons.forEach(btn => {
         btn.addEventListener('click', (e) => {
-            e.preventDefault();
-            showNotification('Lien vers le store à venir');
+            const href = btn.getAttribute('href');
+            if (!href || href === '#' || href.includes('idXXXXXXX') || href.includes('play.google.com')) {
+                e.preventDefault();
+                showNotification('Lien vers le store à venir');
+            }
         });
     });
 }
