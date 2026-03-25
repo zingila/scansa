@@ -120,14 +120,16 @@ Les instructions varient selon votre registrar. Voici les plus courants :
 #### Ionos
 1. Connectez-vous à votre compte Ionos
 2. Allez dans **Domaines** → Sélectionnez `scansa.fr`
-3. Cliquez sur l'onglet **Zone DNS**
-4. Cliquez sur **Ajouter une entrée DNS**
-5. Configurez :
-   - Type : **CNAME**
-   - Sous-domaine : **www** (ou laissez vide pour le domaine racine)
-   - Cible : `votre-username.github.io`
-   - TTL : **3600**
-6. Cliquez sur **Suivant** puis **Valider**
+3. *Important :* Si une "Redirection" est active, désactivez-la d'abord via "Ajuster la destination".
+4. Dans l'onglet **Zone DNS**, supprimez tous les anciens enregistrements de type A, AAAA et TXT (_dep_ws_mutex) pointant vers l'IP Ionos par défaut.
+5. Cliquez sur **Ajouter une entrée DNS** et créez 4 enregistrements **A** pour le domaine racine :
+   - Type : **A** | Nom : `@` (ou vide) | Cible : `185.199.108.153`
+   - Type : **A** | Nom : `@` (ou vide) | Cible : `185.199.109.153`
+   - Type : **A** | Nom : `@` (ou vide) | Cible : `185.199.110.153`
+   - Type : **A** | Nom : `@` (ou vide) | Cible : `185.199.111.153`
+6. Créez ensuite un enregistrement **CNAME** pour le www :
+   - Type : **CNAME** | Nom : `www` | Cible : `zingila.github.io`
+7. Cliquez sur **Suivant** puis **Valider**
 
 #### Gandi
 1. Connectez-vous à votre compte Gandi
