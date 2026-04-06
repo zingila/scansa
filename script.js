@@ -48,7 +48,7 @@ function initDownloadButtons() {
     downloadButtons.forEach(btn => {
         btn.addEventListener('click', (e) => {
             const href = btn.getAttribute('href');
-            if (!href || href === '#' || href.includes('idXXXXXXX') || href.includes('play.google.com')) {
+            if (!href || href === '#' || href.includes('idXXXXXXX')) {
                 e.preventDefault();
                 showNotification('Lien vers le store à venir');
             }

@@ -262,7 +262,7 @@ Une fois que votre application est disponible sur l'App Store et Google Play :
 <a href="https://apps.apple.com/app/id6758580692" class="btn btn-primary download-btn">
     Télécharger sur l'App Store
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.scansa.app" class="btn btn-secondary download-btn">
+<a href="https://play.google.com/store/apps/details?id=com.zingila.leaselens" class="btn btn-secondary download-btn">
     Obtenir sur Google Play
 </a>
 ```
