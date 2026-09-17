@@ -28,11 +28,13 @@ body { font-family: var(--sans); color: var(--text); background: var(--ink); -we
 a { color: inherit; text-decoration: none; }
 ul, ol { list-style: none; }
 
-.wrap { width: 100%; max-width: 1280px; margin: 0 auto; padding: 0 24px; }
+/* gouttières à la façon du modèle : la largeur porte la marge latérale,
+   plus aucun raccourci `padding` qui écraserait les marges hautes/basses */
+.wrap { width: min(1280px, calc(100% - 48px)); margin-inline: auto; }
 .mono { font-family: var(--mono); }
 .pink { color: var(--pink); }
 
-h1, h2, h3, h4 { font-family: var(--display); letter-spacing: -0.035em; font-weight: 600; }
+h1, h2, h3, h4 { font-family: var(--display); letter-spacing: -0.035em; font-weight: 600; text-wrap: balance; }
 
 .eyebrow {
   font-family: var(--mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
@@ -64,7 +66,7 @@ h1, h2, h3, h4 { font-family: var(--display); letter-spacing: -0.035em; font-wei
 .nav.scrolled .nav-links a:hover { color: var(--red); }
 
 /* ---------- HERO ---------- */
-.hero { position: relative; min-height: 100vh; background: var(--ink); color: #fff; display: flex; flex-direction: column; overflow: hidden; }
+.hero { position: relative; min-height: 100svh; background: var(--ink); color: #fff; display: flex; flex-direction: column; overflow: hidden; }
 .hero-grid {
   position: absolute; inset: 0;
   background-image: linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px);
@@ -381,27 +383,27 @@ textarea.form-control { min-height: 150px; resize: vertical; line-height: 1.55; 
   .footer-inner { flex-direction: column; text-align: center; }
   .footer nav { justify-content: center; }
 }
+@media (max-width: 640px) {
+  .wrap { width: calc(100% - 36px); }
+  .nav-links { padding-left: 18px; padding-right: 18px; }
+}
 @media (max-width: 560px) {
-  /* padding-inline uniquement : un raccourci `padding` remettrait à zéro
-     les marges hautes/basses posées sur .hero-inner, .hero-foot et .footer-inner */
-  .wrap { padding-left: 16px; padding-right: 16px; }
-
-  .light { padding: 88px 0 80px; }
+  .light { padding: 88px 0; }
   .nav-inner { height: 66px; }
-  .nav-links { top: 66px; padding-left: 16px; padding-right: 16px; }
+  .nav-links { top: 66px; }
   .logo { font-size: 20px; }
   .nav-toggle { margin-right: 6px; }
   .btn-red { font-size: 14px; padding: 10px 16px; }
 
   /* Typographie : les tailles mini des clamp() restaient calibrées pour le bureau */
-  .hero-inner { padding-top: 96px; padding-bottom: 28px; }
-  .hero h1 { font-size: 44px; margin-bottom: 22px; }
-  .hero-lead { font-size: 16.5px; margin-bottom: 26px; }
-  .light h2 { font-size: 32px; margin-bottom: 22px; }
-  .cta { padding: 90px 0 80px; }
-  .cta h2 { font-size: 34px; }
-  .lead { font-size: 16px; }
-  .eyebrow { margin-bottom: 16px; }
+  .hero-inner { padding-top: 104px; padding-bottom: 80px; }
+  .hero h1 { font-size: 44px; margin-bottom: 26px; }
+  .hero-lead { font-size: 18px; margin-bottom: 30px; }
+  .light h2 { font-size: 36px; margin-bottom: 26px; }
+  .cta { padding: 96px 0 88px; }
+  .cta h2 { font-size: 40px; }
+  .lead { font-size: 17.5px; }
+  .eyebrow { margin-bottom: 18px; }
 
   .stores { gap: 10px; }
   .store { flex: 1 1 140px; justify-content: center; padding: 11px 16px; }
@@ -415,17 +417,17 @@ textarea.form-control { min-height: 150px; resize: vertical; line-height: 1.55; 
   .doc-row { margin-bottom: 12px; }
   .toast { left: 8%; right: 8%; bottom: 8%; padding: 13px 16px 13px 13px; }
   .toast strong { font-size: 14px; }
-  .hero-foot { font-size: 10px; padding-bottom: 20px; }
+  .hero-foot { display: none; }
 
-  .analyse-grid { gap: 22px; margin-top: 44px; }
-  .contract { padding: 26px 18px; }
+  .analyse-grid { gap: 24px; margin-top: 48px; }
+  .contract { padding: 28px 24px; }
   .contract-head { flex-direction: column; gap: 10px; }
   .contract-head h3 { font-size: 20px; }
   .contract-head .mono { text-align: left; white-space: normal; }
   .article { grid-template-columns: 1fr; }
   .article .num { padding: 0 0 4px; }
   .article p { font-size: 15px; }
-  .card { padding: 22px 18px; }
+  .card { padding: 24px 22px; }
   .score-top { gap: 16px; }
   .ring { width: 76px; height: 76px; }
   .ring-val strong { font-size: 25px; }
@@ -437,13 +439,13 @@ textarea.form-control { min-height: 150px; resize: vertical; line-height: 1.55; 
   .step h3 { font-size: 26px; margin: 30px 0 14px; }
   .step > p { font-size: 15px; }
 
-  .types { margin-top: 44px; }
-  .types li { padding: 18px 4px 20px; }
+  .types { margin-top: 48px; }
+  .types li { padding: 22px 4px; gap: 8px; }
   .types li:hover { padding-left: 4px; }
-  .types h3 { font-size: 24px; }
+  .types h3 { font-size: 26px; }
 
-  .legal { padding: 76px 0 90px; }
-  .legal-head { padding-bottom: 26px; margin-bottom: 36px; }
+  .legal { padding: 88px 0 96px; }
+  .legal-head { padding-bottom: 28px; margin-bottom: 40px; }
   .legal-head h1 { font-size: 36px; }
   .legal-body > p, .legal-body li { font-size: 15.5px; }
   .legal-body h2 { font-size: 22px; margin: 40px 0 14px; gap: 10px; }
@@ -452,15 +454,15 @@ textarea.form-control { min-height: 150px; resize: vertical; line-height: 1.55; 
   .contact-intro h1 { font-size: 38px; }
   .contact-mail { font-size: 22px; }
 
-  .footer-inner { padding-top: 26px; padding-bottom: 26px; }
-  .footer nav { gap: 12px 18px; font-size: 12.5px; }
+  .footer-inner { padding-top: 28px; padding-bottom: 36px; gap: 18px; }
+  .footer nav { gap: 14px 22px; font-size: 13.5px; }
 }
-@media (max-width: 380px) {
-  .hero h1 { font-size: 39px; }
-  .light h2 { font-size: 28px; }
-  .cta h2 { font-size: 30px; }
+@media (max-width: 360px) {
+  .hero h1 { font-size: 40px; }
+  .light h2 { font-size: 32px; }
+  .cta h2 { font-size: 36px; }
   .legal-head h1, .contact-intro h1 { font-size: 32px; }
-  .types h3, .step h3 { font-size: 22px; }
+  .types h3, .step h3 { font-size: 24px; }
   .doc { width: 124px; }
   .hero-visual { height: 300px; }
 }
