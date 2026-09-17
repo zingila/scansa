@@ -30,7 +30,10 @@
         <img class="logo-mark" src="logo/logo-mark.png" alt="" width="22" height="22">
         <span>scansa</span>
       </a>
-      <nav class="nav-links" aria-label="Navigation principale">
+      <button class="nav-toggle" type="button" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="menu">
+        <span></span><span></span>
+      </button>
+      <nav class="nav-links" id="menu" aria-label="Navigation principale">
         <a href="#analyse">L'analyse</a>
         <a href="#fonctionnement">Comment ça marche</a>
         <a href="#contrats">Tous les contrats</a>
@@ -274,6 +277,7 @@
     </div>
   </footer>
 
+  <script src="nav.js" defer></script>
   <script src="script.js"></script>
 </body>
 </html>

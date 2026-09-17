@@ -114,8 +114,15 @@
     }, 180);
   }
 
+  const isMobile = () => window.matchMedia('(max-width: 900px)').matches;
+
   items.forEach((el, i) => {
-    const pick = () => { userSelected = true; renderDetail(i); };
+    const pick = () => {
+      userSelected = true;
+      renderDetail(i);
+      // sur mobile l'explication est sous le contrat : on l'amène à l'écran
+      if (isMobile()) setTimeout(() => detail.scrollIntoView({ behavior: 'smooth', block: 'center' }), 200);
+    };
     el.addEventListener('click', pick);
     el.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(); } });
   });
