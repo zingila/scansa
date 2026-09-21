@@ -18,6 +18,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <script>document.documentElement.classList.add('js');</script>
   <link rel="icon" type="image/png" href="logo/logo.png">
   <link rel="apple-touch-icon" href="logo/logo.png">
 </head>
@@ -44,8 +45,8 @@
 
   <!-- HERO -->
   <section class="hero" id="top">
-    <div class="hero-grid" aria-hidden="true"></div>
-    <div class="hero-beam" aria-hidden="true"></div>
+    <canvas id="sky" aria-hidden="true"></canvas>
+    <div class="veil" aria-hidden="true"></div>
     <div class="wrap hero-inner">
       <div class="hero-copy">
         <p class="eyebrow eyebrow-dark">Analyse de contrats · IA croisée avec 400 articles de loi</p>
@@ -64,26 +65,9 @@
         </div>
       </div>
 
-      <div class="hero-visual" aria-hidden="true">
-        <div class="scan-frame">
-          <i class="c tl"></i><i class="c tr"></i><i class="c bl"></i><i class="c br"></i>
-        </div>
-        <div class="doc doc-back">
-          <div class="doc-title"></div><div class="doc-sub"></div>
-          <div class="doc-row"><b class="ok"></b><i></i></div>
-          <div class="doc-row"><b class="ok"></b><i></i></div>
-          <div class="doc-row hl"><b class="ok"></b><i></i></div>
-          <div class="doc-row"><b class="ok"></b><i></i></div>
-        </div>
-        <div class="doc doc-front">
-          <div class="doc-title"></div><div class="doc-sub"></div>
-          <div class="doc-row"><b class="ok"></b><i></i></div>
-          <div class="doc-row"><b class="ok"></b><i></i></div>
-          <div class="doc-row hl"><b class="ok"></b><i></i></div>
-          <div class="doc-row"><b class="ok"></b><i></i></div>
-          <div class="doc-row"><b class="ok"></b><i></i></div>
-        </div>
-        <div class="toast">
+      <div class="hero-stage" id="stage" aria-hidden="true">
+        <i class="corner tl" id="c1"></i><i class="corner tr" id="c2"></i><i class="corner bl" id="c3"></i><i class="corner br" id="c4"></i>
+        <div class="pile-card" id="pileCard">
           <span class="toast-check"><svg viewBox="0 0 24 24"><path d="M6 12.5l4 4 8-9"/></svg></span>
           <span><strong>Bail d'habitation analysé</strong><small>4 clauses à négocier avant de signer</small></span>
         </div>
