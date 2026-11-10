@@ -3,29 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact · Scansa</title>
-  <meta name="description" content="Une question sur Scansa ? Un problème technique ? Contactez l'équipe Scansa.">
+  <title>Contact | Scansa</title>
+  <meta name="description" content="Une question sur Scansa, un problème technique, un partenariat ? Écrivez-nous par le formulaire ou à contact@scansa.fr.">
   <link rel="canonical" href="https://scansa.fr/contact.html">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Scansa">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:url" content="https://scansa.fr/contact.html">
-  <meta property="og:title" content="Contact · Scansa">
-  <meta property="og:description" content="Une question sur Scansa ? Un problème technique ? Contactez l'équipe Scansa.">
-  <meta property="og:image" content="https://scansa.fr/logo/logo.png">
-  <meta name="twitter:card" content="summary">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <meta property="og:title" content="Contact | Scansa">
+  <meta property="og:description" content="Une question sur Scansa, un problème technique, un partenariat ? Écrivez-nous par le formulaire ou à contact@scansa.fr.">
+  <meta property="og:image" content="https://scansa.fr/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Scansa, l’analyse de contrat par IA">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#141114">
+  <meta name="apple-itunes-app" content="app-id=6758580692">
+  <link rel="preload" href="fonts/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/instrument-sans.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="styles.css">
-  <link rel="icon" type="image/png" href="logo/logo.png">
-  <link rel="apple-touch-icon" href="logo/logo.png">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
 </head>
 <body class="legal-page">
 
   <header class="nav scrolled">
     <div class="wrap nav-inner">
-      <a href="index.html" class="logo" aria-label="Scansa · accueil">
+      <a href="./" class="logo" aria-label="Scansa · accueil">
         <img class="logo-mark" src="logo/logo-mark.png" alt="" width="22" height="22">
         <span>scansa</span>
       </a>
@@ -33,11 +38,14 @@
         <span></span><span></span>
       </button>
       <nav class="nav-links" id="menu" aria-label="Navigation principale">
-        <a href="index.html#analyse">L'analyse</a>
-        <a href="index.html#fonctionnement">Comment ça marche</a>
-        <a href="index.html#contrats">Tous les contrats</a>
+        <a href="./#analyse">L’analyse</a>
+        <a href="./#fonctionnement">Comment ça marche</a>
+        <a href="./#contrats">Tous les contrats</a>
+        <a href="guides/">Guides</a>
+        <a href="outils/">Outils gratuits</a>
+        <a href="tarifs.html">Tarifs</a>
       </nav>
-      <a href="index.html#telecharger" class="btn-red">Télécharger</a>
+      <a href="./#telecharger" class="btn-red">Télécharger</a>
     </div>
   </header>
 
@@ -47,17 +55,17 @@
         <div class="contact-intro">
           <p class="eyebrow">Contact</p>
           <h1>Contactez-nous.</h1>
-          <p class="lead">Une question sur Scansa ? Un problème technique ? Nous sommes là pour vous aider.</p>
+          <p class="lead">Une question sur Scansa ? Un problème technique ? Nous sommes là pour vous aider.</p>
 
           <div class="contact-direct">
             <p class="mono">Par email</p>
-            <p>Vous pouvez également nous joindre directement à l'adresse email :</p>
+            <p>Vous pouvez également nous joindre directement à l’adresse email :</p>
             <a href="mailto:contact@scansa.fr" class="contact-mail">contact@scansa.fr <span aria-hidden="true">→</span></a>
           </div>
 
           <ul class="contact-topics">
             <li><i class="dot red"></i>Support technique et bug</li>
-            <li><i class="dot amber"></i>Question sur l'abonnement</li>
+            <li><i class="dot amber"></i>Question sur l’abonnement</li>
             <li><i class="dot green"></i>Partenariat</li>
           </ul>
         </div>
@@ -77,7 +85,7 @@
               <select id="subject" name="subject" class="form-control" required>
                 <option value="" disabled selected>Veuillez choisir un sujet</option>
                 <option value="support">Support technique et bug</option>
-                <option value="billing">Question sur l'abonnement</option>
+                <option value="billing">Question sur l’abonnement</option>
                 <option value="partnership">Partenariat</option>
                 <option value="other">Autre</option>
               </select>
@@ -95,17 +103,50 @@
   </main>
 
   <footer class="footer">
+    <div class="wrap footer-map">
+      <div>
+        <p class="mono">Ce que Scansa analyse</p>
+        <a href="analyse-bail-location.html">Bail, état des lieux, courriers</a>
+        <a href="justificatif-de-domicile.html">Justificatif de domicile</a>
+        <a href="analyse-contrat-de-travail.html">Contrat de travail : essai et CDD</a>
+      </div>
+      <div>
+        <p class="mono">Guides</p>
+        <a href="guides/depot-de-garantie-maximum.html">Dépôt de garantie : le maximum légal</a>
+        <a href="guides/bail-mobilite.html">Bail mobilité</a>
+        <a href="guides/bail-commercial-clauses.html">Bail commercial</a>
+        <a href="guides/">Tous les guides</a>
+        <a href="analyse-contrat-assurance.html">Contrat d’assurance</a>
+        <a href="analyse-abonnement.html">Abonnement, télécom, salle de sport</a>
+        <a href="analyse-credit-consommation.html">Crédit à la consommation</a>
+        <a href="analyse-mandat-de-vente.html">Mandat de vente immobilier</a>
+      </div>
+      <div>
+        <p class="mono">Outils gratuits</p>
+        <a href="outils/depot-de-garantie-restitution.html">Restitution du dépôt de garantie</a>
+        <a href="outils/preavis-locataire.html">Préavis du locataire</a>
+        <a href="outils/periode-d-essai.html">Période d’essai</a>
+        <a href="outils/validite-justificatif-de-domicile.html">Validité d’un justificatif</a>
+        <a href="outils/">Tous les outils</a>
+      </div>
+      <div>
+        <p class="mono">Scansa</p>
+        <a href="tarifs.html">Tarifs et abonnements</a>
+        <a href="methode-et-sources.html">Méthode et sources</a>
+        <a href="a-propos.html">À propos</a>
+        <a href="contact.html" aria-current="page">Contact</a>
+        <a href="https://apps.apple.com/app/id6758580692" rel="noopener">Scansa sur l’App Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.zingila.leaselens" rel="noopener">Scansa sur Google Play</a>
+      </div>
+    </div>
     <div class="wrap footer-inner">
-      <a href="index.html" class="logo" aria-label="Scansa · accueil">
-        <img class="logo-mark" src="logo/logo-mark.png" alt="" width="22" height="22">
+      <a href="./" class="logo" aria-label="Scansa · accueil">
+        <img class="logo-mark" src="logo/logo-mark.png" alt="" width="20" height="20">
         <span>scansa</span>
       </a>
-      <nav>
-        <a href="index.html#analyse">L'analyse</a>
-        <a href="index.html#fonctionnement">Comment ça marche</a>
-        <a href="index.html#contrats">Tous les contrats</a>
-        <a href="contact.html" aria-current="page">Contact</a>
-        <a href="terms.html">Mentions légales</a>
+      <nav aria-label="Informations légales">
+        <a href="mentions-legales.html">Mentions légales</a>
+        <a href="terms.html">Conditions d’utilisation</a>
         <a href="privacy.html">Confidentialité</a>
       </nav>
       <span class="copy">© 2026 Scansa · scansa.fr</span>

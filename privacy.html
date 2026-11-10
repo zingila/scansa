@@ -3,29 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Politique de confidentialité · Scansa</title>
-  <meta name="description" content="Politique de confidentialité de l'application Scansa : données collectées, traitement des documents, hébergement et droits RGPD.">
+  <title>Politique de confidentialité | Scansa</title>
+  <meta name="description" content="Quelles données Scansa collecte, comment vos contrats sont traités et hébergés, et comment exercer vos droits d’accès, de rectification et d’effacement.">
   <link rel="canonical" href="https://scansa.fr/privacy.html">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Scansa">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:url" content="https://scansa.fr/privacy.html">
-  <meta property="og:title" content="Politique de confidentialité · Scansa">
-  <meta property="og:description" content="Données collectées, traitement des documents, hébergement et droits RGPD.">
-  <meta property="og:image" content="https://scansa.fr/logo/logo.png">
-  <meta name="twitter:card" content="summary">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <meta property="og:title" content="Politique de confidentialité | Scansa">
+  <meta property="og:description" content="Quelles données Scansa collecte, comment vos contrats sont traités et hébergés, et comment exercer vos droits d’accès, de rectification et d’effacement.">
+  <meta property="og:image" content="https://scansa.fr/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Scansa, l’analyse de contrat par IA">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#141114">
+  <meta name="apple-itunes-app" content="app-id=6758580692">
+  <link rel="preload" href="fonts/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/instrument-sans.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="styles.css">
-  <link rel="icon" type="image/png" href="logo/logo.png">
-  <link rel="apple-touch-icon" href="logo/logo.png">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
 </head>
 <body class="legal-page">
 
   <header class="nav scrolled">
     <div class="wrap nav-inner">
-      <a href="index.html" class="logo" aria-label="Scansa · accueil">
+      <a href="./" class="logo" aria-label="Scansa · accueil">
         <img class="logo-mark" src="logo/logo-mark.png" alt="" width="22" height="22">
         <span>scansa</span>
       </a>
@@ -33,11 +38,14 @@
         <span></span><span></span>
       </button>
       <nav class="nav-links" id="menu" aria-label="Navigation principale">
-        <a href="index.html#analyse">L'analyse</a>
-        <a href="index.html#fonctionnement">Comment ça marche</a>
-        <a href="index.html#contrats">Tous les contrats</a>
+        <a href="./#analyse">L’analyse</a>
+        <a href="./#fonctionnement">Comment ça marche</a>
+        <a href="./#contrats">Tous les contrats</a>
+        <a href="guides/">Guides</a>
+        <a href="outils/">Outils gratuits</a>
+        <a href="tarifs.html">Tarifs</a>
       </nav>
-      <a href="index.html#telecharger" class="btn-red">Télécharger</a>
+      <a href="./#telecharger" class="btn-red">Télécharger</a>
     </div>
   </header>
 
@@ -46,61 +54,94 @@
       <header class="legal-head">
         <p class="eyebrow">Légal</p>
         <h1>Politique de confidentialité</h1>
-        <p class="mono">Dernière mise à jour : 1 mars 2026</p>
+        <p class="mono">Dernière mise à jour : 1 mars 2026</p>
       </header>
 
       <div class="legal-body">
-        <p>La protection de vos données personnelles est une priorité absolue pour Scansa (anciennement LeaseLens). La présente Politique de Confidentialité décrit la manière dont nous collectons, utilisons et protégeons les données de nos utilisateurs dans le cadre de l'utilisation de l'application mobile Scansa.</p>
+        <p>La protection de vos données personnelles est une priorité absolue pour Scansa (anciennement LeaseLens). La présente Politique de Confidentialité décrit la manière dont nous collectons, utilisons et protégeons les données de nos utilisateurs dans le cadre de l’utilisation de l’application mobile Scansa.</p>
 
         <h2><span class="num">01</span>Informations collectées</h2>
-        <p>Dans le cadre du fonctionnement de l'application, nous sommes amenés à collecter les informations suivantes :</p>
+        <p>Dans le cadre du fonctionnement de l’application, nous sommes amenés à collecter les informations suivantes :</p>
         <ul>
-          <li><strong>Informations de compte :</strong> Adresse email et informations de connexion (Google, Apple) nécessaires pour l'authentification.</li>
-          <li><strong>Documents analysés :</strong> Les photographies et les fichiers PDF de contrats que vous soumettez à l'application.</li>
-          <li><strong>Données de paiement :</strong> Gérées de manière sécurisée par notre partenaire RevenueCat pour les achats in-app.</li>
-          <li><strong>Données d'utilisation :</strong> Informations non identifiantes ou analytiques permettant d'améliorer le service.</li>
+          <li><strong>Informations de compte :</strong> Adresse email et informations de connexion (Google, Apple) nécessaires pour l’authentification.</li>
+          <li><strong>Documents analysés :</strong> Les photographies et les fichiers PDF de contrats que vous soumettez à l’application.</li>
+          <li><strong>Données de paiement :</strong> Gérées de manière sécurisée par notre partenaire RevenueCat pour les achats in-app.</li>
+          <li><strong>Données d’utilisation :</strong> Informations non identifiantes ou analytiques permettant d’améliorer le service.</li>
         </ul>
 
         <h2><span class="num">02</span>Traitement des documents sensibles</h2>
-        <p>Scansa est conçu pour garantir la confidentialité absolue des documents personnels :</p>
+        <p>Scansa est conçu pour garantir la confidentialité absolue des documents personnels :</p>
         <ul>
-          <li>Tous les contrats et documents transmis sont traités uniquement pour procéder à l'analyse juridique.</li>
-          <li>Les données extraites par reconnaissance optique de caractères (OCR) sont analysées temporairement par nos systèmes d'Intelligence Artificielle et ne sont jamais utilisées pour entraîner nos modèles de base sans consentement explicite.</li>
-          <li>Les utilisateurs disposent d'un contrôle total sur leurs documents (fonctionnalité de suppression complète de l'historique et des fichiers en base de données).</li>
+          <li>Tous les contrats et documents transmis sont traités uniquement pour procéder à l’analyse juridique.</li>
+          <li>Les données extraites par reconnaissance optique de caractères (OCR) sont analysées temporairement par nos systèmes d’Intelligence Artificielle et ne sont jamais utilisées pour entraîner nos modèles de base sans consentement explicite.</li>
+          <li>Les utilisateurs disposent d’un contrôle total sur leurs documents (fonctionnalité de suppression complète de l’historique et des fichiers en base de données).</li>
         </ul>
 
         <h2><span class="num">03</span>Hébergement des données</h2>
-        <p>L'infrastructure technique de l'application (base de données, fichiers, authentification) s'appuie sur la plateforme technique moderne Supabase. Les données sont hébergées de manière sécurisée sur des serveurs situés géographiquement en accord avec les normes européennes RGPD.</p>
+        <p>L’infrastructure technique de l’application (base de données, fichiers, authentification) s’appuie sur la plateforme technique moderne Supabase. Les données sont hébergées de manière sécurisée sur des serveurs situés géographiquement en accord avec les normes européennes RGPD.</p>
 
         <h2><span class="num">04</span>Vos droits (RGPD)</h2>
-        <p>Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez des droits suivants concernant vos données personnelles :</p>
+        <p>Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez des droits suivants concernant vos données personnelles :</p>
         <ul>
-          <li>Droit d'accès et de rectification</li>
-          <li>Droit à l'effacement (droit à l'oubli)</li>
-          <li>Droit à la limitation du traitement et à l'opposition</li>
+          <li>Droit d’accès et de rectification</li>
+          <li>Droit à l’effacement (droit à l’oubli)</li>
+          <li>Droit à la limitation du traitement et à l’opposition</li>
           <li>Droit à la portabilité de vos données</li>
         </ul>
 
         <h2><span class="num">05</span>Nous contacter</h2>
-        <p>Pour toute question relative à cette politique de confidentialité ou pour exercer vos droits sur vos données, vous pouvez nous contacter via la page <a href="contact.html">Contact</a> de ce site ou à l'adresse : <a href="mailto:contact@scansa.fr">contact@scansa.fr</a></p>
+        <p>Pour toute question relative à cette politique de confidentialité ou pour exercer vos droits sur vos données, vous pouvez nous contacter via la page <a href="contact.html">Contact</a> de ce site ou à l’adresse : <a href="mailto:contact@scansa.fr">contact@scansa.fr</a></p>
 
-        <a href="index.html" class="legal-back"><span aria-hidden="true">←</span> Retour à l'accueil</a>
+        <a href="./" class="legal-back"><span aria-hidden="true">←</span> Retour à l’accueil</a>
       </div>
     </div>
   </main>
 
   <footer class="footer">
+    <div class="wrap footer-map">
+      <div>
+        <p class="mono">Ce que Scansa analyse</p>
+        <a href="analyse-bail-location.html">Bail, état des lieux, courriers</a>
+        <a href="justificatif-de-domicile.html">Justificatif de domicile</a>
+        <a href="analyse-contrat-de-travail.html">Contrat de travail : essai et CDD</a>
+      </div>
+      <div>
+        <p class="mono">Guides</p>
+        <a href="guides/depot-de-garantie-maximum.html">Dépôt de garantie : le maximum légal</a>
+        <a href="guides/bail-mobilite.html">Bail mobilité</a>
+        <a href="guides/bail-commercial-clauses.html">Bail commercial</a>
+        <a href="guides/">Tous les guides</a>
+        <a href="analyse-contrat-assurance.html">Contrat d’assurance</a>
+        <a href="analyse-abonnement.html">Abonnement, télécom, salle de sport</a>
+        <a href="analyse-credit-consommation.html">Crédit à la consommation</a>
+        <a href="analyse-mandat-de-vente.html">Mandat de vente immobilier</a>
+      </div>
+      <div>
+        <p class="mono">Outils gratuits</p>
+        <a href="outils/depot-de-garantie-restitution.html">Restitution du dépôt de garantie</a>
+        <a href="outils/preavis-locataire.html">Préavis du locataire</a>
+        <a href="outils/periode-d-essai.html">Période d’essai</a>
+        <a href="outils/validite-justificatif-de-domicile.html">Validité d’un justificatif</a>
+        <a href="outils/">Tous les outils</a>
+      </div>
+      <div>
+        <p class="mono">Scansa</p>
+        <a href="tarifs.html">Tarifs et abonnements</a>
+        <a href="methode-et-sources.html">Méthode et sources</a>
+        <a href="a-propos.html">À propos</a>
+        <a href="contact.html">Contact</a>
+        <a href="https://apps.apple.com/app/id6758580692" rel="noopener">Scansa sur l’App Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.zingila.leaselens" rel="noopener">Scansa sur Google Play</a>
+      </div>
+    </div>
     <div class="wrap footer-inner">
-      <a href="index.html" class="logo" aria-label="Scansa · accueil">
-        <img class="logo-mark" src="logo/logo-mark.png" alt="" width="22" height="22">
+      <a href="./" class="logo" aria-label="Scansa · accueil">
+        <img class="logo-mark" src="logo/logo-mark.png" alt="" width="20" height="20">
         <span>scansa</span>
       </a>
-      <nav>
-        <a href="index.html#analyse">L'analyse</a>
-        <a href="index.html#fonctionnement">Comment ça marche</a>
-        <a href="index.html#contrats">Tous les contrats</a>
-        <a href="contact.html">Contact</a>
-        <a href="terms.html">Mentions légales</a>
+      <nav aria-label="Informations légales">
+        <a href="mentions-legales.html">Mentions légales</a>
+        <a href="terms.html">Conditions d’utilisation</a>
         <a href="privacy.html" aria-current="page">Confidentialité</a>
       </nav>
       <span class="copy">© 2026 Scansa · scansa.fr</span>

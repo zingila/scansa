@@ -296,7 +296,7 @@
     },
     {
       n: 4, title: 'Dépôt de garantie', status: 'bad',
-      text: 'Le locataire verse à la signature un dépôt de garantie de 2 360 €, soit deux mois de loyer hors charges, restitué dans les trois mois suivant la remise des clés.',
+      text: 'Le locataire verse à la signature un dépôt de garantie de 2 360 €, soit deux mois de loyer hors charges, restitué dans le délai prévu par la loi après la remise des clés.',
       heading: 'Deux mois demandés, un seul est permis.',
       explain: 'Pour un logement loué vide, le dépôt de garantie ne peut pas dépasser un mois de loyer hors charges. Ici, cela fait 1 180 €, pas 2 360 €. Le surplus n’est pas dû.',
       ref: 'Loi 89-462, art. 22',
@@ -307,7 +307,7 @@
       text: 'Le locataire souscrira une assurance multirisque habitation auprès de la compagnie désignée par le bailleur et en justifiera chaque année à sa demande.',
       heading: 'L’assurance est obligatoire.<br>L’assureur, vous le choisissez.',
       explain: 'Vous devez bien assurer le logement contre les risques locatifs. Mais une clause qui vous impose la compagnie choisie par le bailleur est réputée non écrite : elle n’a aucune valeur.',
-      ref: 'Loi 89-462, art. 4 et 7 g',
+      ref: 'Loi 89-462, art. 4 b et 7 g',
       reply: '« Je vous remettrai une attestation d’assurance habitation, souscrite auprès de l’assureur de mon choix, comme le prévoit l’article 7 g de la loi du 6 juillet 1989. »'
     },
     {
@@ -315,7 +315,7 @@
       text: 'En cas de congé, le locataire laissera visiter les lieux tous les jours, dimanches et jours fériés compris, de 9 h à 19 h, en vue de la relocation.',
       heading: 'Deux heures par jour ouvrable,<br>pas dix heures tous les jours.',
       explain: 'La loi interdit toute clause qui vous oblige à laisser visiter le logement les jours fériés ou plus de deux heures par jour ouvrable. Vous fixez les créneaux avec le bailleur.',
-      ref: 'Loi 89-462, art. 4 c',
+      ref: 'Loi 89-462, art. 4 a',
       reply: '« Je laisserai visiter le logement dans la limite de deux heures les jours ouvrables, conformément à l’article 4 de la loi du 6 juillet 1989, aux créneaux que nous conviendrons. »'
     },
     {
@@ -330,7 +330,7 @@
       text: 'L’état des lieux de sortie sera dressé par commissaire de justice, ses honoraires étant intégralement à la charge du locataire.',
       heading: 'Les honoraires ne peuvent pas être<br>mis entièrement à votre charge.',
       explain: 'Si l’état des lieux est établi par un commissaire de justice faute d’accord amiable, ses frais sont partagés par moitié. Une clause qui vous facture l’état des lieux est réputée non écrite.',
-      ref: 'Loi 89-462, art. 3-2 et 4 i',
+      ref: 'Loi 89-462, art. 3-2 et 4 k',
       reply: '« Un état des lieux amiable et gratuit peut être établi entre nous. À défaut, les frais du commissaire de justice sont partagés par moitié, selon l’article 3-2 de la loi du 6 juillet 1989. »'
     }
   ];
@@ -352,7 +352,8 @@
 
   /* ---------- Build contract ---------- */
   const list = document.getElementById('articles');
-  ARTICLES.forEach((a, i) => {
+  // les articles sont déjà dans la page ; on ne les fabrique que si la liste est vide
+  if (!list.children.length) ARTICLES.forEach((a, i) => {
     const li = document.createElement('li');
     li.className = 'article ' + a.status;
     li.tabIndex = 0;

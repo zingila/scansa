@@ -1,3 +1,9 @@
+/* Polices servies depuis le site : plus aucun appel à Google Fonts.
+   Fichiers variables, sous-ensemble latin (licence SIL Open Font). */
+@font-face { font-family: "Bricolage Grotesque"; font-style: normal; font-weight: 200 800; font-stretch: 100%; font-display: swap; src: url("fonts/bricolage-grotesque.woff2") format("woff2"); }
+@font-face { font-family: "Instrument Sans"; font-style: normal; font-weight: 400 700; font-display: swap; src: url("fonts/instrument-sans.woff2") format("woff2"); }
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight: 400 800; font-display: swap; src: url("fonts/jetbrains-mono.woff2") format("woff2"); }
+
 :root {
   --ink: #141114;
   --ink-2: #1c181c;
@@ -459,3 +465,205 @@ textarea.form-control { min-height: 150px; resize: vertical; line-height: 1.55; 
   *, *::before, *::after { animation: none !important; transition: none !important; }
   html { scroll-behavior: auto; }
 }
+
+/* =====================================================================
+   AJOUTS D'OCTOBRE 2026 : référencement et pages de contenu.
+   Rien au-dessus de cette ligne n'a été modifié.
+   ===================================================================== */
+
+a:focus-visible, summary:focus-visible, button:focus-visible { outline: 2px solid var(--red-bright); outline-offset: 3px; border-radius: 4px; }
+
+/* ---------- ACCUEIL : le sur-titre fait partie du H1 ---------- */
+/* Même rendu et même ordre d'apparition qu'avant : sur-titre, titre, texte, boutons. */
+/* le sur-titre garde sa ligne de texte courant (16 px), comme lorsqu'il était un paragraphe à part */
+.hero h1 .h1-kicker { display: block; font: 400 16px/normal var(--sans); letter-spacing: normal; text-wrap: wrap; }
+.hero h1 .h1-title { display: block; }
+.js .hero-copy > h1 { opacity: 1; transform: none; }
+.js .hero-copy > h1 > span { opacity: 0; transform: translateY(22px); transition: opacity .9s cubic-bezier(.2,.7,.2,1), transform .9s cubic-bezier(.2,.7,.2,1); }
+.js .hero.in .hero-copy > h1 > span { opacity: 1; transform: none; }
+.js .hero.in .hero-copy > h1 > .h1-kicker { transition-delay: .05s; }
+.js .hero.in .hero-copy > h1 > .h1-title { transition-delay: .15s; }
+.js .hero.in .hero-copy > :nth-child(2) { transition-delay: .3s; }
+.js .hero.in .hero-copy > :nth-child(3) { transition-delay: .45s; }
+
+/* ---------- ACCUEIL : la démonstration se lit aussi sans JavaScript ---------- */
+html:not(.js) .badge { opacity: 1; transform: none; }
+.article-note { margin-top: 10px; padding: 12px 14px; background: #f7f4f1; border-radius: 8px; }
+.article-note p { font-size: 14px; line-height: 1.6; }
+.article-note p + p { margin-top: 6px; }
+.article-note .ref { margin-top: 8px; font-size: 11px; }
+.js .article-note { display: none; }
+
+/* ---------- ACCUEIL : les types de contrat mènent à leur page ---------- */
+.types-links li { display: block; padding: 0; }
+.types-links li:hover { padding-left: 0; }
+.types-links a { display: grid; grid-template-columns: 1fr 1.25fr .55fr; gap: 30px; align-items: start; padding: 22px 6px 26px; transition: padding .25s; }
+.types-links li:hover a { padding-left: 16px; }
+.types-links h3 { transition: color .2s; }
+.types-links a:hover h3 { color: var(--red); }
+
+/* ---------- ACCUEIL : nouveautés de la version en cours ---------- */
+.release { margin-top: 70px; display: grid; grid-template-columns: 1fr 1.25fr; gap: 26px 60px; align-items: start; background: var(--card); border-radius: 18px; padding: 40px 42px; box-shadow: var(--shadow); }
+.release .eyebrow { margin-bottom: 16px; }
+.release h3 { font-size: clamp(26px, 2.8vw, 38px); line-height: 1.04; }
+.release-text { font-size: 16px; line-height: 1.65; color: #3b3638; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+.chips a { display: inline-flex; align-items: center; font-family: var(--mono); font-size: 11px; line-height: 1.3; padding: 8px 13px; background: #ece6e1; border-radius: 999px; color: #4a4446; transition: background .2s, color .2s; }
+.chips a:hover { background: var(--red); color: #fff; }
+
+/* ---------- QUESTIONS FRÉQUENTES ---------- */
+.faq-list { margin-top: 56px; border-top: 1px solid #d8d0cb; max-width: 920px; }
+.qa { border-bottom: 1px solid #d8d0cb; }
+.qa summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: baseline; gap: 24px; padding: 22px 6px; font-family: var(--display); font-size: clamp(19px, 1.9vw, 24px); font-weight: 600; letter-spacing: -0.025em; line-height: 1.2; transition: color .2s; }
+.qa summary::-webkit-details-marker { display: none; }
+.qa summary::after { content: "+"; font-family: var(--mono); font-weight: 400; font-size: 20px; line-height: 1; color: var(--red); flex: none; transition: transform .25s; }
+.qa[open] summary::after { transform: rotate(45deg); }
+.qa summary:hover { color: var(--red); }
+.qa-body { padding: 0 6px 26px; max-width: 740px; }
+.qa-body p { font-size: 16px; line-height: 1.7; color: #3b3638; }
+.qa-body p + p { margin-top: 12px; }
+.qa-body a { color: var(--red); text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---------- PAGES DE CONTENU : contrats et guides ---------- */
+.crumbs { display: flex; flex-wrap: wrap; gap: 8px; font-family: var(--mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted-2); margin-bottom: 34px; }
+.crumbs a { color: var(--muted); transition: color .2s; }
+.crumbs a:hover { color: var(--red); }
+.doc .legal-head h1 { font-size: clamp(36px, 4.6vw, 58px); line-height: 1.03; margin-bottom: 24px; }
+.doc-lead { font-size: 19px; line-height: 1.6; color: #3b3638; max-width: 720px; margin-bottom: 28px; }
+.doc .legal-head .stores { margin-bottom: 28px; }
+.legal-page .store-light { box-shadow: inset 0 0 0 1px var(--line); }
+.legal-page .cta .store-light { box-shadow: none; }
+.doc .legal-head .chips { margin: 0 0 26px; }
+
+.legal-body h3 { font-size: 20px; line-height: 1.25; letter-spacing: -0.02em; margin: 30px 0 10px; }
+.legal-body h2[id], .clause[id], .legal-body h3[id] { scroll-margin-top: 100px; }
+
+.gist { background: var(--card); border-radius: 18px; padding: 28px 30px 26px; box-shadow: var(--shadow); margin-bottom: 18px; }
+.gist .eyebrow { margin-bottom: 14px; }
+.legal-body .gist ul { margin: 0; }
+
+.clause { background: var(--card); border-radius: 18px; padding: 28px 30px 30px; box-shadow: var(--shadow); margin-bottom: 20px; }
+.clause .tag { margin-bottom: 14px; }
+.legal-body .clause h3 { font-size: clamp(21px, 2.1vw, 25px); line-height: 1.18; letter-spacing: -0.025em; margin: 0 0 14px; }
+.clause-quote { font-size: 15.5px; line-height: 1.62; padding: 12px 14px; border-radius: 6px; margin-bottom: 14px; background: var(--red-soft); color: var(--red); }
+.clause.warn .clause-quote { background: var(--amber-soft); color: #8a5a0c; }
+.clause.ok .clause-quote { background: var(--green-soft); color: #17623b; }
+.clause-text { font-size: 16px; line-height: 1.68; color: #3b3638; }
+.clause-text + .clause-text { margin-top: 10px; }
+.clause .ref { font-size: 12px; line-height: 1.55; }
+
+.figures { width: 100%; border-collapse: collapse; margin: 8px 0 26px; }
+.figures th { text-align: left; font-family: var(--mono); font-size: 10.5px; font-weight: 400; letter-spacing: .1em; text-transform: uppercase; color: var(--muted-2); padding: 0 14px 10px 0; border-bottom: 1px solid #d8d0cb; }
+.figures td { padding: 14px 14px 14px 0; border-bottom: 1px solid #d8d0cb; vertical-align: top; font-size: 15.5px; line-height: 1.55; color: #3b3638; }
+.figures td:first-child { font-weight: 600; color: var(--text); width: 34%; }
+.figures td.src { font-family: var(--mono); font-size: 12px; color: var(--muted-2); width: 24%; padding-right: 0; }
+
+.legal-body ul.related { gap: 0; border-top: 1px solid #d8d0cb; margin: 20px 0 0; }
+.legal-body ul.related li { padding: 0; border-bottom: 1px solid #d8d0cb; }
+.legal-body ul.related li::before { display: none; }
+.legal-body ul.related a { display: flex; justify-content: space-between; align-items: baseline; gap: 20px; padding: 16px 6px; color: var(--text); text-decoration: none; font-family: var(--display); font-weight: 600; font-size: 19px; line-height: 1.25; letter-spacing: -0.02em; transition: padding .25s, color .2s, background .25s; }
+.legal-body ul.related a:hover { color: var(--red); background: #efeae6; padding-left: 16px; }
+.legal-body ul.related a span { font-family: var(--mono); font-weight: 400; font-size: 10.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted-2); flex: none; }
+
+.legal-body .faq-list { margin-top: 10px; }
+.legal-body .qa summary { font-size: clamp(18px, 1.8vw, 21px); padding: 18px 6px; }
+.legal-body .reply { margin: 6px 0 24px; }
+.clause .reply { margin: 22px 0 0; }
+.doc-note { margin-top: 54px; padding-top: 22px; border-top: 1px solid var(--line); font-size: 13.5px; line-height: 1.65; color: var(--muted); }
+.legal-body .doc-note a { color: var(--muted); }
+
+/* ---------- CENTRE DE GUIDES ---------- */
+.guides-index .wrap { max-width: 1180px; }
+.guides-index .legal-head { border-bottom: 0; margin-bottom: 0; padding-bottom: 10px; }
+.guides-index .types { margin-top: 30px; }
+.guides-index h2 { font-size: clamp(26px, 3vw, 38px); line-height: 1.05; margin: 80px 0 0; }
+.guides-index .legal-back { margin-top: 64px; }
+
+/* ---------- PAGE INTROUVABLE ---------- */
+.lost { min-height: 62vh; display: flex; align-items: center; }
+.lost .mono { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--red); margin-bottom: 18px; }
+.lost h1 { font-size: clamp(40px, 5.4vw, 68px); line-height: 1; margin-bottom: 20px; }
+.lost .lead { margin-bottom: 30px; }
+
+@media (max-width: 900px) {
+  .types-links a { grid-template-columns: 1fr; gap: 8px; }
+  .release { grid-template-columns: 1fr; padding: 32px 30px; }
+}
+@media (max-width: 640px) {
+  .figures, .figures tbody, .figures tr, .figures td { display: block; width: auto; }
+  .figures thead { display: none; }
+  .figures tr { padding: 14px 0; border-bottom: 1px solid #d8d0cb; }
+  .figures tr:first-child { border-top: 1px solid #d8d0cb; }
+  .figures td, .figures td:first-child, .figures td.src { width: auto; border: 0; padding: 0 0 4px; }
+}
+@media (max-width: 560px) {
+  .types-links a { padding: 22px 4px; gap: 8px; }
+  .types-links li:hover a { padding-left: 4px; }
+  .release { margin-top: 48px; padding: 26px 22px; }
+  .faq-list { margin-top: 40px; }
+  .qa summary { padding: 18px 2px; gap: 16px; }
+  .qa-body { padding: 0 2px 22px; }
+  .qa-body p { font-size: 15.5px; }
+  .crumbs { margin-bottom: 26px; }
+  .doc .legal-head h1 { font-size: 34px; }
+  .doc-lead { font-size: 17px; }
+  .gist, .clause { padding: 24px 22px; }
+  .clause-text { font-size: 15.5px; }
+  .legal-body ul.related a { font-size: 17px; padding: 15px 2px; flex-direction: column; gap: 4px; }
+  .legal-body ul.related a:hover { padding-left: 2px; }
+  .guides-index h2 { margin-top: 56px; }
+}
+@media (max-width: 360px) {
+  .doc .legal-head h1 { font-size: 30px; }
+}
+
+/* ---------- ACCUEIL : la démonstration sans JavaScript garde ses couleurs ---------- */
+html:not(.js) .article.ok { border-left-color: var(--green); }
+html:not(.js) .article.bad { border-left-color: var(--red); }
+html:not(.js) .article.warn { border-left-color: var(--amber); }
+html:not(.js) .article.bad p mark { background: var(--red-soft); color: var(--red); }
+html:not(.js) .article.warn p mark { background: var(--amber-soft); color: #8a5a0c; }
+html:not(.js) .article { cursor: default; }
+
+/* ---------- PIED DE PAGE : plan du site ---------- */
+.footer-map { display: grid; grid-template-columns: 1fr 1.1fr 1fr .8fr; gap: 40px 44px; padding-top: 70px; padding-bottom: 46px; border-bottom: 1px solid rgba(255,255,255,.08); }
+.footer-map .mono { font-size: 10.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted-2); margin-bottom: 16px; }
+.footer-map a { display: block; width: fit-content; font-size: 14.5px; line-height: 1.4; padding: 5px 0; color: #c8c2c4; transition: color .2s; }
+.footer-map a:hover, .footer-map a[aria-current] { color: #fff; }
+@media (max-width: 900px) {
+  .footer-map { grid-template-columns: 1fr 1fr; gap: 36px 30px; padding-top: 56px; }
+}
+@media (max-width: 560px) {
+  .footer-map { grid-template-columns: 1fr; gap: 30px; padding-top: 48px; padding-bottom: 36px; }
+  .footer-map a { padding: 6px 0; }
+}
+
+/* ---------- CHAMP À COMPLÉTER (mentions légales) ---------- */
+mark.todo { background: var(--amber-soft); color: #8a5a0c; padding: 1px 6px; border-radius: 4px; font-size: .94em; }
+
+.legal-body ul.related + p { margin-top: 24px; }
+
+/* ---------- OUTILS GRATUITS : formulaires de calcul ---------- */
+.outil { margin: 26px 0 18px; padding: 28px 28px 24px; background: var(--card); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); }
+.outil .form-group { margin-bottom: 16px; }
+.outil select.form-control { background-image: linear-gradient(45deg, transparent 50%, var(--ink) 50%), linear-gradient(135deg, var(--ink) 50%, transparent 50%); background-position: calc(100% - 20px) 50%, calc(100% - 15px) 50%; background-size: 5px 5px; background-repeat: no-repeat; padding-right: 40px; }
+.outil-aide { margin-top: 6px; font-size: 13px; line-height: 1.5; color: var(--muted-2); }
+.outil-case { display: flex; gap: 10px; align-items: center; margin: 4px 0 18px; font-size: 15px; cursor: pointer; }
+.outil-case input { width: 18px; height: 18px; accent-color: var(--red); }
+.outil-btn { border: 0; cursor: pointer; font: inherit; font-weight: 600; margin-top: 4px; }
+.outil-resultat { margin-top: 20px; padding: 18px 20px; border-radius: 12px; background: #f7f4f1; border-left: 4px solid var(--line); font-size: 15.5px; line-height: 1.65; }
+.outil-resultat.ok { background: var(--green-soft); border-left-color: var(--green); }
+.outil-resultat.warn { background: var(--amber-soft); border-left-color: var(--amber); }
+.outil-resultat.bad { background: var(--red-soft); border-left-color: var(--red); }
+.outil-note { display: inline-block; margin-top: 8px; font-size: 14px; color: var(--muted); }
+.outil-lettre-titre { display: block; margin: 20px 0 8px; font-family: var(--mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.outil-lettre { font-size: 14px; line-height: 1.55; resize: vertical; background: #fff; }
+@media (max-width: 560px) { .outil { padding: 22px 18px 18px; } }
+
+/* ---------- NAVIGATION : cinq liens tiennent entre 900 et 1180 px ---------- */
+@media (min-width: 901px) and (max-width: 1180px) { .nav-links { gap: 22px; font-size: 14.5px; } }
+
+/* ---------- TABLEAUX LARGES : défilement horizontal dans leur cadre ---------- */
+.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 18px 0; }
+.table-scroll table.figures { margin: 0; min-width: 640px; }
+.figures-4 td { vertical-align: top; font-size: 14.5px; line-height: 1.5; }

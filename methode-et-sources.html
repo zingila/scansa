@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Méthode et sources : comment Scansa vérifie ce qu’il écrit | Scansa</title>
+  <meta name="description" content="D’où viennent les règles citées par Scansa, comment les pages sont écrites et mises à jour, ce que veulent dire les trois niveaux d’alerte, et les limites d’une analyse automatique.">
+  <link rel="canonical" href="https://scansa.fr/methode-et-sources.html">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Scansa">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:url" content="https://scansa.fr/methode-et-sources.html">
+  <meta property="og:title" content="Méthode et sources : comment Scansa vérifie ce qu’il écrit | Scansa">
+  <meta property="og:description" content="D’où viennent les règles citées par Scansa, comment les pages sont écrites et mises à jour, ce que veulent dire les trois niveaux d’alerte, et les limites d’une analyse automatique.">
+  <meta property="og:image" content="https://scansa.fr/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Scansa, l’analyse de contrat par IA">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#141114">
+  <meta name="apple-itunes-app" content="app-id=6758580692">
+  <link rel="preload" href="fonts/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/instrument-sans.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://scansa.fr/#organisation","name":"Scansa","url":"https://scansa.fr/","logo":"https://scansa.fr/logo/logo-512.png","email":"contact@scansa.fr","sameAs":["https://apps.apple.com/app/id6758580692","https://play.google.com/store/apps/details?id=com.zingila.leaselens"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://scansa.fr/"},{"@type":"ListItem","position":2,"name":"Méthode et sources","item":"https://scansa.fr/methode-et-sources.html"}]},{"@type":"Article","headline":"Méthode et sources : comment Scansa vérifie ce qu’il écrit","description":"D’où viennent les règles citées par Scansa, comment les pages sont écrites et mises à jour, ce que veulent dire les trois niveaux d’alerte, et les limites d’une analyse automatique.","inLanguage":"fr-FR","mainEntityOfPage":"https://scansa.fr/methode-et-sources.html","datePublished":"2026-10-24","dateModified":"2026-10-24","image":"https://scansa.fr/og.jpg","author":{"@id":"https://scansa.fr/#organisation"},"publisher":{"@id":"https://scansa.fr/#organisation"}}]}</script>
+</head>
+<body class="legal-page">
+
+  <header class="nav scrolled">
+    <div class="wrap nav-inner">
+      <a href="./" class="logo" aria-label="Scansa · accueil">
+        <img class="logo-mark" src="logo/logo-mark.png" alt="" width="22" height="22">
+        <span>scansa</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="menu">
+        <span></span><span></span>
+      </button>
+      <nav class="nav-links" id="menu" aria-label="Navigation principale">
+        <a href="./#analyse">L’analyse</a>
+        <a href="./#fonctionnement">Comment ça marche</a>
+        <a href="./#contrats">Tous les contrats</a>
+        <a href="guides/">Guides</a>
+        <a href="outils/">Outils gratuits</a>
+        <a href="tarifs.html">Tarifs</a>
+      </nav>
+      <a href="#telecharger" class="btn-red">Télécharger</a>
+    </div>
+  </header>
+
+  <main class="legal doc">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Fil d'Ariane"><a href="./">Accueil</a><span aria-hidden="true">/</span><span aria-current="page">Méthode et sources</span></nav>
+      <header class="legal-head">
+        <p class="eyebrow">Méthode</p>
+        <h1>Méthode et sources</h1>
+        <p class="doc-lead">Scansa signale des clauses et cite des articles de loi : 809, tirés de quinze textes. Cette page explique d’où viennent ces règles, comment elles sont vérifiées, et ce qu’une analyse automatique ne peut pas faire à votre place.</p>
+        <div class="chips"><a href="#sources">Sources</a><a href="#redaction">Rédaction</a><a href="#niveaux">Niveaux d’alerte</a><a href="#application">L’application</a><a href="#limites">Limites</a><a href="#erreur">Signaler une erreur</a></div>
+        <p class="mono">Mis à jour le 24 octobre 2026</p>
+      </header>
+      <div class="legal-body">
+
+        <h2 id="sources"><span class="num">01</span>D’où viennent les règles citées</h2>
+        <p>Chaque page de ce site s’appuie sur des sources que vous pouvez ouvrir vous-même.</p>
+        <ul>
+          <li><strong>Les textes en vigueur.</strong> Lois, codes, décrets et arrêtés, tels qu’ils sont publiés sur <a href="https://www.legifrance.gouv.fr/" rel="noopener">Légifrance</a>. Nous citons le numéro de l’article, pas seulement le nom de la loi.</li>
+          <li><strong>Les décisions de justice.</strong> Surtout celles de la Cour de cassation, citées avec leur chambre, leur date et leur numéro, pour que vous puissiez les retrouver.</li>
+          <li><strong>Les positions de l’administration.</strong> Quand une règle vient d’une lecture de l’administration, par exemple de la direction générale de la concurrence, de la consommation et de la répression des fraudes, nous l’écrivons : « selon la DGCCRF ». Un juge peut en décider autrement.</li>
+        </ul>
+
+        <h2 id="redaction"><span class="num">02</span>Comment une page est écrite</h2>
+        <ul>
+          <li><strong>Nous partons du texte.</strong> La règle est reprise de l’article en vigueur à la date indiquée en tête de page, pas d’un résumé trouvé ailleurs.</li>
+          <li><strong>Nous donnons la référence.</strong> Sous chaque clause commentée figure l’article sur lequel repose l’analyse. Si vous écrivez à votre bailleur, à votre employeur ou à un professionnel, c’est cette référence qu’il faut citer.</li>
+          <li><strong>Nous séparons ce qui est interdit de ce qui est seulement défavorable.</strong> Une clause peut vous déplaire et rester parfaitement légale. Nous le disons.</li>
+          <li><strong>Nous annonçons les réformes au futur.</strong> Une loi votée mais pas encore applicable est présentée avec sa date d’entrée en vigueur, à part des règles qui s’appliquent aujourd’hui.</li>
+          <li><strong>Nous laissons de côté ce que nous n’avons pas pu vérifier.</strong> Une décision de justice que nous n’avons pas relue n’est pas citée.</li>
+        </ul>
+
+        <h2 id="niveaux"><span class="num">03</span>Les trois niveaux d’alerte</h2>
+        <p>Les clauses commentées sur le site et dans l’application sont rangées en trois niveaux.</p>
+        <ul>
+          <li><strong>Rouge : la clause est contraire à la loi.</strong> Selon le texte, elle est « réputée non écrite », nulle ou interdite. Réputée non écrite veut dire qu’on fait comme si elle ne figurait pas dans le contrat : le reste du contrat continue de s’appliquer.</li>
+          <li><strong>Orange : la clause est légale, ou valable sous conditions.</strong> Elle mérite d’être lue de près, parce qu’elle vous engage ou parce que sa validité dépend de la façon dont elle est rédigée.</li>
+          <li><strong>Vert : la clause est conforme.</strong> Elle reprend la loi ou reste dans ce qu’elle permet.</li>
+        </ul>
+
+        <h2 id="application"><span class="num">04</span>Comment l’application analyse un contrat</h2>
+        <p>Vous photographiez le document ou vous importez un PDF. Un modèle de vision lit la page, même prise de travers, et la transforme en texte. L’application reconnaît ensuite le type de document (bail vide, meublé, mobilité, commercial, saisonnier, état des lieux, courrier, contrat de travail, justificatif) et n’applique que les règles qui le concernent : aucune règle du bail d’habitation n’est appliquée à un bail commercial.</p>
+        <p>Pour chaque clause, un moteur de recherche par le sens retrouve dans la base les articles qui en parlent, même quand les mots diffèrent : « toutou interdit » renvoie aux règles sur les animaux familiers. Un second modèle compare la clause et l’article, et désigne la règle qu’il applique.</p>
+        <p><strong>C’est le programme, et non le modèle, qui écrit le numéro d’article.</strong> Le modèle choisit une règle parmi celles de la base ; le code en déduit la référence exacte. Un article inventé ne peut donc pas apparaître dans un rapport. Le score global tient compte de la gravité de chaque point relevé.</p>
+        <h3>La base légale, source par source</h3>
+        <table class="figures">
+          <thead><tr><th>Source</th><th>Texte</th><th>Articles</th></tr></thead>
+          <tbody>
+            <tr><td>Loi du 6 juillet 1989</td><td>Rapports locatifs, bail mobilité</td><td class="src">396</td></tr>
+            <tr><td>Code du tourisme</td><td>Meublés de tourisme, location saisonnière</td><td class="src">100</td></tr>
+            <tr><td>Code du travail</td><td>Période d’essai, CDD</td><td class="src">67</td></tr>
+            <tr><td>Code de commerce</td><td>Bail commercial</td><td class="src">66</td></tr>
+            <tr><td>Code civil</td><td>Louage, résidence secondaire, preuve</td><td class="src">65</td></tr>
+            <tr><td>Décret 2015-587</td><td>Contrat type de location</td><td class="src">28</td></tr>
+            <tr><td>Décret 87-713</td><td>Charges récupérables</td><td class="src">14</td></tr>
+            <tr><td>Décrets 2016-1104 et 2016-1105</td><td>Diagnostics gaz et électricité</td><td class="src">14</td></tr>
+            <tr><td>Décret 2002-120</td><td>Logement décent</td><td class="src">12</td></tr>
+            <tr><td>Code de la construction et de l’habitation</td><td>Réponses aux questions posées dans le chat</td><td class="src">12</td></tr>
+            <tr><td>Décret 87-712</td><td>Réparations locatives</td><td class="src">10</td></tr>
+            <tr><td>Décret 2015-650</td><td>Loyers de référence</td><td class="src">8</td></tr>
+            <tr><td>Décret 2014-890</td><td>Honoraires de location</td><td class="src">6</td></tr>
+            <tr><td>Décret 2016-382</td><td>État des lieux</td><td class="src">6</td></tr>
+            <tr><td>Décret 2015-1437</td><td>Pièces du dossier de location</td><td class="src">5</td></tr>
+          </tbody>
+        </table>
+        <p>Total : 809 articles, auxquels s’ajoute la liste des 3 689 communes en zone tendue (décret 2013-392 modifié). Le décret qui fixe les zones au 1er janvier 2027 sera chargé avant cette date.</p>
+
+        <h2 id="limites"><span class="num">05</span>Les limites</h2>
+        <ul>
+          <li><strong>Une analyse automatique peut se tromper.</strong> Elle peut mal lire une photo, passer à côté d’une clause ou en signaler une à tort. Vérifiez toujours l’article cité avant d’agir.</li>
+          <li><strong>Un contrat ne dit pas tout.</strong> Votre situation dépend aussi de faits qui ne sont pas dans le document : la date de signature, la commune du logement, votre convention collective, ce qui s’est passé depuis.</li>
+          <li><strong>Une photo floue se lit mal.</strong> Quand la lecture est incertaine, l’application refait une lecture avec le moteur du téléphone et vous le signale.</li>
+          <li><strong>Le loyer de référence n’est vérifié que dans les villes où il s’applique</strong>, d’après une liste mise à jour avec celle des zones tendues. L’encadrement expérimental prend fin le 23 novembre 2026, sauf prolongation votée d’ici là : la liste sera reprise à cette date.</li>
+          <li><strong>Certains textes sont volontairement absents.</strong> Les lois ALUR et Climat et résilience ont modifié la loi de 1989 : c’est la version en vigueur de la loi de 1989 qui est chargée, pas les lois modificatives.</li>
+          <li><strong>Les documents que Scansa ne connaît pas sont refusés</strong> plutôt qu’analysés au hasard. Les contrats d’assurance, de crédit, d’abonnement et les mandats de vente en font partie pour l’instant.</li>
+          <li><strong>Ce site donne une information générale.</strong> Il ne remplace pas un avocat, une association de locataires ou de consommateurs, ni l’agence départementale d’information sur le logement (ADIL) pour tout ce qui touche à la location.</li>
+        </ul>
+
+        <h2 id="maj"><span class="num">06</span>Mises à jour</h2>
+        <p>La date de dernière mise à jour figure en tête de chaque page. Le droit change : quand une réforme entre en vigueur, les pages concernées sont reprises. C’est le cas du crédit à la consommation, dont les règles changent le 20 novembre 2026.</p>
+        <p>Entre deux mises à jour, c’est le texte publié sur Légifrance qui fait foi.</p>
+
+        <h2 id="erreur"><span class="num">07</span>Signaler une erreur</h2>
+        <p>Une référence inexacte, une règle qui a changé, une phrase peu claire : écrivez-nous à <a href="mailto:contact@scansa.fr">contact@scansa.fr</a> en indiquant la page concernée. Nous vérifions, nous corrigeons et nous changeons la date de mise à jour.</p>
+        <a href="./" class="legal-back"><span aria-hidden="true">←</span> Retour à l’accueil</a>
+      </div>
+    </div>
+  </main>
+
+  <section class="cta" id="telecharger">
+    <div class="wrap">
+      <p class="eyebrow eyebrow-dark">Disponible sur iPhone et Android</p>
+      <h2>Votre contrat,<br><span class="pink">lu avant d’être signé.</span></h2>
+      <p class="hero-lead">Photographiez les pages ou importez le PDF. Scansa relève les clauses qui ne tiennent pas devant la loi, cite le texte et prépare votre réponse.</p>
+      <div class="stores">
+        <a href="https://apps.apple.com/app/id6758580692" class="store store-light" aria-label="Télécharger sur l'App Store">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-2-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8 1.6 0 2 .8 3.3.8 1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9 0 0-2.8-1.1-2.8-4.2zM13.9 5.2c.7-.8 1.2-2 1-3.2-1 0-2.3.7-3 1.5-.7.8-1.2 2-1.1 3.1 1.2.1 2.3-.6 3.1-1.4z"/></svg>
+          <span><small>Télécharger sur</small>App Store</span>
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.zingila.leaselens" class="store store-dark" aria-label="Obtenir sur Google Play">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 2.5v19l16.5-9.5z"/></svg>
+          <span><small>Obtenir sur</small>Google Play</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="wrap footer-map">
+      <div>
+        <p class="mono">Ce que Scansa analyse</p>
+        <a href="analyse-bail-location.html">Bail, état des lieux, courriers</a>
+        <a href="justificatif-de-domicile.html">Justificatif de domicile</a>
+        <a href="analyse-contrat-de-travail.html">Contrat de travail : essai et CDD</a>
+      </div>
+      <div>
+        <p class="mono">Guides</p>
+        <a href="guides/depot-de-garantie-maximum.html">Dépôt de garantie : le maximum légal</a>
+        <a href="guides/bail-mobilite.html">Bail mobilité</a>
+        <a href="guides/bail-commercial-clauses.html">Bail commercial</a>
+        <a href="guides/">Tous les guides</a>
+        <a href="analyse-contrat-assurance.html">Contrat d’assurance</a>
+        <a href="analyse-abonnement.html">Abonnement, télécom, salle de sport</a>
+        <a href="analyse-credit-consommation.html">Crédit à la consommation</a>
+        <a href="analyse-mandat-de-vente.html">Mandat de vente immobilier</a>
+      </div>
+      <div>
+        <p class="mono">Outils gratuits</p>
+        <a href="outils/depot-de-garantie-restitution.html">Restitution du dépôt de garantie</a>
+        <a href="outils/preavis-locataire.html">Préavis du locataire</a>
+        <a href="outils/periode-d-essai.html">Période d’essai</a>
+        <a href="outils/validite-justificatif-de-domicile.html">Validité d’un justificatif</a>
+        <a href="outils/">Tous les outils</a>
+      </div>
+      <div>
+        <p class="mono">Scansa</p>
+        <a href="tarifs.html">Tarifs et abonnements</a>
+        <a href="methode-et-sources.html" aria-current="page">Méthode et sources</a>
+        <a href="a-propos.html">À propos</a>
+        <a href="contact.html">Contact</a>
+        <a href="https://apps.apple.com/app/id6758580692" rel="noopener">Scansa sur l’App Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.zingila.leaselens" rel="noopener">Scansa sur Google Play</a>
+      </div>
+    </div>
+    <div class="wrap footer-inner">
+      <a href="./" class="logo" aria-label="Scansa · accueil">
+        <img class="logo-mark" src="logo/logo-mark.png" alt="" width="20" height="20">
+        <span>scansa</span>
+      </a>
+      <nav aria-label="Informations légales">
+        <a href="mentions-legales.html">Mentions légales</a>
+        <a href="terms.html">Conditions d’utilisation</a>
+        <a href="privacy.html">Confidentialité</a>
+      </nav>
+      <span class="copy">© 2026 Scansa · scansa.fr</span>
+    </div>
+  </footer>
+
+  <script src="nav.js" defer></script>
+</body>
+</html>

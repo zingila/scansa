@@ -1,0 +1,53 @@
+# Scansa
+
+> Scansa est une application iPhone et Android qui analyse un contrat photographié ou importé en PDF : elle repère les clauses contraires au droit français, cite l'article de loi et propose une réponse à envoyer. Le site scansa.fr publie des pages et des guides en français sur les clauses à vérifier, avec leurs références.
+
+Les pages donnent une information générale, à jour au 24 octobre 2026. Elles ne remplacent pas l'avis d'un professionnel du droit. Les textes cités se consultent sur Légifrance.
+
+## Ce que Scansa analyse
+
+- [Bail, état des lieux, courriers](https://scansa.fr/analyse-bail-location.html)
+- [Justificatif de domicile](https://scansa.fr/justificatif-de-domicile.html)
+- [Contrat de travail : essai et CDD](https://scansa.fr/analyse-contrat-de-travail.html)
+- [Tarifs : gratuit, Premium, Titanium](https://scansa.fr/tarifs.html)
+
+## Guides de lecture (contrats que Scansa n'analyse pas encore)
+
+- [Contrat d'assurance](https://scansa.fr/analyse-contrat-assurance.html)
+- [Abonnement, télécom, salle de sport](https://scansa.fr/analyse-abonnement.html)
+- [Crédit à la consommation](https://scansa.fr/analyse-credit-consommation.html)
+- [Mandat de vente immobilier](https://scansa.fr/analyse-mandat-de-vente.html)
+
+## Outils gratuits
+
+- [Restitution du dépôt de garantie](https://scansa.fr/outils/depot-de-garantie-restitution.html)
+- [Préavis du locataire](https://scansa.fr/outils/preavis-locataire.html)
+- [Période d'essai](https://scansa.fr/outils/periode-d-essai.html)
+- [Validité d'un justificatif](https://scansa.fr/outils/validite-justificatif-de-domicile.html)
+- [Tous les outils](https://scansa.fr/outils/)
+
+## Guides
+
+- [Dépôt de garantie : le maximum légal](https://scansa.fr/guides/depot-de-garantie-maximum.html): Un mois en vide, deux en meublé, aucun en bail mobilité. Délai de restitution et majoration de 10 %.
+- [Assurance habitation imposée par le bailleur](https://scansa.fr/guides/assurance-habitation-imposee-par-le-bailleur.html): Vous devez être assuré, pas chez l’assureur du bailleur. Ce qu’il peut faire sans attestation.
+- [État des lieux : qui paie quoi](https://scansa.fr/guides/frais-etat-des-lieux.html): L’entrée est plafonnée à 3,03 € par m², la sortie ne se facture pas.
+- [Colocation : la clause de solidarité](https://scansa.fr/guides/clause-de-solidarite-colocation.html): Chacun répond de tout le loyer. Après un congé, six mois au plus.
+- [Préavis du locataire : un mois ou trois](https://scansa.fr/guides/preavis-locataire-un-mois-ou-trois.html): Trois mois en vide, un mois en meublé et dans six cas prévus par la loi.
+- [Congé donné par le bailleur](https://scansa.fr/guides/conge-du-bailleur.html): Reprise, vente ou motif sérieux, six mois avant la fin du bail. Les points à vérifier dans la lettre.
+- [Quittance de loyer : gratuite et sur demande](https://scansa.fr/guides/quittance-de-loyer.html): Gratuite, sur demande, loyer et charges distingués. Aucun frais d’envoi ni de relance.
+- [Résiliation en ligne : ce que la loi impose](https://scansa.fr/guides/resiliation-en-trois-clics.html): Ce qui se souscrit en ligne se résilie en ligne, gratuitement. Le parcours, ses limites, le message à envoyer.
+- [Clauses abusives : liste noire et liste grise](https://scansa.fr/guides/clauses-abusives-liste-noire-liste-grise.html): Douze clauses toujours interdites, dix présumées abusives : les deux listes en clair, et comment s’en servir.
+- [Bail mobilité : qui peut le signer, ce qu'il interdit](https://scansa.fr/guides/bail-mobilite.html): Motif, durée d’un à dix mois, aucun dépôt de garantie, un mois de préavis.
+- [Bail commercial : durée, congé, renouvellement](https://scansa.fr/guides/bail-commercial-clauses.html): Neuf ans, congé triennal, renouvellement, clause résolutoire.
+- [Location saisonnière : le contrat et ses règles](https://scansa.fr/guides/location-saisonniere-contrat.html): Contrat écrit, prix, état descriptif, quatre-vingt-dix jours au plus.
+- [Clause de non-concurrence : les quatre conditions](https://scansa.fr/guides/clause-de-non-concurrence.html): Quatre conditions cumulatives, dont une contrepartie financière versée après la rupture.
+- [Période d'essai : durées maximales et rupture](https://scansa.fr/guides/periode-d-essai-duree-maximale.html): Deux, trois ou quatre mois selon la catégorie. Un seul renouvellement, et rien sans mention écrite.
+- [Clause de mobilité : ce que le contrat peut prévoir](https://scansa.fr/guides/clause-de-mobilite.html): Zone géographique précise, pas d’extension par l’employeur seul, pas de mutation dans une autre société.
+
+## À propos
+
+- [Méthode et sources](https://scansa.fr/methode-et-sources.html): origine des règles citées, niveaux d'alerte, limites
+- [À propos](https://scansa.fr/a-propos.html): ce que fait Scansa et qui l'édite
+- [Contact](https://scansa.fr/contact.html)
+- [App Store](https://apps.apple.com/app/id6758580692)
+- [Google Play](https://play.google.com/store/apps/details?id=com.zingila.leaselens)
