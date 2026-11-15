@@ -305,6 +305,12 @@ h1, h2, h3, h4 { font-family: var(--display); letter-spacing: -0.035em; font-wei
 .legal-back { display: inline-flex; gap: 8px; margin-top: 64px; font-weight: 600; font-size: 15px; color: var(--text); }
 .legal-back:hover { color: var(--red); }
 
+/* reset-password.html : bouton de retour vers l'application mobile
+   (.btn-red est prévu pour un conteneur flex, d'où ce bloc dédié) */
+.reset-actions { display: flex; margin: 26px 0 20px; }
+.legal-body .reset-actions .btn-red { display: inline-block; color: #fff; text-decoration: none; }
+.legal-body .reset-actions .btn-red:hover { color: #fff; background: var(--red-bright); }
+
 /* ---------- CONTACT ---------- */
 .contact-page .wrap { max-width: 1180px; }
 .contact-grid { display: grid; grid-template-columns: 1fr 1.05fr; gap: 70px; align-items: start; }
