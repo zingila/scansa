@@ -300,6 +300,8 @@ h1, h2, h3, h4 { font-family: var(--display); letter-spacing: -0.035em; font-wei
 .legal-body strong { color: var(--text); font-weight: 600; }
 .legal-body a { color: var(--red); text-decoration: underline; text-underline-offset: 3px; }
 .legal-body a:hover { color: var(--red-bright); }
+.legal-refus { display: inline; padding: 0; border: 0; background: none; font: inherit; color: var(--red); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.legal-refus:hover { color: var(--red-bright); }
 .notice { background: var(--card); border-left: 2px solid var(--red); border-radius: 0 12px 12px 0; padding: 20px 24px; margin-bottom: 18px; box-shadow: var(--shadow); }
 .notice p { font-size: 16px; line-height: 1.65; }
 .legal-back { display: inline-flex; gap: 8px; margin-top: 64px; font-weight: 600; font-size: 15px; color: var(--text); }
