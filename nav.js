@@ -29,6 +29,9 @@
 // ce navigateur ; seul le chemin de la page est envoyé, jamais l'adresse complète.
 // scansa.fr/?moi=1 marque nos propres visites (écartées des chiffres), ?moi=0 enlève la marque.
 (function () {
+  // reset-password.html reçoit les jetons du compte dans son adresse : aucune mesure et
+  // aucun appel réseau depuis cette page (exigence du rebond « mot de passe oublié »).
+  if (/\/reset-password(\.html)?$/.test(location.pathname)) return;
   const BALISE = 'https://script.google.com/macros/s/AKfycbx2CTvZokK9jXLR8ccCe_BsI8ZVlyaccjme99NYhHWNr2a76nimuZ14RoUfppiWPye97A/exec';
   let ls;
   try { ls = window.localStorage; ls.setItem('scansa_test', '1'); ls.removeItem('scansa_test'); } catch (e) { return; }
