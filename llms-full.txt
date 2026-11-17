@@ -58,7 +58,7 @@ Le logement est situé en zone tendue : le locataire qui donne congé bénéfici
 Que faire : indiquer un préavis d’un mois pour le locataire.
 Loi 89-462 art. 15
 À corriger Frais d’état des lieux de sortie à la charge du locataire
-Cette clause est réputée non écrite, sauf quand l’état des lieux est établi par un commissaire de justice dans le cas prévu par la loi.
+Cette clause est réputée non écrite, sauf quand l’état des lieux est établi par un professionnel habilité dans le cas prévu par la loi.
 Que faire : retirer la clause : l’état des lieux de sortie fait à l’amiable ne se facture pas au locataire.
 Loi 89-462 art. 3-2 et 4 k
 À corriger Pénalité de 10 % par retard de paiement
@@ -102,7 +102,7 @@ Décret 2016-382 · art. 2
 Congé, préavis, mise en demeure
 Durée du préavis, motif, forme de l’envoi, délais à respecter.
 Loi 89-462 · art. 15
-Acte de commissaire de justice reçu
+Acte extrajudiciaire reçu
 Type d’acte, mentions, délais pour agir et que faire. Seul un juge peut annuler un acte.
 Code de procédure civile · CPCE
 Contrat de travail
@@ -177,7 +177,7 @@ Scansa ne prend le parti de personne : le rapport est le même que vous soyez lo
 Aux locataires qui veulent relire un bail, un état des lieux ou un courrier avant de répondre, et aux propriétaires qui veulent un bail et un dossier en règle avant de les envoyer. Un salarié peut aussi faire vérifier la période d’essai ou les mentions de son CDD.
 Une version pour les professionnels de l’immobilier est en préparation.
 Quels documents Scansa analyse-t-il ?
-Le bail d’habitation vide ou meublé, le bail mobilité , le bail commercial , la location saisonnière et la location d’une résidence secondaire. Autour du bail : l’état des lieux, le congé, le préavis, la mise en demeure et les actes de commissaire de justice reçus. Hors du logement : la période d’essai et le CDD dans le contrat de travail .
+Le bail d’habitation vide ou meublé, le bail mobilité , le bail commercial , la location saisonnière et la location d’une résidence secondaire. Autour du bail : l’état des lieux, le congé, le préavis, la mise en demeure et les actes extrajudiciaires reçus. Hors du logement : la période d’essai et le CDD dans le contrat de travail .
 Scansa contrôle aussi les justificatifs de domicile : la nature du document, sa date et l’adresse.
 Les contrats d’assurance, de crédit, d’abonnement et les mandats de vente ne sont pas analysés : le site propose pour eux des guides de lecture. La liste complète est sur la page Ce que Scansa vérifie .
 Sur quels textes s’appuie l’analyse ?
@@ -190,7 +190,7 @@ Une clause réputée non écrite annule-t-elle le contrat ?
 Non. Une clause réputée non écrite est simplement écartée : on fait comme si elle n’avait jamais figuré dans le contrat, et le reste continue de s’appliquer. C’est la règle de l’article 4 de la loi du 6 juillet 1989 pour le bail d’habitation. La clause n’a pas à être appliquée, même après la signature.
 Le contrat est déjà signé : est-ce trop tard ?
 Non. Une clause réputée non écrite n’a pas plus de valeur après la signature qu’avant. Scansa sert donc aussi à relire un bail en cours, par exemple avant un congé, une révision de loyer ou la restitution du dépôt de garantie, pour que chaque partie sache ce que la règle prévoit.
-J’ai reçu un acte de commissaire de justice : que fait Scansa ?
+J’ai reçu un acte extrajudiciaire : que fait Scansa ?
 Scansa identifie le type d’acte, vérifie les mentions qu’il doit porter, calcule les délais pour agir et indique que faire. Une mention absente ne rend pas l’acte nul à elle seule : seul un juge peut l’annuler.
 Scansa ne rédige aucun acte. Pour contester ou répondre, adressez-vous à un avocat ou à un professionnel habilité. Le guide Acte reçu : les délais résume l’essentiel.
 Combien coûte Scansa ?
@@ -263,7 +263,7 @@ Scansa est un outil d’assistance numérique et d’analyse propulsé par l’i
 Scansa fournit une analyse à titre informatif et documentaire uniquement. Scansa n’est pas un cabinet d’avocats et ne délivre en aucun cas un conseil juridique ou légal officiel.
 Les relevés générés par l’IA (clauses illégales, conformité, score de risque) peuvent comporter des erreurs d’interprétation ou des imprécisions ("hallucinations" inhérentes aux LLMs).
 L’utilisateur ne doit pas prendre de décisions contraignantes sur le seul fondement de ces rapports.
-Pour tout litige opposant un locataire à son bailleur, il est impératif de consulter un professionnel du droit qualifié (Avocat au barreau, juriste, commissaire de justice).
+Pour tout litige opposant un locataire à son bailleur, il est impératif de consulter un professionnel du droit qualifié (avocat, juriste ou autre professionnel du droit habilité).
 03 Fonctionnement des abonnements & crédits
 Certaines fonctionnalités d’analyse sont restreintes et peuvent requérir un abonnement mensuel ou annuel (Premium, Titanium) via achat "In-App" fourni par les boutiques d’applications Apple ou Google.
 Un quota gratuit (ex. 5 pages) est mis à disposition des utilisateurs sans obligation d’achat.
@@ -388,7 +388,7 @@ Réputée non écrite
 L’état des lieux de sortie facturé au locataire
 « Les frais d’établissement de l’état des lieux de sortie, soit 150 €, sont à la charge du locataire. »
 L’état des lieux se fait à l’amiable, entre vous et le bailleur ou la personne qu’il mandate. Celui de sortie ne peut pas vous être facturé.
-Une seule exception : quand il ne peut pas être établi à l’amiable, un commissaire de justice s’en charge à la demande de l’un ou de l’autre, et son coût est partagé par moitié.
+Une seule exception : quand il ne peut pas être établi à l’amiable, un professionnel habilité s’en charge à la demande de l’un ou de l’autre, et son coût est partagé par moitié.
 Loi du 6 juillet 1989, art. 3-2 et 4 k
 Ce que vous pouvez répondre
 L’article 4 k de la loi du 6 juillet 1989 répute non écrite la clause qui met l’état des lieux de sortie à la charge du locataire. Je vous demande de retirer ces frais.
@@ -409,7 +409,7 @@ Loi du 6 juillet 1989, art. 4 e, f et q, art. 7 c et d
 Légal, à connaître
 La clause résolutoire
 « À défaut de paiement d’un seul terme de loyer à son échéance, le bail est résilié de plein droit. »
-Cette clause est légale, et la loi prévoit qu’elle figure dans tout bail pour le non-paiement du loyer, des charges ou du dépôt de garantie. Elle ne joue pas seule : il faut un commandement de payer délivré par un commissaire de justice, resté sans effet pendant six semaines.
+Cette clause est légale, et la loi prévoit qu’elle figure dans tout bail pour le non-paiement du loyer, des charges ou du dépôt de garantie. Elle ne joue pas seule : il faut un commandement de payer délivré par acte extrajudiciaire, resté sans effet pendant six semaines.
 La résiliation de plein droit n’est admise que pour les motifs énumérés par la loi, dont le non-paiement du loyer, des charges ou du dépôt de garantie, le défaut d’assurance et les troubles de voisinage constatés par une décision de justice. Pour tout autre motif, la clause est réputée non écrite et le bailleur doit s’adresser au juge.
 Loi du 6 juillet 1989, art. 4 g et 24
 Légal, à connaître
@@ -457,7 +457,7 @@ Gratuite, remise sur demande, elle distingue le loyer et les charges. Ce que le 
 05 Impayés : mise en demeure et commandement de payer
 Deux courriers reviennent souvent, et ils n’ont pas la même portée.
 La mise en demeure est une lettre. Elle réclame un loyer, une attestation d’assurance, une réparation. Elle ne résilie rien. Pour l’assurance, elle ouvre un délai d’un mois au terme duquel le bailleur peut assurer le logement à votre place et vous en refacturer la prime.
-Le commandement de payer est un acte délivré par un commissaire de justice. C’est lui qui fait courir le délai de la clause résolutoire : six semaines pour régler. Ce délai était de deux mois avant la loi du 27 juillet 2023, et beaucoup de baux signés avant cette date le mentionnent encore. Une lettre, même recommandée, ne le remplace pas.
+Le commandement de payer est un acte extrajudiciaire. C’est lui qui fait courir le délai de la clause résolutoire : six semaines pour régler. Ce délai était de deux mois avant la loi du 27 juillet 2023, et beaucoup de baux signés avant cette date le mentionnent encore. Une lettre, même recommandée, ne le remplace pas.
 Le juge peut accorder des délais de paiement, jusqu’à trois ans, au locataire en mesure de régler sa dette et qui a repris le paiement intégral du loyer courant avant l’audience (article 24).
 La trêve hivernale, du 1er novembre au 31 mars, suspend l’exécution d’une expulsion. Elle n’efface pas la dette. Elle ne joue pas quand le relogement de l’occupant est assuré, ni pour ceux qui sont entrés dans les lieux par manœuvres, menaces, voies de fait ou contrainte (code des procédures civiles d’exécution, article L. 412-6).
 Scansa lit aussi ces courriers : importez celui que vous avez reçu, l’analyse signale ce qui s’écarte de la loi, article à l’appui.
@@ -494,7 +494,7 @@ Un mois à compter de la remise des clés quand l’état des lieux de sortie es
 Le bailleur peut-il m’imposer son assurance habitation ?
 Non. Vous devez être assuré contre les risques locatifs, auprès de la compagnie de votre choix. La clause qui désigne un assureur est réputée non écrite par l’article 4 b de la loi du 6 juillet 1989.
 L’agence peut-elle me facturer l’état des lieux de sortie ?
-Non. Seul l’état des lieux d’entrée peut donner lieu à des honoraires à la charge du locataire, plafonnés à 3,03 € par mètre carré en 2026. À la sortie, la seule dépense partagée est celle d’un commissaire de justice, quand l’état des lieux n’a pas pu être établi à l’amiable.
+Non. Seul l’état des lieux d’entrée peut donner lieu à des honoraires à la charge du locataire, plafonnés à 3,03 € par mètre carré en 2026. À la sortie, la seule dépense partagée est celle d’un professionnel habilité, quand l’état des lieux n’a pas pu être établi à l’amiable.
 Un bail déjà signé peut-il encore être contesté ?
 Oui. Une clause réputée non écrite le reste après la signature. Pour réclamer une somme versée à tort, vous disposez de trois ans à compter du jour où vous avez connu les faits (article 7-1 de la loi du 6 juillet 1989).
 Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
@@ -612,12 +612,12 @@ URL : https://scansa.fr/guides/frais-etat-des-lieux.html
 Accueil / Guides / État des lieux : qui paie quoi
 Guide · Location
 Frais d’état des lieux : qui paie, à l’entrée et à la sortie ?
-À l’entrée, l’agence peut facturer au locataire une part plafonnée. À la sortie, rien ne peut être mis à sa charge, sauf le recours partagé à un commissaire de justice.
+À l’entrée, l’agence peut facturer au locataire une part plafonnée. À la sortie, rien ne peut être mis à sa charge, sauf le recours partagé à un professionnel habilité.
 Mis à jour le 17 novembre 2026
 L’essentiel
 À l’entrée : des honoraires d’agence plafonnés à 3,03 € par m² en 2026, et jamais plus que la part du bailleur.
 À la sortie : rien ne peut être facturé au locataire (article 4 k).
-Commissaire de justice : coût partagé par moitié, seulement quand l’état des lieux amiable est impossible.
+Professionnel habilité : coût partagé par moitié, seulement quand l’état des lieux amiable est impossible.
 Vous avez dix jours pour faire compléter l’état des lieux d’entrée.
 01 À l’entrée dans le logement
 Entre un bailleur et un locataire qui s’en chargent eux-mêmes, l’état des lieux ne coûte rien. Quand une agence l’établit, ses honoraires sont partagés entre les deux parties. La part du locataire ne peut pas dépasser celle du bailleur, ni un plafond fixé par mètre carré de surface habitable : 3,03 € en 2026.
@@ -627,12 +627,12 @@ Réputée non écrite
 L’état des lieux de sortie facturé au locataire
 « Les frais d’établissement de l’état des lieux de sortie, soit 150 €, sont à la charge du locataire. »
 L’état des lieux se fait à l’amiable, entre vous et le bailleur ou la personne qu’il mandate. Celui de sortie ne peut pas vous être facturé.
-Une seule exception : quand il ne peut pas être établi à l’amiable, un commissaire de justice s’en charge à la demande de l’un ou de l’autre, et son coût est partagé par moitié.
+Une seule exception : quand il ne peut pas être établi à l’amiable, un professionnel habilité s’en charge à la demande de l’un ou de l’autre, et son coût est partagé par moitié.
 Loi du 6 juillet 1989, art. 3-2 et 4 k
 Ce que vous pouvez répondre
 L’article 4 k de la loi du 6 juillet 1989 répute non écrite la clause qui met l’état des lieux de sortie à la charge du locataire. Je vous demande de retirer ces frais.
-03 Quand un commissaire de justice intervient
-L’état des lieux est d’abord une affaire amiable : il est établi contradictoirement par les parties, ou par un tiers qu’elles mandatent. S’il ne peut pas l’être (l’une des parties ne vient pas, ou le désaccord est complet), la plus diligente fait appel à un commissaire de justice. Celui-ci avise les deux parties au moins sept jours à l’avance, par lettre recommandée avec avis de réception, et son coût est partagé par moitié.
+03 Quand un professionnel habilité intervient
+L’état des lieux est d’abord une affaire amiable : il est établi contradictoirement par les parties, ou par un tiers qu’elles mandatent. S’il ne peut pas l’être (l’une des parties ne vient pas, ou le désaccord est complet), la plus diligente fait appel à un professionnel habilité. Celui-ci avise les deux parties au moins sept jours à l’avance, par lettre recommandée avec avis de réception, et son coût est partagé par moitié.
 Le partage ne vaut que dans ce cas. Un constat commandé par confort, alors qu’un état des lieux amiable était possible, ne peut pas vous être facturé.
 04 Vos dix jours, et l’absence d’état des lieux
 L’état des lieux est établi en autant d’exemplaires que de parties, à la remise des clés puis à leur restitution. Après la signature de celui d’entrée, vous disposez de dix jours pour demander au bailleur de le compléter. Pour le chauffage, la demande peut être faite pendant le premier mois de la période de chauffe.
@@ -644,7 +644,7 @@ Dépôt de garantie : le maximum légal Guide
 Quittance de loyer : gratuite et sur demande Guide
 ? Questions fréquentes
 L’agence peut-elle facturer l’état des lieux de sortie ?
-Non. L’article 4 k de la loi du 6 juillet 1989 répute non écrite la clause qui le met à la charge du locataire. Seul le recours à un commissaire de justice, quand l’état des lieux amiable est impossible, est partagé par moitié.
+Non. L’article 4 k de la loi du 6 juillet 1989 répute non écrite la clause qui le met à la charge du locataire. Seul le recours à un professionnel habilité, quand l’état des lieux amiable est impossible, est partagé par moitié.
 Combien coûte au maximum l’état des lieux d’entrée ?
 Quand une agence l’établit, la part du locataire est plafonnée à 3,03 € par mètre carré de surface habitable en 2026, et elle ne peut pas dépasser celle du bailleur.
 Que se passe-t-il s’il n’y a pas eu d’état des lieux d’entrée ?
@@ -679,7 +679,7 @@ La solidarité entre colocataires
 La clause est légale : le bailleur peut réclamer la totalité du loyer à n’importe lequel des colocataires.
 Ce qu’il faut connaître, c’est sa fin. Quand un colocataire donne congé, sa solidarité et celle de la personne qui s’est portée caution pour lui cessent à la date d’effet du congé si un nouveau colocataire figure au bail. À défaut de remplaçant, elles s’éteignent au plus tard six mois après cette date.
 Loi du 6 juillet 1989, art. 8-1
-Deux conditions donc : un congé régulier (lettre recommandée avec avis de réception, acte de commissaire de justice ou remise en main propre contre récépissé), puis l’arrivée d’un remplaçant ou l’écoulement des six mois. Pendant le préavis, vous êtes encore locataire.
+Deux conditions donc : un congé régulier (lettre recommandée avec avis de réception, acte extrajudiciaire ou remise en main propre contre récépissé), puis l’arrivée d’un remplaçant ou l’écoulement des six mois. Pendant le préavis, vous êtes encore locataire.
 L’acte de caution doit désigner le colocataire dont le départ met fin à l’engagement, à peine de nullité.
 03 Avant de signer
 Regardez s’il y a un bail unique, signé par tous, ou un contrat par colocataire. Dans le second cas, il n’y a généralement pas de solidarité sur le loyer des autres.
@@ -728,8 +728,8 @@ Ce que vous pouvez écrire
 Je vous donne congé du logement situé [adresse]. Je bénéficie du préavis d’un mois prévu par l’article 15 de la loi du 6 juillet 1989, pour le motif suivant : [zone tendue, mutation, perte d’emploi…]. Le justificatif est joint. Le bail prendra fin un mois après la réception de cette lettre.
 Un bail qui annonce trois mois « dans tous les cas » ne vous prive pas du préavis d’un mois : la loi de 1989 est d’ordre public, et le contrat ne peut pas y déroger à votre détriment.
 03 Comment donner congé, et quand le délai commence
-Trois formes sont admises : la lettre recommandée avec avis de réception, l’acte de commissaire de justice, la remise en main propre contre récépissé ou émargement. Un e-mail ou un SMS ne suffit pas.
-Le délai court à compter du jour de la réception de la lettre, de la signification de l’acte ou de la remise en main propre. Une lettre recommandée que le bailleur ne va pas chercher ne fait donc pas courir le délai : si la date compte, la remise en main propre contre récépissé ou l’acte de commissaire de justice sont plus sûrs.
+Trois formes sont admises : la lettre recommandée avec avis de réception, l’acte extrajudiciaire, la remise en main propre contre récépissé ou émargement. Un e-mail ou un SMS ne suffit pas.
+Le délai court à compter du jour de la réception de la lettre, de la signification de l’acte ou de la remise en main propre. Une lettre recommandée que le bailleur ne va pas chercher ne fait donc pas courir le délai : si la date compte, la remise en main propre contre récépissé ou l’acte extrajudiciaire sont plus sûrs.
 04 Ce que vous payez pendant le préavis
 Quand c’est vous qui donnez congé, le loyer et les charges sont dus pendant tout le préavis, même si vous partez avant. Une exception : si un nouveau locataire entre dans le logement avant la fin du préavis, en accord avec le bailleur, vous cessez de payer à son arrivée.
 → À lire aussi
@@ -740,7 +740,7 @@ Dépôt de garantie : le maximum légal Guide
 Comment savoir si ma commune est en zone tendue ?
 La liste des communes est fixée par décret ; elle a été refondue par un décret du 22 décembre 2025. Le site service-public.fr propose un simulateur qui répond commune par commune.
 Puis-je envoyer mon congé par e-mail ?
-Non. Le congé se donne par lettre recommandée avec avis de réception, par acte de commissaire de justice ou par remise en main propre contre récépissé ou émargement.
+Non. Le congé se donne par lettre recommandée avec avis de réception, par acte extrajudiciaire ou par remise en main propre contre récépissé ou émargement.
 À partir de quand court le préavis ?
 À partir du jour où le bailleur reçoit la lettre recommandée, où l’acte lui est signifié ou où la lettre lui est remise en main propre. La date d’envoi ne compte pas.
 Dois-je payer tout le préavis si je pars plus tôt ?
@@ -764,7 +764,7 @@ En location vide, la lettre doit arriver six mois avant ; en meublé, trois mois
 Trois motifs seulement : reprendre le logement pour y habiter, le vendre, ou un motif légitime et sérieux.
 Un congé frauduleux expose le bailleur à une amende pouvant atteindre 6 000 €, ou 30 000 € pour une société.
 01 Quand et comment
-Le congé du bailleur vaut pour l’échéance du bail, jamais en cours de route. Il prend la forme d’une lettre recommandée avec avis de réception, d’un acte de commissaire de justice ou d’une remise en main propre contre récépissé ou émargement, et le délai court à sa réception : six mois avant la fin du bail en location vide, trois mois en meublé.
+Le congé du bailleur vaut pour l’échéance du bail, jamais en cours de route. Il prend la forme d’une lettre recommandée avec avis de réception, d’un acte extrajudiciaire ou d’une remise en main propre contre récépissé ou émargement, et le délai court à sa réception : six mois avant la fin du bail en location vide, trois mois en meublé.
 Quand il est donné pour reprendre ou pour vendre, une notice d’information sur les obligations du bailleur et les recours du locataire doit y être jointe (arrêté du 13 décembre 2017).
 02 Les trois motifs admis
 Reprendre le logement pour y habiter
@@ -1003,7 +1003,7 @@ Un récapitulatif. Avant de valider, une page reprend vos informations et vous l
 Un parcours qui impose d’abord un appel téléphonique ou un échange avec un conseiller s’accorde mal avec l’accès direct et facile exigé par le décret (code de la consommation, art. D. 215-1 à D. 215-3).
 03 Les assurances aussi
 Le code des assurances contient la même obligation pour les contrats qui couvrent un particulier en dehors de son activité professionnelle. S’ils ont été conclus en ligne, ou si l’assureur propose la souscription en ligne le jour de la résiliation, celle-ci doit pouvoir se faire en ligne, gratuitement. Le formulaire demande en plus le risque couvert et le motif de la résiliation.
-Plus largement, c’est l’assuré qui choisit la façon de notifier sa résiliation : lettre ou tout autre support durable, déclaration au siège ou chez le représentant de l’assureur, acte de commissaire de justice, ou le même mode de communication à distance que celui utilisé pour souscrire. L’assureur confirme la réception par écrit (code des assurances, art. L. 113-14 et D. 113-7). Les délais de résiliation d’une assurance sont sur la page consacrée à ce contrat.
+Plus largement, c’est l’assuré qui choisit la façon de notifier sa résiliation : lettre ou tout autre support durable, déclaration au siège ou chez le représentant de l’assureur, acte extrajudiciaire, ou le même mode de communication à distance que celui utilisé pour souscrire. L’assureur confirme la réception par écrit (code des assurances, art. L. 113-14 et D. 113-7). Les délais de résiliation d’une assurance sont sur la page consacrée à ce contrat.
 04 Ce que la règle ne change pas
 La période d’engagement. Si vous vous êtes engagé pour douze mois, le bouton ne vous libère pas plus tôt. Le professionnel peut d’ailleurs rappeler dans le parcours l’existence d’un préavis ou d’une indemnité de rupture.
 Le préavis. La date de fin que vous indiquez s’applique sous réserve de la loi et du contrat.
@@ -1186,7 +1186,7 @@ Après un an, à tout moment
 Quatre familles de contrats se résilient sans attendre l’échéance, une fois la première année écoulée : l’assurance automobile, l’assurance habitation, la complémentaire santé et les assurances vendues en complément d’un bien ou d’un service (téléphone, voyage, électroménager). La résiliation est gratuite et prend effet un mois après que l’assureur en a reçu la notification. Il vous rembourse sous trente jours la part de prime déjà payée pour la période qui suit.
 Pour l’assurance automobile, l’assurance habitation du locataire et la complémentaire santé, vous n’avez rien à envoyer à l’ancien assureur : le nouveau s’occupe des formalités et veille à ce que vous restiez couvert pendant le changement. Une exception : le salarié couvert par la complémentaire santé obligatoire de son entreprise ne peut pas la résilier lui-même. Ce droit appartient au souscripteur du contrat, c’est-à-dire à l’employeur.
 À l’échéance annuelle
-Pour les autres contrats, la résiliation se fait à l’échéance : notifiez-la au moins deux mois avant. Vous choisissez la forme (lettre ou autre support durable, déclaration au siège ou chez le représentant de l’assureur, acte de commissaire de justice, ou le moyen à distance par lequel vous avez souscrit) et l’assureur confirme la réception par écrit.
+Pour les autres contrats, la résiliation se fait à l’échéance : notifiez-la au moins deux mois avant. Vous choisissez la forme (lettre ou autre support durable, déclaration au siège ou chez le représentant de l’assureur, acte extrajudiciaire, ou le moyen à distance par lequel vous avez souscrit) et l’assureur confirme la réception par écrit.
 En ligne
 Un contrat souscrit en ligne se résilie en ligne, gratuitement. Le parcours imposé à l’assureur est décrit dans notre guide .
 05 Revenir sur un contrat que l’on vient de signer
@@ -1552,7 +1552,7 @@ Loi du 6 juillet 1989, art. 25-13
 Ce que vous pouvez répondre
 Le bail mobilité ne permet pas de demander un dépôt de garantie (article 25-13 de la loi du 6 juillet 1989). Je vous remercie de retirer cette clause, ou de me restituer la somme versée.
 03 Partir, et à la fin du bail
-Le locataire peut résilier à tout moment, avec un préavis d’un mois, par lettre recommandée avec accusé de réception, par acte de commissaire de justice ou par remise en main propre contre récépissé.
+Le locataire peut résilier à tout moment, avec un préavis d’un mois, par lettre recommandée avec accusé de réception, par acte extrajudiciaire ou par remise en main propre contre récépissé.
 Le bailleur, lui, ne peut pas donner congé avant le terme. À l’échéance, le bail prend fin sans qu’il ait à envoyer de congé. Si le locataire reste et que le bailleur ne s’y oppose pas, un nouveau bail meublé classique peut naître : le mieux est de signer un nouveau contrat.
 → À lire aussi
 Analyse de bail de location Contrat
@@ -1564,7 +1564,7 @@ Non. Il n’est ni renouvelable ni reconductible. Sa durée peut être modifiée
 Le bailleur peut-il demander un dépôt de garantie ?
 Non, c’est interdit (article 25-13). Il peut demander une caution, ou accepter la garantie Visale.
 Quel préavis pour quitter un bail mobilité ?
-Un mois, à tout moment, par lettre recommandée, acte de commissaire de justice ou remise en main propre contre récépissé.
+Un mois, à tout moment, par lettre recommandée, acte extrajudiciaire ou remise en main propre contre récépissé.
 Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
@@ -1584,7 +1584,7 @@ Des exceptions existent : bail de plus de neuf ans, locaux monovalents, bureaux,
 À l’échéance, le locataire a droit au renouvellement. Le bailleur qui refuse doit en principe une indemnité d’éviction.
 La clause résolutoire ne joue qu’un mois après un commandement resté sans effet, qui doit rappeler ce délai.
 01 La durée et le congé du locataire
-Le bail commercial est conclu pour neuf ans au moins (code de commerce, art. L. 145-4). Le locataire peut donner congé à l’expiration de chaque période triennale, au moins six mois à l’avance, par lettre recommandée avec accusé de réception ou par acte de commissaire de justice.
+Le bail commercial est conclu pour neuf ans au moins (code de commerce, art. L. 145-4). Le locataire peut donner congé à l’expiration de chaque période triennale, au moins six mois à l’avance, par lettre recommandée avec accusé de réception ou par acte extrajudiciaire.
 Le contrat peut supprimer cette faculté dans quatre cas seulement : un bail de plus de neuf ans, des locaux construits pour une seule utilisation, des locaux à usage exclusif de bureaux, des locaux de stockage. Ailleurs, la clause qui l’écarte ne vaut rien.
 Réputée non écrite
 Une clause qui interdit le congé triennal pour une boutique
@@ -1793,7 +1793,7 @@ Le terme est courant, mais le droit parle de communes figurant sur cette liste. 
 02 Le préavis d’un mois
 Hors zone tendue, le préavis d’un locataire en location vide est de trois mois. En zone tendue, il est d’un mois (article 15). En meublé, il est d’un mois partout, sans condition de zone.
 Pour le préavis d’un mois en zone tendue, le service-public.fr indique que la lettre de congé doit préciser l’adresse du logement et que le locataire bénéficie d’un « délai de préavis réduit à un mois ». À défaut, le préavis de trois mois s’applique.
-Le congé est envoyé par lettre recommandée avec avis de réception, signifié par un commissaire de justice ou remis en main propre contre signature ou récépissé. Un courriel ne suffit pas.
+Le congé est envoyé par lettre recommandée avec avis de réception, signifié par acte extrajudiciaire ou remis en main propre contre signature ou récépissé. Un courriel ne suffit pas.
 Par lettre recommandée, le préavis court à compter de la réception.
 03 L’évolution du loyer à la relocation et au renouvellement
 En zone tendue, quand un logement est reloué ou qu’un bail est renouvelé, le loyer ne peut pas dépasser le dernier loyer, sauf une hausse limitée à la variation de l’indice de référence des loyers, avec des exceptions prévues par la loi : un loyer précédent manifestement sous-évalué, ou des travaux d’amélioration. Ce plafond est fixé par un décret annuel pris au titre de l’article 18.
@@ -2237,7 +2237,7 @@ Le délai court à partir du jour où le bailleur reçoit la lettre, pas du jour
 01 Le calcul
 Le calcul se fait dans votre navigateur : rien de ce que vous saisissez n’est envoyé ni enregistré.
 02 Envoyer le congé
-Trois façons sont valables : lettre recommandée avec accusé de réception, acte de commissaire de justice, remise en main propre contre récépissé ou émargement. Le loyer reste dû jusqu’à la fin du préavis, sauf si un nouveau locataire entre plus tôt avec l’accord du bailleur.
+Trois façons sont valables : lettre recommandée avec accusé de réception, acte extrajudiciaire, remise en main propre contre récépissé ou émargement. Le loyer reste dû jusqu’à la fin du préavis, sauf si un nouveau locataire entre plus tôt avec l’accord du bailleur.
 → À lire aussi
 Préavis du locataire : un mois ou trois Guide
 Analyse de bail de location Contrat
@@ -2390,7 +2390,7 @@ Bail mobilité Location
 Bail commercial Location
 Location saisonnière Location
 Contrat de travail : période d’essai et CDD Travail
-Acte de commissaire de justice reçu Location
+Acte extrajudiciaire reçu Location
 Justificatif de domicile Document
 Tout ce que Scansa vérifie, et ce qu’il ne juge pas Synthèse
 Les contrats d’assurance, de crédit, d’abonnement et les mandats de vente ne sont pas encore analysés. Le site propose pour eux des guides de lecture, et des outils de calcul gratuits pour les questions qui reviennent le plus.
@@ -2744,7 +2744,7 @@ Obtenir sur Google Play
 Logement Travail Justificatifs Non analysés Limites Questions fréquentes
 Mis à jour le 17 novembre 2026
 L’essentiel
-Scansa lit neuf familles de documents : huit pour le logement, dont l’acte de commissaire de justice reçu, et le contrat de travail. S’y ajoutent les justificatifs de domicile.
+Scansa lit neuf familles de documents : huit pour le logement, dont l’acte extrajudiciaire reçu, et le contrat de travail. S’y ajoutent les justificatifs de domicile.
 Chaque point est comparé à une base de 932 articles tirés de 18 textes, relevés le 25 octobre 2026. Le modèle indique la règle en cause, le programme en déduit l’article : aucun numéro n’est écrit au hasard.
 Le rapport classe chaque point conforme, à vérifier ou à corriger. Il ne déclare jamais un document entier conforme.
 Assurance, crédit, abonnement et mandat de vente ne sont pas analysés : le site propose seulement des guides de lecture.
@@ -2788,7 +2788,7 @@ Ce que Scansa vérifie : la forme de l’envoi, la date, les parties, la durée 
 Ce qu’il ne juge pas : la réalité du motif invoqué, et la date de réception du courrier lorsqu’elle n’y figure pas.
 Loi 89-462 · art. 15
 Le guide du préavis
-Acte de commissaire de justice reçu
+Acte extrajudiciaire reçu
 Ce que Scansa vérifie : le type d’acte, les mentions que la loi exige à peine de nullité, et les délais qui en découlent, calculés à partir de la date de l’acte. Le rapport dit ce qu’il est utile de faire et dans quel délai.
 Ce qu’il ne juge pas : la validité de l’acte. Une mention absente ne l’annule pas : seul un juge peut le faire. Les baux ruraux et les logements soumis à la loi de 1948 ne sont pas couverts. Scansa ne rédige jamais d’acte : c’est le rôle d’un professionnel habilité.
 Code de procédure civile · Code des procédures civiles d’exécution
@@ -2830,7 +2830,7 @@ Scansa vérifie-t-il un contrat d’assurance ou de crédit ?
 Pas encore. L’assurance, le crédit à la consommation, les abonnements et le mandat de vente ne sont pas analysés. Le site propose des guides de lecture pour ces contrats.
 Que se passe-t-il si j’envoie un document que Scansa ne connaît pas ?
 Il est refusé. Il n’est pas enregistré et ne compte pas dans vos analyses.
-Scansa peut-il me dire si un acte de commissaire de justice est nul ?
+Scansa peut-il me dire si un acte extrajudiciaire est nul ?
 Non. Scansa indique si les mentions exigées sont présentes et calcule vos délais. Une mention absente ne suffit pas à annuler un acte : seul un juge peut le faire.
 Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
@@ -2851,7 +2851,7 @@ Mis à jour le 17 novembre 2026
 L’essentiel
 Avant de signer, Scansa relit le bail clause par clause et indique, pour chacune, l’article qui la régit.
 À l’entrée et à la sortie, il vérifie que l’état des lieux porte les mentions obligatoires.
-Pendant la location, il relit un congé, une mise en demeure ou un acte de commissaire de justice, et calcule vos délais.
+Pendant la location, il relit un congé, une mise en demeure ou un acte extrajudiciaire, et calcule vos délais.
 Pour votre dossier, il dit si chaque justificatif de domicile est encore valable.
 Le rapport est celui qu’obtiendrait votre propriétaire avec le même document.
 01 Avant de signer le bail
@@ -2873,7 +2873,7 @@ L’état des lieux et ses mentions Guide
 Les frais d’état des lieux Guide
 Restitution du dépôt de garantie Outil
 04 Pendant la location
-Un courrier de votre propriétaire, une mise en demeure ou un acte remis par un commissaire de justice appellent souvent une réponse dans un délai précis. Scansa relit le courrier, indique ce qu’il demande et si cette demande est prévue par la loi. Pour un acte, il calcule les délais à partir de sa date et dit ce qu’il est utile de faire.
+Un courrier de votre propriétaire, une mise en demeure ou un acte extrajudiciaire appellent souvent une réponse dans un délai précis. Scansa relit le courrier, indique ce qu’il demande et si cette demande est prévue par la loi. Pour un acte, il calcule les délais à partir de sa date et dit ce qu’il est utile de faire.
 Acte extrajudiciaire reçu : les délais Guide
 La quittance de loyer Guide
 Le congé donné par le bailleur Guide
@@ -2936,8 +2936,8 @@ Un état des lieux incomplet affaiblit ce que vous pourrez retenir sur le dépô
 L’état des lieux et ses mentions Guide
 Restitution du dépôt de garantie Outil
 04 Donner congé, relancer, recevoir un acte
-Un congé donné au locataire obéit à des délais et à des motifs précis. Scansa relit votre courrier avant l’envoi : forme, date, parties, préavis, demandes prévues par la loi. Si vous recevez un acte de commissaire de justice, il en vérifie les mentions et calcule les délais.
-Scansa ne rédige jamais d’acte de commissaire de justice : c’est le rôle d’un professionnel habilité.
+Un congé donné au locataire obéit à des délais et à des motifs précis. Scansa relit votre courrier avant l’envoi : forme, date, parties, préavis, demandes prévues par la loi. Si vous recevez un acte extrajudiciaire, il en vérifie les mentions et calcule les délais.
+Scansa ne rédige jamais d’acte extrajudiciaire : c’est le rôle d’un professionnel habilité.
 Le congé donné par le bailleur Guide
 Acte extrajudiciaire reçu : les délais Guide
 05 Les autres locations
@@ -2981,7 +2981,7 @@ Pour en être informé ou nous dire ce dont votre activité a besoin, écrivez-n
 01 Pour qui
 Agences, administrateurs de biens, gestionnaires locatifs, bailleurs qui gèrent plusieurs logements : tous ceux qui rédigent, reçoivent ou vérifient chaque mois des baux, des états des lieux et des dossiers de candidature.
 02 Ce que l’application vérifie déjà
-L’application grand public lit le bail d’habitation vide ou meublé, le bail mobilité, le bail commercial, la location saisonnière, le bail de résidence secondaire, l’état des lieux, les congés et mises en demeure, l’acte de commissaire de justice reçu, le contrat de travail et les justificatifs de domicile. Chaque point est classé conforme, à vérifier ou à corriger, avec l’article qui s’applique.
+L’application grand public lit le bail d’habitation vide ou meublé, le bail mobilité, le bail commercial, la location saisonnière, le bail de résidence secondaire, l’état des lieux, les congés et mises en demeure, l’acte extrajudiciaire reçu, le contrat de travail et les justificatifs de domicile. Chaque point est classé conforme, à vérifier ou à corriger, avec l’article qui s’applique.
 Le rapport ne prend le parti de personne : c’est ce qui permet à un professionnel de le partager avec les deux parties.
 Le périmètre complet Périmètre
 Méthode et sources Scansa
@@ -2992,7 +2992,7 @@ Nous écrire
 Quand la version professionnelle sera-t-elle disponible ?
 Bientôt. Nous ne donnons pas de date tant qu’elle n’est pas prête. Écrivez-nous pour être prévenu.
 Scansa rédige-t-il des actes ou des baux ?
-Non. Scansa vérifie des documents existants. Il ne rédige jamais d’acte de commissaire de justice : c’est le rôle d’un professionnel habilité.
+Non. Scansa vérifie des documents existants. Il ne rédige jamais d’acte extrajudiciaire : c’est le rôle d’un professionnel habilité.
 Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 

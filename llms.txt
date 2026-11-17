@@ -1,6 +1,6 @@
 # Scansa
 
-> Scansa est une application iPhone et Android qui vérifie les documents du logement selon la règle : bail vide ou meublé, bail mobilité, bail commercial, location saisonnière, état des lieux, congé, acte de commissaire de justice reçu, justificatif de domicile, et contrat de travail (période d'essai, CDD). Elle compare chaque clause à 932 articles en vigueur tirés de 18 textes (relevés sur Légifrance le 25 octobre 2026), classe chaque point conforme, à vérifier ou à corriger, cite l'article et dit quoi faire. Le rapport est le même pour le locataire et pour le propriétaire. Le site scansa.fr publie des guides et des outils gratuits en français.
+> Scansa est une application iPhone et Android qui vérifie les documents du logement selon la règle : bail vide ou meublé, bail mobilité, bail commercial, location saisonnière, état des lieux, congé, acte extrajudiciaire reçu, justificatif de domicile, et contrat de travail (période d'essai, CDD). Elle compare chaque clause à 932 articles en vigueur tirés de 18 textes (relevés sur Légifrance le 25 octobre 2026), classe chaque point conforme, à vérifier ou à corriger, cite l'article et dit quoi faire. Le rapport est le même pour le locataire et pour le propriétaire. Le site scansa.fr publie des guides et des outils gratuits en français.
 
 ## Faits clés
 
