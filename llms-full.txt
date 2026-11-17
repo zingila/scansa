@@ -1905,7 +1905,7 @@ Non-conforme : soit un avis plus récent a été émis depuis, soit l’un des d
 Situation partielle : affichée avec « conforme » dans les cas de veuvage où deux déclarations sont nécessaires ; l’avis correspond alors à l’une d’elles.
 Un résultat « non-conforme » n’est donc pas, en soi, un signe de falsification : il invite à regarder si un avis plus récent existe, ou à recontrôler les numéros.
 02 Le 2D-Doc imprimé sur l’avis
-Le 2D-Doc est un code à barres en deux dimensions, signé électroniquement, que l’administration imprime sur certains documents. L’ANTS (France Titres), qui met en œuvre le dispositif pour le ministère de l’Intérieur, recense plusieurs applications de lecture reconnues, parmi lesquelles Otentik Code Reader et 2D-DOC Reader. Il n’existe donc pas une application unique : on choisit l’une de celles que l’ANTS référence.
+Le 2D-Doc est un code à barres en deux dimensions, signé électroniquement, que l’administration imprime sur certains documents. Le dispositif est mis en œuvre par l’ANTS (France Titres). Il se lit avec une application de lecture de 2D-Doc installée sur un téléphone ; il n’existe pas une application unique.
 Les deux contrôles se complètent. Le 2D-Doc confirme que le document n’a pas été retouché. Le service en ligne confirme que l’avis est le plus récent. Aucun des deux ne remplace l’autre.
 03 Ce que le contrôle établit, et ce qu’il laisse ouvert
 Il établit que le numéro fiscal et la référence correspondent au dernier avis connu, et que les données du 2D-Doc sont celles que l’administration a signées.
@@ -1931,7 +1931,7 @@ Sur le service de vérification des avis d’impots.gouv.fr, entrée « Vérifie
 Que veut dire « non-conforme » ?
 Soit un avis plus récent a été émis depuis celui qui est présenté, soit l’un des deux numéros a été mal saisi. Ce résultat n’est pas une preuve de falsification : il appelle un second contrôle, ou la remise du dernier avis.
 Comment lire le 2D-Doc d’un avis d’imposition ?
-Avec une application de lecture reconnue par l’ANTS, par exemple Otentik Code Reader ou 2D-DOC Reader. Le 2D-Doc confirme que les données imprimées n’ont pas été modifiées ; il ne dit pas si l’avis est le plus récent.
+Avec une application de lecture de 2D-Doc installée sur un téléphone. Le 2D-Doc confirme que les données imprimées n’ont pas été modifiées ; il ne dit pas si l’avis est le plus récent.
 Quel avis d’imposition le bailleur peut-il demander ?
 Le décret n° 2015-1437 prévoit, pour le candidat locataire, le dernier ou l’avant-dernier avis d’imposition ou de non-imposition, et pour la caution personne physique le dernier avis. La liste des pièces est limitative.
 Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
