@@ -27,7 +27,7 @@ Si vous louez
 Relire le bail avant de le signer, ou pendant qu’il court.
 Savoir quelles pièces le bailleur peut demander pour le dossier.
 Vérifier l’état des lieux, le congé et le préavis.
-Comprendre un acte de commissaire de justice et ses délais.
+Comprendre un acte extrajudiciaire reçu et ses délais.
 Scansa pour les locataires
 Si vous mettez en location
 Relire le bail avant de l’envoyer : dépôt, durée, révision, mentions.
@@ -151,7 +151,7 @@ Dépôt de garantie : le maximum légal
 L’état des lieux et ses mentions
 Zone tendue : ce qui change
 Les pièces du dossier de location
-Acte de commissaire de justice : les délais
+Acte extrajudiciaire reçu : les délais
 Tous les guides
 Outils gratuits
 Des calculs simples qui citent l’article appliqué et tournent dans votre navigateur.
@@ -2874,7 +2874,7 @@ Les frais d’état des lieux Guide
 Restitution du dépôt de garantie Outil
 04 Pendant la location
 Un courrier de votre propriétaire, une mise en demeure ou un acte remis par un commissaire de justice appellent souvent une réponse dans un délai précis. Scansa relit le courrier, indique ce qu’il demande et si cette demande est prévue par la loi. Pour un acte, il calcule les délais à partir de sa date et dit ce qu’il est utile de faire.
-Acte de commissaire de justice : les délais Guide
+Acte extrajudiciaire reçu : les délais Guide
 La quittance de loyer Guide
 Le congé donné par le bailleur Guide
 05 Au départ
@@ -2939,7 +2939,7 @@ Restitution du dépôt de garantie Outil
 Un congé donné au locataire obéit à des délais et à des motifs précis. Scansa relit votre courrier avant l’envoi : forme, date, parties, préavis, demandes prévues par la loi. Si vous recevez un acte de commissaire de justice, il en vérifie les mentions et calcule les délais.
 Scansa ne rédige jamais d’acte de commissaire de justice : c’est le rôle d’un professionnel habilité.
 Le congé donné par le bailleur Guide
-Acte de commissaire de justice : les délais Guide
+Acte extrajudiciaire reçu : les délais Guide
 05 Les autres locations
 Une résidence secondaire relève du code civil : durée, loyer, dépôt et préavis y sont libres, et Scansa ne les signale pas comme à corriger. Une location saisonnière relève du code du tourisme, un local commercial du code de commerce. Chaque bail est lu selon son propre texte.
 Bail de résidence secondaire Périmètre
