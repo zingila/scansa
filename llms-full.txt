@@ -1,61 +1,204 @@
 # Scansa : texte intégral des pages de scansa.fr
 
-Information générale sur le droit français, à jour au 24 octobre 2026. Ne remplace pas l'avis d'un professionnel du droit.
+Information générale sur le droit français, à jour au 17 novembre 2026. Ne remplace pas l'avis d'un professionnel du droit.
 
 ---
 
-## Analyse de contrat par IA : clauses abusives détectées avant de signer | Scansa
+## Vérifier un bail, un état des lieux, un contrat de travail | Scansa
 URL : https://scansa.fr/
 
-Analyse de contrat par IA · croisée avec 809 articles de loi Vos contrats, mis à plat.
-Un bail, un état des lieux, un contrat de travail, un justificatif de domicile. Photographiez-le : Scansa repère les clauses illégales et les pièges, cite l’article de loi, puis vous dit quoi répondre.
+Scansa, le tiers de confiance du logement Les documents du logement, vérifiés selon la règle.
+Scansa lit votre bail, votre état des lieux ou le courrier reçu et dit, article de loi à l’appui, ce qui respecte la règle, ce qui est à corriger et quoi faire. La même lecture pour le locataire et pour le propriétaire.
 Télécharger sur App Store
 Obtenir sur Google Play
-Voir une analyse ↓
-Bail d’habitation analysé 4 clauses à négocier avant de signer
-Faire défiler
-Loi 89-462 · Code civil · Code de commerce · Code du tourisme · Code du travail
-L’analyse
-Un bail de trois pages. Trente secondes plus tard, vous savez.
-Voici un contrat comme on en signe tous les jours. Faites défiler : le scanner passe sur chaque article, souligne ce qui ne tient pas devant la loi et vous explique en français ce que vous pouvez répondre.
-Contrat de location Logement vide à usage d’habitation
-Réf. 2026-0917-B Loi n° 89-462 du 6 juillet 1989
-Article 1 Objet Conforme
-Le bailleur donne en location un appartement de trois pièces d’une surface de 58 m² situé au 14 rue des Lilas, à usage exclusif d’habitation principale.
-Rien à signaler. La désignation du logement, sa surface et son usage sont ceux qu’exige un bail d’habitation. La surface habitable est bien mentionnée.
-Loi 89-462, art. 3
-Article 2 Durée Conforme
-Le présent contrat est conclu pour une durée de trois ans à compter du 1er octobre 2026, renouvelable par tacite reconduction.
-Trois ans, c’est la durée légale. Quand le bailleur est un particulier, un bail vide dure au minimum trois ans et se renouvelle tacitement. Le contrat respecte cette règle.
-Loi 89-462, art. 10
-Article 3 Loyer Conforme
-Le loyer mensuel est fixé à 1 180 € hors charges, payable d’avance le 1er de chaque mois. Il sera révisé chaque année selon l’indice de référence des loyers.
-Un loyer révisable une fois par an, c’est normal. La révision annuelle sur l’indice de référence des loyers est le mécanisme prévu par la loi. Le mode de paiement reste libre, ce qui est correct.
-Loi 89-462, art. 17-1
-Article 4 Dépôt de garantie Non écrite
-Le locataire verse à la signature un dépôt de garantie de 2 360 €, soit deux mois de loyer hors charges, restitué dans le délai prévu par la loi après la remise des clés.
-Deux mois demandés, un seul est permis. Pour un logement loué vide, le dépôt de garantie ne peut pas dépasser un mois de loyer hors charges. Ici, cela fait 1 180 €, pas 2 360 €. Le surplus n’est pas dû.
-Loi 89-462, art. 22
-Ce que vous pouvez répondre. « Le dépôt de garantie est plafonné à un mois de loyer hors charges par l’article 22 de la loi du 6 juillet 1989. Je verserai 1 180 €. »
-Article 6 Assurance Non écrite
-Le locataire souscrira une assurance multirisque habitation auprès de la compagnie désignée par le bailleur et en justifiera chaque année à sa demande.
-L’assurance est obligatoire. L’assureur, vous le choisissez. Vous devez bien assurer le logement contre les risques locatifs. Mais une clause qui vous impose la compagnie choisie par le bailleur est réputée non écrite : elle n’a aucune valeur.
-Loi 89-462, art. 4 b et 7 g
-Ce que vous pouvez répondre. « Je vous remettrai une attestation d’assurance habitation, souscrite auprès de l’assureur de mon choix, comme le prévoit l’article 7 g de la loi du 6 juillet 1989. »
-Article 8 Visites Non écrite
-En cas de congé, le locataire laissera visiter les lieux tous les jours, dimanches et jours fériés compris, de 9 h à 19 h, en vue de la relocation.
-Deux heures par jour ouvrable, pas dix heures tous les jours. La loi interdit toute clause qui vous oblige à laisser visiter le logement les jours fériés ou plus de deux heures par jour ouvrable. Vous fixez les créneaux avec le bailleur.
-Loi 89-462, art. 4 a
-Ce que vous pouvez répondre. « Je laisserai visiter le logement dans la limite de deux heures les jours ouvrables, conformément à l’article 4 de la loi du 6 juillet 1989, aux créneaux que nous conviendrons. »
-Article 11 Solidarité Vigilance
-En cas de colocation, les colocataires restent solidaires du paiement des loyers et charges jusqu’à six mois après le départ de l’un d’eux.
-Vous restez tenu six mois après votre départ. En colocation, la solidarité entre colocataires est autorisée. Elle prend fin quand un nouveau colocataire vous remplace, et au plus tard six mois après la fin de votre préavis. Ce n’est pas abusif, mais cela engage votre budget.
-Loi 89-462, art. 8-1
-Article 12 État des lieux Non écrite
-L’état des lieux de sortie sera dressé par commissaire de justice, ses honoraires étant intégralement à la charge du locataire.
-Les honoraires ne peuvent pas être mis entièrement à votre charge. Si l’état des lieux est établi par un commissaire de justice faute d’accord amiable, ses frais sont partagés par moitié. Une clause qui vous facture l’état des lieux est réputée non écrite.
-Loi 89-462, art. 3-2 et 4 k
-Ce que vous pouvez répondre. « Un état des lieux amiable et gratuit peut être établi entre nous. À défaut, les frais du commissaire de justice sont partagés par moitié, selon l’article 3-2 de la loi du 6 juillet 1989. »
+Gratuit pour commencer · iPhone et Android · noté 5/5 sur l’App Store (6 notes au 10 novembre 2026)
+Exemple · bail vide
+Rapport d’analyse
+4 à corriger 1 à vérifier 2 conformes
+À corriger Dépôt de garantie de deux mois Loi 89-462 · art. 22
+À corriger Préavis de trois mois en zone tendue Loi 89-462 · art. 15
+À vérifier Provision pour charges Loi 89-462 · art. 23
+Conforme Révision selon l’IRL Loi 89-462 · art. 17-1
+Exemple de rapport, données fictives
+Un tiers de confiance
+La même lecture pour le locataire et pour le propriétaire.
+Scansa ne défend personne. Il compare le document à la règle et le dit de la même façon à celui qui loue et à celui qui met en location : une base claire pour les deux parties.
+Si vous louez
+Relire le bail avant de le signer, ou pendant qu’il court.
+Savoir quelles pièces le bailleur peut demander pour le dossier.
+Vérifier l’état des lieux, le congé et le préavis.
+Comprendre un acte de commissaire de justice et ses délais.
+Scansa pour les locataires
+Si vous mettez en location
+Relire le bail avant de l’envoyer : dépôt, durée, révision, mentions.
+Contrôler la nature et la date d’un justificatif de domicile.
+Préparer un état des lieux complet et un congé dans les formes.
+Connaître les garanties que la loi permet de demander.
+Scansa pour les propriétaires
+Comment ça marche
+Trois étapes, un rapport.
+Photographiez ou importez
+Les pages du document, ou le PDF. Scansa en extrait le texte et reconnaît le type de document.
+Scansa compare à la règle
+Chaque clause est rapprochée des 932 articles de sa base. Le modèle énonce la règle, le programme en déduit l’article.
+Lisez le rapport
+Conforme, à vérifier, à corriger : chaque point cite son article et dit quoi faire. Une trentaine de secondes pour un bail de trois pages.
+Un rapport d’exemple
+Chaque point cite son article et dit quoi faire.
+Voici ce que Scansa rend pour un bail de logement vide. Le locataire et le propriétaire reçoivent exactement le même rapport.
+Bail d’habitation, logement vide
+Exemple · données fictives
+4 à corriger 1 à vérifier 2 conformes
+À corriger Dépôt de garantie de deux mois
+Pour un logement loué vide, le dépôt de garantie ne peut pas dépasser un mois de loyer hors charges.
+Que faire : ramener le dépôt à un mois de loyer hors charges, ou restituer le trop-perçu.
+Loi 89-462 art. 22
+À corriger Préavis de trois mois en zone tendue
+Le logement est situé en zone tendue : le locataire qui donne congé bénéficie d’un préavis d’un mois.
+Que faire : indiquer un préavis d’un mois pour le locataire.
+Loi 89-462 art. 15
+À corriger Frais d’état des lieux de sortie à la charge du locataire
+Cette clause est réputée non écrite, sauf quand l’état des lieux est établi par un commissaire de justice dans le cas prévu par la loi.
+Que faire : retirer la clause : l’état des lieux de sortie fait à l’amiable ne se facture pas au locataire.
+Loi 89-462 art. 3-2 et 4 k
+À corriger Pénalité de 10 % par retard de paiement
+Une clause qui permet au bailleur de percevoir des amendes ou des pénalités est réputée non écrite.
+Que faire : retirer la clause. Un retard se règle par les intérêts de retard ou la clause résolutoire, pas par une pénalité.
+Loi 89-462 art. 4 i
+À vérifier Provision pour charges de 150 € par mois
+Une provision est permise si elle est régularisée chaque année, avec le décompte des charges réellement dues.
+Que faire : vérifier que le bail prévoit la régularisation annuelle et la mise à disposition des justificatifs.
+Loi 89-462 art. 23
+Conforme Révision annuelle selon l’IRL
+La révision suit l’indice de référence des loyers, à la date prévue au bail. Elle n’est plus possible si le logement est classé F ou G.
+Que faire : rien à changer, sauf si le diagnostic de performance énergétique classe le logement en F ou G.
+Loi 89-462 art. 17-1
+Conforme Assurance des risques locatifs
+Le locataire doit s’assurer, et il reste libre de choisir son assureur.
+Que faire : rien à changer.
+Loi 89-462 art. 7 g et 4 b
+Exemple fictif. Une analyse automatique peut se tromper : chaque alerte cite son article pour que chacun puisse la vérifier.
+Ce que Scansa vérifie
+Neuf familles de documents.
+Le logement d’abord, du bail à l’acte reçu, et le contrat de travail. Pour chacun, Scansa sait ce qu’il vérifie et ce qu’il ne juge pas.
+Bail d’habitation, vide ou meublé
+Dépôt de garantie, durée, révision du loyer, loyer de référence, zone tendue, diagnostics, garanties demandées.
+Loi 89-462 · décret 2015-587
+Bail mobilité
+Durée d’un à dix mois, situation du locataire, absence de dépôt de garantie.
+Loi 89-462 · art. 25-12 et suivants
+Bail commercial
+Durée, sortie à chaque période triennale, clause résolutoire, indemnité d’éviction.
+Code de commerce · L. 145-4, L. 145-14, L. 145-41
+Location saisonnière
+Contrat écrit, prix demandé, état descriptif des lieux.
+Code du tourisme · L. 324-2
+Résidence secondaire
+Location régie par le code civil : durée, prix, obligations des parties, diagnostic de performance énergétique.
+Code civil · art. 1713 et suivants
+État des lieux
+Mentions obligatoires, relevés, signatures. L’état réel du logement n’est pas jugé sur photo.
+Décret 2016-382 · art. 2
+Congé, préavis, mise en demeure
+Durée du préavis, motif, forme de l’envoi, délais à respecter.
+Loi 89-462 · art. 15
+Acte de commissaire de justice reçu
+Type d’acte, mentions, délais pour agir et que faire. Seul un juge peut annuler un acte.
+Code de procédure civile · CPCE
+Contrat de travail
+Période d’essai et, pour un CDD, motif, terme, durée et mentions obligatoires.
+Code du travail · L. 1221-19, L. 1242-12
+Assurance, crédit, abonnement, mandat de vente : ces contrats ne sont pas analysés, le site propose pour eux des guides de lecture.
+Tout ce que Scansa vérifie
+Justificatif de domicile
+Un justificatif, sa date, son adresse.
+Scansa reconnaît la nature du document, vérifie sa date et l’adresse, puis répond : valable, valable avec réserve, ou trop ancien. Le candidat sait que sa pièce sera reconnue, le bailleur sait sur quoi il s’appuie.
+Les justificatifs reconnus
+Tester la validité d’un justificatif
+Facture d’électricité, de gaz ou d’eau moins de 3 mois
+Facture internet ou de téléphone moins de 3 mois
+Quittance de loyer moins de 3 mois
+Avis d’impôt sur le revenu moins de 12 mois
+Taxe foncière moins de 12 mois Prouve la propriété
+Attestation d’assurance habitation pendant la couverture
+Attestation d’hébergement moins de 3 mois Avec réserve
+Titre de propriété sans limite de date
+Bulletin de salaire, extrait Kbis, facture d’achat Non valable
+Nos principes
+Ce que Scansa fait, et ce qu’il ne fait pas.
+La même lecture pour les deux parties
+Le rapport ne change pas selon que vous louez ou que vous mettez en location. La règle est la même pour tous.
+L’article, toujours
+Chaque point cite le texte appliqué. Le modèle énonce la règle, le programme en déduit l’article : vous pouvez tout vérifier sur Légifrance.
+Ce que Scansa ne juge pas
+Scansa ne déclare jamais un document conforme dans son ensemble, ne juge pas l’état réel d’un logement sur photo et n’annule aucun acte : seul un juge le peut.
+Vos documents
+Les pages envoyées servent à l’analyse. Elles ne sont jamais utilisées pour entraîner les modèles sans consentement explicite.
+Des limites écrites
+Une photo difficile à lire peut fausser la lecture. Un document non pris en charge est refusé et n’est pas décompté.
+Un professionnel quand il le faut
+Pour un litige ou un enjeu important, le rapport vous oriente vers un avocat, l’ADIL ou un autre professionnel habilité.
+932 articles de loi en vigueur relevés le 25 octobre 2026
+18 codes, lois et décrets loi de 1989, codes, décrets
+9 familles de documents logement et travail
+5/5 sur l’App Store 6 notes au 10 novembre 2026
+Gratuit, sans compte
+Des guides et des outils pour comprendre la règle.
+Guides pratiques
+Les règles du logement et du travail, article par article, avec ce que chaque partie peut faire.
+Les mentions obligatoires du bail
+Dépôt de garantie : le maximum légal
+L’état des lieux et ses mentions
+Zone tendue : ce qui change
+Les pièces du dossier de location
+Acte de commissaire de justice : les délais
+Tous les guides
+Outils gratuits
+Des calculs simples qui citent l’article appliqué et tournent dans votre navigateur.
+Restitution du dépôt de garantie
+Préavis du locataire
+Période d’essai
+Validité d’un justificatif
+Tous les outils
+Bientôt
+Pour les professionnels de l’immobilier.
+Agences, gestionnaires, administrateurs de biens : une version de Scansa pour relire les baux et les dossiers à plusieurs est en préparation.
+En savoir plus
+Relire un bail avant de l’envoyer au locataire
+Contrôler les justificatifs d’un dossier de location
+Vérifier les mentions d’un état des lieux
+Donner aux deux parties la même lecture du document
+Questions fréquentes
+Avant de commencer.
+Qu’est-ce que Scansa ?
+Scansa est une application pour iPhone et Android qui vérifie les documents du logement selon la règle. Vous photographiez les pages ou vous importez le PDF : l’application en extrait le texte, compare chaque clause aux textes qui s’appliquent et rend un rapport. Chaque point est classé conforme, à vérifier ou à corriger, cite son article et dit quoi faire.
+Scansa ne prend le parti de personne : le rapport est le même que vous soyez locataire ou propriétaire.
+À qui Scansa s’adresse-t-il ?
+Aux locataires qui veulent relire un bail, un état des lieux ou un courrier avant de répondre, et aux propriétaires qui veulent un bail et un dossier en règle avant de les envoyer. Un salarié peut aussi faire vérifier la période d’essai ou les mentions de son CDD.
+Une version pour les professionnels de l’immobilier est en préparation.
+Quels documents Scansa analyse-t-il ?
+Le bail d’habitation vide ou meublé, le bail mobilité , le bail commercial , la location saisonnière et la location d’une résidence secondaire. Autour du bail : l’état des lieux, le congé, le préavis, la mise en demeure et les actes de commissaire de justice reçus. Hors du logement : la période d’essai et le CDD dans le contrat de travail .
+Scansa contrôle aussi les justificatifs de domicile : la nature du document, sa date et l’adresse.
+Les contrats d’assurance, de crédit, d’abonnement et les mandats de vente ne sont pas analysés : le site propose pour eux des guides de lecture. La liste complète est sur la page Ce que Scansa vérifie .
+Sur quels textes s’appuie l’analyse ?
+Sur 932 articles en vigueur relevés sur Légifrance le 25 octobre 2026, tirés de 18 textes : la loi du 6 juillet 1989, le code civil, le code de commerce, le code du tourisme, le code du travail, le code de la construction et de l’habitation, le code de procédure civile, le code des procédures civiles d’exécution et les décrets de la location (contrat type, charges, réparations, décence, état des lieux, diagnostics, honoraires, loyers de référence).
+Le modèle énonce la règle qu’il applique et le programme en déduit l’article : le modèle n’écrit jamais lui-même un numéro d’article. La page Méthode et sources détaille la démarche.
+Scansa remplace-t-il un avocat ?
+Non. Scansa donne une lecture informative : il signale ce qui s’écarte de la règle et cite le texte, pour que chacun sache quoi regarder et quoi demander. Ce n’est pas un conseil juridique personnalisé, et une analyse automatique peut se tromper.
+Pour un litige ou un enjeu important, adressez-vous à un avocat, à l’ADIL de votre département pour le logement, ou à un autre professionnel habilité.
+Une clause réputée non écrite annule-t-elle le contrat ?
+Non. Une clause réputée non écrite est simplement écartée : on fait comme si elle n’avait jamais figuré dans le contrat, et le reste continue de s’appliquer. C’est la règle de l’article 4 de la loi du 6 juillet 1989 pour le bail d’habitation. La clause n’a pas à être appliquée, même après la signature.
+Le contrat est déjà signé : est-ce trop tard ?
+Non. Une clause réputée non écrite n’a pas plus de valeur après la signature qu’avant. Scansa sert donc aussi à relire un bail en cours, par exemple avant un congé, une révision de loyer ou la restitution du dépôt de garantie, pour que chaque partie sache ce que la règle prévoit.
+J’ai reçu un acte de commissaire de justice : que fait Scansa ?
+Scansa identifie le type d’acte, vérifie les mentions qu’il doit porter, calcule les délais pour agir et indique que faire. Une mention absente ne rend pas l’acte nul à elle seule : seul un juge peut l’annuler.
+Scansa ne rédige aucun acte. Pour contester ou répondre, adressez-vous à un avocat ou à un professionnel habilité. Le guide Acte reçu : les délais résume l’essentiel.
+Combien coûte Scansa ?
+Le téléchargement est gratuit sur l’App Store et sur Google Play, avec un quota de pages offert pour essayer. Au-delà, deux abonnements sont proposés dans l’application : Premium, à partir de 6,99 €, et Titanium, à partir de 14,99 €. Le prix et la période de chaque formule s’affichent avant l’achat, et le paiement passe par votre compte Apple ou Google. Le détail est sur la page Tarifs .
+Que deviennent mes documents ?
+Les pages envoyées servent à produire l’analyse. Elles ne sont jamais utilisées pour entraîner les modèles sans consentement explicite. Le détail figure dans la politique de confidentialité .
+Que se passe-t-il si la photo est floue ou si le document n’est pas pris en charge ?
+Une photo difficile à lire peut fausser la lecture : mieux vaut une page à plat, bien éclairée, ou le PDF. Un document que Scansa ne prend pas en charge est refusé et n’est pas décompté de votre quota.
 
 ---
 
@@ -79,6 +222,7 @@ Les données extraites par reconnaissance optique de caractères (OCR) sont anal
 Les utilisateurs disposent d’un contrôle total sur leurs documents (fonctionnalité de suppression complète de l’historique et des fichiers en base de données).
 03 Hébergement des données
 L’infrastructure technique de l’application (base de données, fichiers, authentification) s’appuie sur la plateforme technique moderne Supabase. Les données sont hébergées de manière sécurisée sur des serveurs situés géographiquement en accord avec les normes européennes RGPD.
+Sur ce site, nous comptons les visites pour savoir quelles pages sont lues et d’où viennent nos visiteurs. Cette mesure n’utilise aucun cookie et ne sert à aucune publicité : un identifiant tiré au hasard est gardé 13 mois au plus dans votre navigateur, et nous ne recevons que la page ouverte, le site d’où vous arrivez, la largeur de l’écran, la langue du navigateur, le temps passé et la part de la page lue. Ces chiffres sont rangés dans notre tableau de statistiques (Google) et ne servent qu’à nous. Si votre navigateur demande à ne pas être suivi, rien n’est envoyé. Ne plus être compté sur ce navigateur
 04 Vos droits (RGPD)
 Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez des droits suivants concernant vos données personnelles :
 Droit d’accès et de rectification
@@ -132,6 +276,43 @@ Les présentes conditions sont régies exclusivement par la loi française. Tout
 
 ---
 
+## Mentions légales | Scansa
+URL : https://scansa.fr/mentions-legales.html
+
+Accueil / Mentions légales
+Légal
+Mentions légales
+Mis à jour le 15 novembre 2026
+01 Éditeur du site
+Le site scansa.fr et l’application Scansa sont édités par :
+Nom : Brandon Zingila, entrepreneur individuel (EI)
+Statut : Entreprise individuelle, exerçant sous le nom commercial ZingiTech
+Adresse : 1 rue Gaspard Monge, 60200 Compiègne, France
+Numéro d’immatriculation : 102 077 203 R.C.S. Compiègne (SIREN 102 077 203), immatriculé le 25 mars 2026
+TVA : en cours de mise à jour
+Téléphone : en cours de mise à jour
+Courriel : contact@scansa.fr
+02 Directeur de la publication
+Brandon Zingila, en sa qualité d’éditeur du site.
+03 Hébergement
+Le site est hébergé par GitHub Pages, un service de GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis ( pages.github.com ).
+Les données de l’application (compte, documents, historique) ne sont pas hébergées avec le site. Leur hébergement est décrit dans la politique de confidentialité .
+04 Propriété intellectuelle
+Les textes, la charte graphique, les illustrations et le code du site et de l’application appartiennent à leur éditeur. Toute reproduction demande son accord préalable.
+Les textes de loi et les décisions de justice cités sur le site sont publics. Vous pouvez les consulter et les reproduire librement à partir de Légifrance .
+05 Données personnelles et cookies
+Ce site n’affiche aucune publicité et n’utilise aucun outil de mesure d’audience tiers. Nous comptons nous-mêmes les pages lues, sans cookie, à l’aide d’un identifiant tiré au hasard gardé treize mois au plus dans la mémoire locale de votre navigateur. La politique de confidentialité décrit cette mesure et permet de ne plus être compté sur ce navigateur. Les polices de caractères sont servies depuis le site lui-même.
+Le formulaire de la page Contact transmet votre message par le service Formspree. Les informations que vous y saisissez servent uniquement à vous répondre.
+Le traitement des données dans l’application, vos droits d’accès, de rectification et d’effacement, et la façon de les exercer sont détaillés dans la politique de confidentialité . Vous pouvez aussi saisir la Commission nationale de l’informatique et des libertés ( cnil.fr ).
+06 Nature des informations publiées
+Les pages et les guides de ce site donnent une information générale sur le droit français, à la date indiquée en tête de chaque page. Ils ne constituent pas une consultation juridique et ne remplacent pas l’avis d’un professionnel du droit sur votre situation.
+La page Méthode et sources explique d’où viennent les règles citées et comment signaler une erreur. Les conditions d’utilisation de l’application figurent dans les conditions générales d’utilisation .
+07 Médiation de la consommation
+En cas de litige lié à un abonnement, vous pouvez d’abord nous écrire à contact@scansa.fr . Si aucune solution n’est trouvée, vous pouvez saisir gratuitement le médiateur de la consommation dont relève l’éditeur : en cours de mise à jour .
+← Retour à l’accueil
+
+---
+
 ## Analyse de bail de location : les clauses abusives à repérer | Scansa
 URL : https://scansa.fr/analyse-bail-location.html
 
@@ -142,7 +323,7 @@ La loi du 6 juillet 1989 énumère vingt clauses qu’un bail d’habitation ne 
 Télécharger sur App Store
 Obtenir sur Google Play
 Ce que Scansa vérifie Clauses interdites Les chiffres Les papiers Impayés Vide ou meublé Questions fréquentes
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Une clause interdite par l’article 4 de la loi du 6 juillet 1989 est réputée non écrite : le bail tient, elle seule tombe.
 Dépôt de garantie : un mois de loyer hors charges en location vide, deux mois en meublé, aucun en bail mobilité.
@@ -154,7 +335,7 @@ Vous photographiez votre bail ou vous l’importez en PDF. Scansa reconnaît d�
 Pour un bail d’habitation, un audit vérifie en plus ce qui doit figurer au dossier, même quand aucune clause n’en parle.
 Les pièces jointes. Signatures, diagnostic de performance énergétique, notice d’information, inventaire du mobilier en meublé.
 Les montants. Dépôt de garantie (un mois en vide, deux en meublé, aucun en bail mobilité), honoraires d’agence, révision d’un loyer classé F ou G, loyer de référence là où il s’applique, cumul interdit d’une assurance loyers impayés et d’une caution.
-Les durées. Le bail de neuf mois réservé aux étudiants, les six ans d’un bailleur personne morale, le préavis selon que la commune est en zone tendue (3 689 communes, liste officielle).
+Les durées. Le bail de neuf mois réservé aux étudiants, les six ans d’un bailleur personne morale, le préavis selon que la commune est en zone tendue (liste officielle des communes).
 Les clauses interdites. Les cas de l’article 4 de la loi du 6 juillet 1989, de l’assureur imposé aux pénalités, et les règles des décrets sur les charges, les réparations, la décence et les pièces demandées.
 L’application lit aussi les papiers qui accompagnent la location : l’ état des lieux d’entrée ou de sortie, dont elle vérifie les mentions obligatoires, et les courriers (congé, préavis, mise en demeure), dont elle vérifie la forme, la date et le délai. Elle contrôle enfin les justificatifs de domicile .
 02 Les clauses interdites que l’on retrouve le plus
@@ -316,7 +497,7 @@ L’agence peut-elle me facturer l’état des lieux de sortie ?
 Non. Seul l’état des lieux d’entrée peut donner lieu à des honoraires à la charge du locataire, plafonnés à 3,03 € par mètre carré en 2026. À la sortie, la seule dépense partagée est celle d’un commissaire de justice, quand l’état des lieux n’a pas pu être établi à l’amiable.
 Un bail déjà signé peut-il encore être contesté ?
 Oui. Une clause réputée non écrite le reste après la signature. Pour réclamer une somme versée à tort, vous disposez de trois ans à compter du jour où vous avez connu les faits (article 7-1 de la loi du 6 juillet 1989).
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -328,7 +509,7 @@ Accueil / Guides / Dépôt de garantie : le maximum légal
 Guide · Location
 Dépôt de garantie : le maximum légal et le délai pour le récupérer
 Un mois de loyer hors charges en location vide, deux mois en meublé, rien en bail mobilité. Le bailleur a ensuite un ou deux mois pour le rendre, à compter de la remise des clés.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Location vide : un mois de loyer hors charges au plus (article 22).
 Meublé : deux mois au plus (article 25-6). Bail mobilité : aucun dépôt (article 25-17).
@@ -373,7 +554,7 @@ Puis-je ne pas payer le dernier mois de loyer et laisser le dépôt en échange 
 Non. Le loyer est dû jusqu’à la fin du préavis, et le dépôt de garantie n’est pas une avance sur loyer : il se règle après la remise des clés, une fois les comptes faits.
 Que risque le bailleur qui rend le dépôt en retard ?
 Une majoration de 10 % du loyer mensuel hors charges pour chaque mois de retard commencé. Elle n’est pas due si le retard vient de ce que le locataire n’a pas communiqué sa nouvelle adresse.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -385,7 +566,7 @@ Accueil / Guides / Assurance habitation imposée par le bailleur
 Guide · Location
 Le bailleur peut-il vous imposer son assurance habitation ?
 Non. Vous devez être assuré, pas chez l’assureur qu’il a choisi. La clause qui désigne une compagnie est réputée non écrite.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 L’assurance des risques locatifs est obligatoire pour le locataire (article 7 g).
 La clause qui impose la compagnie du bailleur est réputée non écrite (article 4 b).
@@ -420,7 +601,7 @@ Que risque un locataire qui n’est pas assuré ?
 Le bailleur peut le mettre en demeure puis, un mois plus tard, assurer le logement pour son compte et lui refacturer la prime, majorée de 10 % au plus. Si le bail contient une clause résolutoire pour défaut d’assurance, il peut aussi la faire jouer, un mois après un commandement resté sans effet.
 Le bailleur peut-il me demander l’attestation tous les ans ?
 Oui. L’article 7 g prévoit que le locataire justifie de son assurance à la remise des clés, puis chaque année à la demande du bailleur.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -432,7 +613,7 @@ Accueil / Guides / État des lieux : qui paie quoi
 Guide · Location
 Frais d’état des lieux : qui paie, à l’entrée et à la sortie ?
 À l’entrée, l’agence peut facturer au locataire une part plafonnée. À la sortie, rien ne peut être mis à sa charge, sauf le recours partagé à un commissaire de justice.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 À l’entrée : des honoraires d’agence plafonnés à 3,03 € par m² en 2026, et jamais plus que la part du bailleur.
 À la sortie : rien ne peut être facturé au locataire (article 4 k).
@@ -470,7 +651,7 @@ Que se passe-t-il s’il n’y a pas eu d’état des lieux d’entrée ?
 Le locataire est présumé avoir reçu le logement en bon état de réparations locatives, sauf preuve contraire. Le bailleur qui a lui-même empêché l’état des lieux ne peut pas invoquer cette présomption.
 Puis-je faire corriger l’état des lieux d’entrée après l’avoir signé ?
 Oui, dans les dix jours qui suivent, en demandant au bailleur de le compléter. Pour les éléments de chauffage, vous avez le premier mois de la période de chauffe.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -482,7 +663,7 @@ Accueil / Guides / Colocation : la clause de solidarité
 Guide · Location
 Clause de solidarité en colocation : jusqu’à quand êtes-vous engagé ?
 Tant que vous êtes au bail, le bailleur peut vous réclamer tout le loyer. Après votre congé, la loi limite cet engagement à six mois au plus.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Avec une clause de solidarité, chaque colocataire répond de tout le loyer, pas seulement de sa part.
 Après un congé régulier, la solidarité cesse dès qu’un remplaçant entre au bail.
@@ -515,7 +696,7 @@ Mon garant est-il libéré en même temps que moi ?
 Oui. L’engagement de la personne qui s’est portée caution pour vous prend fin dans les mêmes conditions que votre solidarité.
 Sans clause de solidarité, que peut réclamer le bailleur ?
 À chaque colocataire, sa part du loyer et des charges, pas davantage.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -527,7 +708,7 @@ Accueil / Guides / Préavis du locataire : un mois ou trois
 Guide · Location
 Préavis du locataire : un mois ou trois mois ?
 Trois mois en location vide, un mois en meublé. Et un mois aussi en vide dans six situations que la loi énumère, à condition de le dire et de le justifier dans la lettre de congé.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Location vide : trois mois de préavis. Meublé : un mois.
 Un mois aussi en vide dans six cas : zone tendue, emploi, santé, violences, RSA ou AAH, logement social.
@@ -564,7 +745,7 @@ Non. Le congé se donne par lettre recommandée avec avis de réception, par act
 À partir du jour où le bailleur reçoit la lettre recommandée, où l’acte lui est signifié ou où la lettre lui est remise en main propre. La date d’envoi ne compte pas.
 Dois-je payer tout le préavis si je pars plus tôt ?
 Oui, quand le congé vient de vous. Sauf si un autre locataire occupe le logement avant la fin du préavis, en accord avec le bailleur.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -576,7 +757,7 @@ Accueil / Guides / Congé donné par le bailleur
 Guide · Location
 Congé donné par le bailleur : trois motifs, six mois, une lettre à vérifier
 Un propriétaire ne met pas fin au bail quand il veut. Il doit attendre l’échéance, prévenir six mois avant en location vide, et invoquer l’un des trois motifs que la loi admet.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Le bailleur ne peut donner congé que pour la fin du bail.
 En location vide, la lettre doit arriver six mois avant ; en meublé, trois mois avant.
@@ -617,7 +798,7 @@ Peut-il reprendre le logement pour y loger son frère ou sa nièce ?
 Non. Les bénéficiaires possibles sont le bailleur, son conjoint, son partenaire de PACS, son concubin notoire depuis au moins un an, leurs ascendants et leurs descendants. Un frère ou une nièce n’en font pas partie.
 Que faire si le congé me paraît irrégulier ?
 Ne quittez pas le logement sur la seule foi de la lettre. La commission départementale de conciliation peut être saisie d’un litige sur un congé en location vide, et le juge des contentieux de la protection tranche.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -629,7 +810,7 @@ Accueil / Guides / Quittance de loyer : gratuite et sur demande
 Guide · Location
 Quittance de loyer : gratuite, sur simple demande
 Le bailleur doit remettre une quittance au locataire qui la demande. Il ne peut rien facturer pour cela, ni pour l’avis d’échéance.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Le bailleur remet gratuitement une quittance au locataire qui la demande (article 21).
 Elle distingue le loyer et les charges.
@@ -671,7 +852,7 @@ J’ai payé une partie du loyer, ai-je droit à une quittance ?
 Vous avez droit à un reçu pour la somme versée. La quittance atteste d’un paiement complet.
 L’agence facture 2 € d’« envoi de quittance », est-ce légal ?
 Non. L’article 21 interdit de facturer la gestion de l’avis d’échéance ou de la quittance, et l’article 4 p répute non écrite la clause qui prévoit des frais d’expédition de la quittance.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -684,7 +865,7 @@ Guide · Abonnement · code de la consommation
 Contrat d’abonnement : ce qu’il faut vérifier avant de s’engager
 Salle de sport, box internet, forfait mobile, streaming, alarme : un abonnement se signe en deux minutes et se quitte rarement aussi vite. Voici les clauses qui comptent, ce que le code de la consommation en dit et la phrase à envoyer quand le professionnel ne le respecte pas.
 Les quatre points Clauses à vérifier Délais et montants Téléphone et internet Salles de sport Rétractation Questions fréquentes
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Reconduction tacite : le professionnel doit vous écrire entre trois mois et un mois avant la date limite pour refuser le renouvellement. S’il ne l’a pas fait, vous arrêtez le contrat quand vous voulez, sans frais, à partir de la reconduction.
 Un contrat qui se souscrit en ligne se résilie en ligne, gratuitement.
@@ -792,7 +973,7 @@ Puis-je résilier mon abonnement de salle de sport si je déménage ou si je me 
 Cela dépend de votre contrat : aucun texte ne vous donne ce droit automatiquement. La Commission des clauses abusives recommande que l’abonné puisse résilier quand une cause indépendante de sa volonté, notamment de santé ou professionnelle, l’empêche de profiter de la salle, mais ses recommandations n’ont pas force de loi. Relisez la clause de résiliation anticipée et écrivez à la salle avec vos justificatifs.
 Qu’est-ce qu’une clause abusive ?
 C’est une clause qui crée, à votre détriment, un déséquilibre significatif entre vos droits et ceux du professionnel. Elle est réputée non écrite : elle ne vous engage pas et le reste du contrat continue. Douze clauses sont toujours interdites, dix autres sont présumées abusives. Voir les deux listes .
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -804,7 +985,7 @@ Accueil / Guides / Résiliation en ligne : ce que la loi impose
 Guide · Consommation
 Résiliation en trois clics : ce que la loi impose vraiment
 On parle de « résiliation en trois clics ». La loi ne compte pas les clics : elle exige qu’un contrat souscrit en ligne puisse se résilier en ligne, gratuitement, par un accès direct. Voici ce que le professionnel doit mettre en place, ce que la règle ne change pas, et quoi écrire quand le bouton n’existe pas.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 « Trois clics » est un nom d’usage. Le texte impose une fonction gratuite de résiliation en ligne, d’accès facile, direct et permanent.
 Elle est due dans deux cas : le contrat a été conclu en ligne, ou le professionnel propose la souscription en ligne le jour où vous résiliez.
@@ -846,7 +1027,7 @@ La résiliation en ligne prend-elle effet tout de suite ?
 Pas forcément. Vous indiquez la date de fin souhaitée, mais elle s’applique sous réserve de la loi et du contrat : une période d’engagement ou un préavis restent valables. Le professionnel vous confirme la date de fin par écrit.
 La règle vaut-elle pour mon assurance ?
 Oui, pour les contrats qui couvrent un particulier hors activité professionnelle, quand ils ont été conclus en ligne ou que l’assureur propose la souscription en ligne le jour de la résiliation (code des assurances, art. L. 113-14).
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -858,7 +1039,7 @@ Accueil / Guides / Clauses abusives : liste noire et liste grise
 Guide · Consommation
 Clauses abusives : la liste noire et la liste grise
 Le code de la consommation dresse deux listes : douze clauses toujours interdites, dix clauses présumées abusives. Les connaître permet de repérer en quelques minutes ce qui, dans un contrat, ne vous engage pas.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Une clause est abusive quand elle crée, à votre détriment, un déséquilibre significatif entre vos droits et ceux du professionnel.
 Douze clauses sont toujours abusives : c’est la liste noire. Il n’y a rien à prouver.
@@ -925,7 +1106,7 @@ Ces règles valent-elles entre deux professionnels ?
 Non. Les deux listes protègent les consommateurs et les non-professionnels, c’est-à-dire les personnes morales qui n’agissent pas à des fins professionnelles. Entre professionnels, d’autres règles existent, mais elles ne reposent pas sur ces listes.
 Puis-je contester un prix trop élevé comme clause abusive ?
 Non. Le contrôle ne porte ni sur ce que vous achetez ni sur le rapport entre le prix et le service, tant que la clause est rédigée de façon claire et compréhensible (art. L. 212-1). Ce qui se conteste, c’est la façon dont le prix peut changer en cours de contrat.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -938,7 +1119,7 @@ Guide · Contrat d’assurance · code des assurances
 Contrat d’assurance : les clauses à vérifier avant de signer
 On lit rarement un contrat d’assurance avant le jour du sinistre. C’est pourtant dans les conditions générales que se trouvent les délais à tenir, les exclusions et la façon d’en sortir. Voici les clauses qui comptent, ce que le code des assurances en dit et ce que vous pouvez répondre.
 Les quatre points Clauses à vérifier Les délais Résilier Renoncer Assurance de prêt Questions fréquentes
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Vous avez au moins cinq jours ouvrés pour déclarer un sinistre, deux pour un vol. Un retard ne vous prive de la garantie que si le contrat le prévoit et si l’assureur prouve que ce retard lui a causé un préjudice.
 Exclusions et déchéances ne valent que si elles sont écrites en caractères très apparents. Une exclusion doit en plus être formelle et limitée.
@@ -1033,11 +1214,11 @@ Puis-je changer de complémentaire santé en cours d’année ?
 Oui, depuis le 1er décembre 2020, après un an de contrat : sans frais, avec effet un mois après la réception de la demande, et le nouvel organisme s’occupe des démarches. La règle ne vaut pas pour le salarié couvert par la complémentaire obligatoire de son entreprise.
 Mon assureur m’oppose une exclusion que je n’avais pas vue. Est-elle valable ?
 Seulement si elle est écrite en caractères très apparents et si elle est formelle et limitée, c’est-à-dire assez précise pour que vous sachiez à la lecture ce qui n’est pas couvert (art. L. 112-4 et L. 113-1). Dans le cas contraire, contestez par écrit, puis saisissez le médiateur indiqué dans votre contrat.
-Combien de temps ai-je pour agir contre mon assureur ?
+Combien de temps ai-je pour faire valoir mes droits auprès de mon assureur ?
 Deux ans à compter de l’événement, ou du jour où vous en avez eu connaissance si vous prouvez que vous l’ignoriez. Une lettre recommandée avec accusé de réception réclamant l’indemnité interrompt ce délai, tout comme la désignation d’un expert (art. L. 114-1 et L. 114-2).
 Puis-je changer l’assurance de mon prêt immobilier ?
 Oui, à tout moment : la règle s’applique aux nouveaux prêts depuis le 1er juin 2022 et aux contrats en cours depuis le 1er septembre 2022 (loi du 28 février 2022). Le nouveau contrat doit offrir des garanties équivalentes ; la banque ne peut alors pas le refuser (code des assurances, art. L. 113-12-2 ; code de la consommation, art. L. 313-30).
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -1050,7 +1231,7 @@ Guide · Crédit à la consommation · code de la consommation
 Crédit à la consommation : ce qu’il faut vérifier avant de signer
 Une offre de crédit tient en quelques pages, mais ce qui coûte cher s’y trouve rarement en première ligne : l’assurance, les pénalités, l’indemnité de remboursement anticipé. Voici les clauses à lire de près, ce que le code de la consommation en dit et ce que vous pouvez répondre au prêteur.
 Les quatre points Clauses à vérifier Délais et plafonds Avant la signature Crédit lié à un achat Réforme de novembre 2026 Questions fréquentes
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Vous avez quatorze jours pour vous rétracter après avoir accepté l’offre, sans motif. Aucune clause ne peut vous faire renoncer à ce délai.
 L’offre reste valable quinze jours au moins, et aucun paiement ne peut avoir lieu pendant les sept jours qui suivent votre acceptation.
@@ -1150,12 +1331,12 @@ J’ai financé un achat à crédit et je me rétracte : que devient la vente ?
 Si vous vous rétractez du crédit dans le délai, la vente est résolue de plein droit, sans indemnité. Quand vous avez demandé une livraison immédiate, cet effet ne joue que pendant les trois premiers jours (art. L. 312-52).
 Pendant combien de temps le prêteur peut-il me poursuivre pour un impayé ?
 Il doit saisir le juge dans les deux ans qui suivent le premier impayé non régularisé. Passé ce délai, son action n’est plus recevable (art. R. 312-35).
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
 
-## Mandat de vente immobilier : les clauses à vérifier avant de signer | Scansa
+## Mandat de vente immobilier : les clauses à vérifier | Scansa
 URL : https://scansa.fr/analyse-mandat-de-vente.html
 
 Accueil / Mandat de vente
@@ -1163,7 +1344,7 @@ Guide · Mandat de vente · loi Hoguet et décret du 20 juillet 1972
 Mandat de vente : ce qu’il faut vérifier avant de signer avec une agence
 Signer un mandat de vente, c’est s’engager avec une agence pour plusieurs mois, parfois en exclusivité. Le document est souvent un formulaire que l’on signe en fin de rendez-vous. Voici les clauses à lire avant, ce que permettent la loi du 2 janvier 1970, dite loi Hoguet, et son décret d’application, et ce que vous pouvez répondre à l’agence.
 Les quatre points Clauses à vérifier Les règles en bref Contenu du mandat Rétractation Honoraires Questions fréquentes
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Un mandat de vente est écrit, signé avant toute démarche de l’agence et limité dans le temps. Sans durée, il est nul.
 Un mandat exclusif se dénonce à tout moment une fois passés trois mois, avec quinze jours de préavis, par lettre recommandée avec avis de réception.
@@ -1257,7 +1438,7 @@ J’ai signé le mandat chez moi : puis-je me rétracter ?
 Selon la DGCCRF, oui : un mandat signé hors de l’agence ouvre un délai de rétractation de quatorze jours, sans motif. L’agence doit vous remettre un formulaire pour l’exercer (code de la consommation, art. L. 221-18).
 Les honoraires d’agence sont-ils plafonnés ?
 Pas pour une vente : ils sont libres, mais le barème doit être affiché et le mandat doit préciser leur montant et la partie qui les paie. L’agence ne peut pas percevoir plus que ce que le mandat prévoit. Pour une location, la part du locataire est plafonnée.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -1271,8 +1452,8 @@ Justificatif de domicile : quels documents, et jusqu’à quand ils sont valable
 Trois mois, un an, pas de délai du tout : l’ancienneté acceptée change selon le document et selon l’organisme. Voici les treize documents que l’on vous présente le plus, ce que chacun prouve vraiment et ce que Scansa vérifie quand vous le photographiez.
 Télécharger sur App Store
 Obtenir sur Google Play
-Ce que Scansa vérifie Les treize documents Les pièges Hébergé chez un proche L’outil gratuit Questions fréquentes
-Mis à jour le 24 octobre 2026
+Ce que Scansa vérifie Les treize documents Les refus Hébergé chez un proche L’outil gratuit Questions fréquentes
+Mis à jour le 17 novembre 2026
 L’essentiel
 Il n’existe pas une liste unique : chaque organisme fixe les documents qu’il accepte et leur ancienneté.
 Pour une carte d’identité ou un passeport, le justificatif doit avoir moins d’un an. Bailleurs, banques et employeurs demandent souvent moins de trois mois.
@@ -1298,7 +1479,7 @@ Autre acte notarié (succession, procuration) Non retenu Ce n’est pas un titre
 Bulletin de salaire, extrait Kbis, facture d’achat Non retenu Documents reconnus, mais absents des listes de justificatifs. Non valable.
 Avis ou paiement d’amende Non retenu Une amende ne prouve pas un domicile. Non valable.
 Modèle vierge Non retenu Aucun nom ni adresse réels. Non valable.
-03 Les pièges qui font refuser un dossier
+03 Ce qui fait refuser un justificatif
 Réserve
 La facture envoyée à une autre adresse que celle du logement
 Une facture d’énergie porte deux adresses : celle où le courant ou le gaz est consommé, et celle où la facture est envoyée. C’est la première qui prouve le domicile. Si elles diffèrent, le document peut être contesté.
@@ -1336,7 +1517,7 @@ Je vis chez mes parents, que fournir ?
 Une attestation d’hébergement signée par l’un d’eux, la copie de sa pièce d’identité et un justificatif de domicile récent à son nom.
 Une quittance faite par un particulier est-elle valable ?
 Elle peut l’être, mais certains organismes ne retiennent que les quittances émises par un professionnel, une agence ou un bailleur social. Scansa la rend « avec réserve » quand elle n’a pas d’en-tête.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -1348,7 +1529,7 @@ Accueil / Guides / Bail mobilité : qui peut le signer, ce qu’il interdit
 Guide · Location
 Bail mobilité : qui peut le signer, ce qu’il interdit
 Pensé pour les stages, les études et les missions, le bail mobilité est plus souple qu’un bail meublé. Il obéit aussi à des règles strictes, et une seule mention oubliée lui fait perdre son régime.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Réservé à qui, au début du bail, est étudiant, apprenti, stagiaire, en formation professionnelle, en service civique, en mutation ou en mission temporaire.
 Un mois au moins, dix mois au plus, sans renouvellement ni reconduction. Un seul avenant possible, dans la limite des dix mois.
@@ -1384,19 +1565,19 @@ Le bailleur peut-il demander un dépôt de garantie ?
 Non, c’est interdit (article 25-13). Il peut demander une caution, ou accepter la garantie Visale.
 Quel préavis pour quitter un bail mobilité ?
 Un mois, à tout moment, par lettre recommandée, acte de commissaire de justice ou remise en main propre contre récépissé.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
 
-## Bail commercial : durée de neuf ans, congé triennal, renouvellement | Scansa
+## Bail commercial : neuf ans, congé triennal, renouvellement | Scansa
 URL : https://scansa.fr/guides/bail-commercial-clauses.html
 
 Accueil / Guides / Bail commercial : durée, congé, renouvellement
 Guide · Location
 Bail commercial : durée, congé, renouvellement
 Le bail commercial n’obéit pas à la loi de 1989 mais au code de commerce. Ses règles protègent le fonds du commerçant, et quelques-unes ne peuvent pas être écartées par le contrat.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Neuf ans au moins. Le locataire peut donner congé à la fin de chaque période de trois ans, six mois à l’avance.
 Des exceptions existent : bail de plus de neuf ans, locaux monovalents, bureaux, locaux de stockage.
@@ -1427,19 +1608,19 @@ Peut-on quitter un bail commercial avant neuf ans ?
 Oui, à la fin de chaque période de trois ans, avec six mois de préavis, sauf dans les cas où le bail peut écarter cette faculté : bail de plus de neuf ans, locaux monovalents, bureaux, stockage.
 Le bailleur peut-il refuser le renouvellement ?
 Oui, mais il doit en principe verser une indemnité d’éviction, sauf motif grave et légitime.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
 
-## Location saisonnière : contrat écrit, prix, état descriptif, 90 jours | Scansa
+## Location saisonnière : le contrat et la règle des 90 jours | Scansa
 URL : https://scansa.fr/guides/location-saisonniere-contrat.html
 
 Accueil / Guides / Location saisonnière : le contrat et ses règles
 Guide · Location
 Location saisonnière : le contrat et ses règles
 Une semaine au bord de la mer, un mois pour un chantier : la location saisonnière se signe vite. Elle échappe à la loi de 1989, et le contrat compte d’autant plus.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Le contrat est écrit et indique le prix et un état descriptif des lieux.
 Un même client ne peut pas louer plus de quatre-vingt-dix jours consécutifs dans l’année civile.
@@ -1468,7 +1649,480 @@ Quelle durée maximale pour une location saisonnière ?
 Quatre-vingt-dix jours consécutifs pour un même client sur l’année civile. Au-delà, il ne s’agit plus d’un meublé de tourisme.
 Le contrat doit-il être écrit ?
 Oui. L’offre comme le contrat sont écrits et indiquent le prix et un état descriptif des lieux (article L. 324-2 du code du tourisme).
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Permis de louer : déclaration, autorisation, amendes | Scansa
+URL : https://scansa.fr/guides/permis-de-louer.html
+
+Accueil / Guides / Permis de louer : déclaration et autorisation
+Guide · Location
+Permis de louer : déclaration de mise en location, autorisation préalable et amendes
+Dans un périmètre fixé par la commune ou l’intercommunalité, le bailleur déclare sa mise en location sous 15 jours (CCH L634-1) ou obtient une autorisation avant de louer (L635-1). Le défaut expose à une amende, sans effet sur le bail du locataire.
+Mis à jour le 17 novembre 2026
+L’essentiel
+Deux régimes existent, décidés par la commune ou l’intercommunalité pour un périmètre précis : la déclaration de mise en location (article L634-1 du Code de la construction et de l’habitation) et l’autorisation préalable (article L635-1).
+Déclaration : dans les 15 jours qui suivent la conclusion du bail. Autorisation : avant la mise en location, le silence gardé un mois valant accord.
+Amende : jusqu’à 5 000 € pour la déclaration manquante ; jusqu’à 5 000 € puis 15 000 € pour l’autorisation.
+Dans les deux cas, le défaut est sans effet sur le bail dont bénéficie le locataire.
+01 Deux régimes, un même principe
+Le « permis de louer » n’est pas une règle nationale qui s’applique partout. C’est une faculté ouverte à l’établissement public de coopération intercommunale compétent en matière d’habitat, ou à défaut au conseil municipal, qui délimite par délibération des zones où la mise en location est contrôlée.
+Le régime de la déclaration est organisé par les articles L634-1 à L634-5 du Code de la construction et de l’habitation, celui de l’autorisation préalable par les articles L635-1 à L635-11. Le second vise des zones où l’habitat dégradé est présent en proportion importante.
+La délibération ne prend effet que six mois au plus tôt après sa publication. Elle ne s’applique pas aux bailleurs sociaux ni aux logements conventionnés.
+02 La déclaration de mise en location
+Le bailleur dépose sa déclaration dans les 15 jours qui suivent la conclusion du contrat, auprès du président de l’intercommunalité ou du maire, selon ce que prévoit la délibération. Un récépissé lui est remis, et il en transmet une copie au locataire. La déclaration est renouvelée à chaque nouvelle mise en location.
+Un renouvellement ou un avenant au bail en cours n’est pas une nouvelle mise en location : il n’appelle pas de nouvelle déclaration (article R634-1).
+Si le dossier est incomplet, l’administration le signale dans la semaine et laisse un mois pour le compléter (article R634-3).
+Le formulaire est fixé par arrêté, et le dépôt en ligne est possible quand la délibération le prévoit.
+03 L’autorisation préalable
+Ici, le bailleur demande l’accord avant de louer. Le maire ou le président de l’intercommunalité peut refuser, ou assortir son accord de conditions, quand le logement ne respecte pas les critères de décence ou menace la sécurité ou la santé des occupants. Le refus doit être motivé.
+En l’absence de réponse pendant un mois, l’autorisation est réputée accordée. Elle est renouvelée à chaque nouvelle mise en location, doit être jointe au contrat de bail, et devient caduque si aucune location n’intervient dans les deux ans (article R635-3).
+Aucune autorisation n’est délivrée pour un immeuble visé par un arrêté d’insalubrité ou de péril.
+04 Les sanctions
+Situation Amende maximale Référence
+Pas de déclaration de mise en location 5 000 € CCH L634-4
+Location sans avoir déposé de demande d’autorisation 5 000 €, puis 15 000 € en cas de nouveau manquement dans les trois ans CCH L635-7
+Location malgré un refus d’autorisation 15 000 € CCH L635-7
+L’amende est prononcée par le maire ou le président de l’intercommunalité, après que le bailleur a pu présenter ses observations pendant un mois. Elle est proportionnée à la gravité des faits et ne peut pas être prononcée plus d’un an après leur constatation.
+Pour le locataire, la loi est explicite : l’absence de déclaration, comme l’absence d’autorisation, est sans effet sur le bail dont il bénéficie.
+Ce que la règle prévoit pour chacun
+Côté locataire
+Le bail reste valable et le locataire reste tenu de payer le loyer. L’absence de déclaration ou d’autorisation n’ouvre pas de droit à ne plus payer.
+Il peut demander le récépissé de déclaration, ou l’autorisation qui doit être jointe au bail, et se renseigner auprès de la mairie ou de l’intercommunalité sur le périmètre concerné.
+Côté propriétaire
+Il lui revient de vérifier si l’adresse se trouve dans un périmètre délimité, avant de signer, et de déposer la déclaration ou la demande dans le délai.
+Pour la déclaration, le versement des aides personnelles au logement directement au bailleur est subordonné à la production du récépissé.
+05 Savoir si une adresse est concernée
+Il n’existe pas de liste nationale. Le périmètre figure dans la délibération de la commune ou de l’intercommunalité, que la mairie ou l’intercommunalité peut communiquer. C’est à cet endroit qu’il faut vérifier, adresse par adresse.
+Ce guide ne traite pas de l’encadrement des loyers ni du préavis réduit : voir sur ce dernier point le guide sur les zones tendues.
+→ À lire aussi
+Analyse de bail de location Contrat
+Bail : les mentions obligatoires Guide
+Zone tendue : préavis et évolution du loyer Guide
+? Questions fréquentes
+Le permis de louer existe-t-il partout en France ?
+Non. C’est une faculté, ouverte à l’intercommunalité compétente en matière d’habitat ou à la commune, qui délimite les zones concernées par délibération. Hors de ces zones, aucune déclaration ni autorisation n’est exigée à ce titre.
+Quel est le délai pour déclarer une mise en location ?
+La déclaration se dépose dans les 15 jours qui suivent la conclusion du bail (article L634-3 du Code de la construction et de l’habitation). Elle est renouvelée à chaque nouvelle mise en location, mais pas pour un simple renouvellement du bail.
+Le bail est-il nul si le bailleur n’a rien déclaré ou demandé ?
+Non. Les articles L634-3 et L635-8 précisent que l’absence de déclaration ou d’autorisation est sans effet sur le bail dont bénéficie le locataire. Le bailleur s’expose en revanche à une amende.
+Combien le bailleur risque-t-il ?
+Jusqu’à 5 000 € pour une déclaration manquante. Pour l’autorisation : jusqu’à 5 000 € si aucune demande n’a été déposée (15 000 € en cas de nouveau manquement dans les trois ans), et jusqu’à 15 000 € si le bien est loué malgré un refus.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Dossier de location : pièces autorisées, amende | Scansa
+URL : https://scansa.fr/guides/pieces-justificatives-dossier-location.html
+
+Accueil / Guides / Dossier de location : les pièces autorisées
+Guide · Location
+Dossier de location : les pièces qu’un bailleur peut demander, et celles qu’il ne peut pas
+Le décret du 5 novembre 2015 fixe une liste limitative de pièces. En demander d’autres expose le bailleur à une amende administrative de 3 000 € (personne physique) ou 15 000 € (personne morale), article 22-2 de la loi du 6 juillet 1989.
+Mis à jour le 17 novembre 2026
+L’essentiel
+La liste des pièces qu’un bailleur peut demander est fixée par le décret n° 2015-1437 du 5 novembre 2015 : elle est limitative.
+Demander une pièce qui n’y figure pas est sanctionné par une amende administrative de 3 000 € au plus pour une personne physique, 15 000 € pour une personne morale (article 22-2 de la loi du 6 juillet 1989).
+Le bailleur ne peut pas imposer la cosignature d’un ascendant ou d’un descendant du locataire.
+Des copies suffisent au dépôt du dossier ; les originaux peuvent être présentés sur demande.
+01 Une liste fermée
+L’article 22-2 de la loi du 6 juillet 1989 interdit au bailleur, ou à son mandataire, de demander d’autres pièces que celles que le décret énumère. Le décret du 5 novembre 2015 distingue deux annexes : l’une pour le candidat locataire, l’autre pour la caution.
+Les documents peuvent être des copies, rédigés en français et libellés en euros. Le bailleur peut demander à voir l’original, mais ne conserve que ce que la liste permet.
+02 Les pièces du locataire (annexe 1)
+Le dossier comporte quatre catégories. Pour chacune, le bailleur choisit parmi les documents de la liste, sans pouvoir en exiger un en particulier lorsque plusieurs sont admis.
+Catégorie Ce qui peut être demandé Référence
+Identité Un seul document : carte d’identité, passeport, permis de conduire ou document attestant du droit au séjour. Décret 2015-1437, annexe 1
+Domicile Un seul document : trois dernières quittances de loyer ou attestation du précédent bailleur, attestation d’élection de domicile, attestation sur l’honneur de l’hébergeant, ou dernier avis de taxe foncière ou titre de propriété. Décret 2015-1437, annexe 1
+Activité professionnelle Un ou plusieurs documents : contrat de travail ou attestation de l’employeur, extrait Kbis ou K de moins de trois mois, carte professionnelle, carte d’étudiant ou certificat de scolarité, entre autres. Décret 2015-1437, annexe 1
+Ressources Un ou plusieurs documents : dernier ou avant-dernier avis d’imposition, trois derniers bulletins de salaire, justificatifs de prestations et de pensions des trois derniers mois, attestation de ressources, avis d’attribution de bourse, entre autres. Décret 2015-1437, annexe 1
+Pour l’avis d’imposition, voir aussi le guide sur ce qu’il faut regarder avant de le transmettre. Le justificatif de domicile a sa propre page.
+03 Les pièces de la caution (annexe 2)
+La caution, quand le bailleur en demande une dans les cas où la loi le permet, peut se voir demander une liste du même type :
+Personne physique : une pièce d’identité, un justificatif de domicile (dernière quittance, facture de moins de trois mois, attestation d’assurance logement de moins de trois mois, avis de taxe foncière ou titre de propriété), un justificatif d’activité et des justificatifs de ressources.
+Personne morale : un extrait Kbis de moins de trois mois ou les statuts, et la pièce d’identité du représentant.
+04 Ce que la règle interdit
+Une pièce qui ne figure pas dans l’annexe ne peut pas être demandée. L’article 22-2 vise aussi un montage précis : le bailleur ne peut pas exiger la cosignature du bail par un ascendant ou un descendant du locataire.
+L’amende est prononcée par le préfet, après que le bailleur a pu présenter ses observations. Elle est proportionnée à la gravité du manquement et ne peut pas être prononcée plus d’un an après sa constatation.
+Avant la signature du bail, aucune somme ne peut en outre être demandée pour réserver le logement.
+Ce que vous pouvez écrire
+Bonjour, la liste des pièces qu’un bailleur peut demander est fixée par le décret du 5 novembre 2015. La pièce [intitulé] n’y figure pas. Je vous propose de la remplacer par [pièce de la liste]. Merci de me confirmer que ce dossier convient ainsi.
+Ce que la règle permet à chacun
+Côté locataire
+Il peut choisir, pour chaque catégorie, parmi les pièces de la liste, et refuser de fournir une pièce qui n’y figure pas.
+Il peut transmettre des copies et garder ses originaux.
+Côté propriétaire
+Il peut demander des pièces de chaque catégorie pour apprécier la solvabilité, dans la liste du décret.
+Il peut demander à voir les originaux, et s’assurer que les ressources déclarées sont cohérentes avec les pièces fournies.
+→ À lire aussi
+Justificatif de domicile : lequel, de quand Document
+Vérifier un avis d’imposition Guide
+GLI et caution : pas les deux Guide
+? Questions fréquentes
+Qui fixe la liste des pièces qu’un bailleur peut demander ?
+Le décret n° 2015-1437 du 5 novembre 2015, pris en application de l’article 22-2 de la loi du 6 juillet 1989. La liste est limitative : une pièce absente du décret ne peut pas être demandée.
+Que risque un bailleur qui demande une pièce interdite ?
+Une amende administrative d’au plus 3 000 € pour une personne physique et 15 000 € pour une personne morale. Elle est prononcée par le préfet, après que le bailleur a pu présenter ses observations.
+Le bailleur peut-il exiger un parent comme cosignataire du bail ?
+Non. L’article 22-2 interdit d’exiger la cosignature d’un ascendant ou d’un descendant du locataire. Une caution peut être proposée, dans les conditions de l’article 22-1.
+Faut-il fournir les originaux des documents ?
+Non, des copies suffisent pour constituer le dossier. Le bailleur peut demander à voir les originaux, qui doivent alors pouvoir être présentés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Zone tendue : préavis d’un mois et loyer à la relocation | Scansa
+URL : https://scansa.fr/guides/zone-tendue-bail.html
+
+Accueil / Guides / Zone tendue : préavis et évolution du loyer
+Guide · Location
+Zone tendue : préavis d’un mois, évolution du loyer et liste officielle des communes
+En zone tendue, le locataire d’un logement vide donne un préavis d’un mois (article 15 de la loi du 6 juillet 1989). Les communes concernées figurent dans une liste fixée par décret, que le service-public.fr permet de consulter.
+Mis à jour le 17 novembre 2026
+L’essentiel
+En zone tendue, le préavis du locataire est d’un mois en location vide (article 15 de la loi du 6 juillet 1989), à condition que la lettre le mentionne.
+Les communes concernées sont celles de la liste fixée par décret : c’est cette liste, et non l’impression locale, qui fait foi.
+À la relocation et au renouvellement, le loyer évolue dans un cadre plus strict que hors zone tendue.
+La liste a changé en 2023 et en 2025 : la date de signature du bail compte.
+01 Ce que « zone tendue » désigne
+L’article 17 de la loi du 6 juillet 1989 vise les zones d’urbanisation continue de plus de 50 000 habitants où existe un déséquilibre marqué entre l’offre et la demande de logements. La liste des communes est établie par décret : c’est le décret n° 2013-392 du 10 mai 2013 et ses modifications.
+Le terme est courant, mais le droit parle de communes figurant sur cette liste. Une commune voisine d’une grande ville n’y figure pas forcément.
+02 Le préavis d’un mois
+Hors zone tendue, le préavis d’un locataire en location vide est de trois mois. En zone tendue, il est d’un mois (article 15). En meublé, il est d’un mois partout, sans condition de zone.
+Pour le préavis d’un mois en zone tendue, le service-public.fr indique que la lettre de congé doit préciser l’adresse du logement et que le locataire bénéficie d’un « délai de préavis réduit à un mois ». À défaut, le préavis de trois mois s’applique.
+Le congé est envoyé par lettre recommandée avec avis de réception, signifié par un commissaire de justice ou remis en main propre contre signature ou récépissé. Un courriel ne suffit pas.
+Par lettre recommandée, le préavis court à compter de la réception.
+03 L’évolution du loyer à la relocation et au renouvellement
+En zone tendue, quand un logement est reloué ou qu’un bail est renouvelé, le loyer ne peut pas dépasser le dernier loyer, sauf une hausse limitée à la variation de l’indice de référence des loyers, avec des exceptions prévues par la loi : un loyer précédent manifestement sous-évalué, ou des travaux d’amélioration. Ce plafond est fixé par un décret annuel pris au titre de l’article 18.
+Le décret en vigueur est le décret n° 2026-644 du 20 juillet 2026, applicable du 1er août 2026 au 31 juillet 2027. Il reconduit pour un an le dispositif du décret n° 2017-1198.
+04 Vérifier si une commune est concernée
+Le service-public.fr propose un simulateur officiel de zones tendues. Il demande la date de signature du bail, parce que la liste a été modifiée le 27 août 2023 (décret n° 2023-822) puis le 24 décembre 2025 (décret n° 2025-1267). Un bail signé, renouvelé ou reconduit à partir du 24 décembre 2025 dans une commune sortie de la liste n’est plus considéré en zone tendue.
+Au 1er janvier 2027, le décret du 10 mai 2013 doit être abrogé par le décret n° 2026-831 du 25 août 2026. La liste applicable aux règles de bail à cette date est à vérifier avant de s’y fier.
+Les villes à loyer plafonné relèvent d’un dispositif distinct, qui n’est pas traité ici.
+Ce que la règle prévoit pour chacun
+Côté locataire
+Il peut raccourcir son préavis à un mois si le logement est en zone tendue, et doit pour cela l’écrire dans sa lettre avec l’adresse du logement.
+Il peut vérifier la liste à la date de signature de son bail.
+Côté propriétaire
+Il peut s’attendre à un préavis d’un mois en location vide quand le logement est situé dans une commune de la liste, sans que le locataire ait à se justifier autrement que par la mention de la lettre.
+Il applique le plafond d’évolution du loyer à la relocation et au renouvellement.
+→ À lire aussi
+Préavis du locataire : un mois ou trois Guide
+Calculer son préavis de locataire Outil
+Congé donné par le bailleur Guide
+? Questions fréquentes
+Quel est le préavis d’un locataire en zone tendue ?
+Un mois en location vide (article 15 de la loi du 6 juillet 1989), à condition que la lettre précise l’adresse du logement et que le locataire bénéficie du délai réduit. À défaut, le préavis est de trois mois.
+Le préavis est-il aussi d’un mois pour un meublé ?
+Oui. En location meublée, le préavis du locataire est d’un mois partout, sans condition de zone et sans motif à indiquer.
+Comment savoir si ma commune est en zone tendue ?
+En consultant le simulateur officiel du service-public.fr, qui demande la date de signature du bail, la liste ayant été modifiée en août 2023 puis en décembre 2025. La liste de référence est celle du décret du 10 mai 2013 et de ses modifications.
+Que se passe-t-il pour le loyer à la relocation en zone tendue ?
+Le loyer ne peut pas dépasser le dernier loyer, sauf hausse limitée à la variation de l’indice de référence des loyers et exceptions prévues par la loi (loyer sous-évalué, travaux). Le décret annuel en vigueur court du 1er août 2026 au 31 juillet 2027.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## GLI et caution : pas de cumul, forme et durée | Scansa
+URL : https://scansa.fr/guides/gli-et-caution.html
+
+Accueil / Guides / GLI et caution : pas les deux
+Guide · Location
+GLI et caution : pourquoi le bailleur ne peut pas demander les deux
+Un bailleur qui a souscrit une assurance contre les loyers impayés ne peut pas exiger de caution, à peine de nullité (article 22-1 de la loi du 6 juillet 1989), sauf pour un étudiant ou un apprenti.
+Mis à jour le 17 novembre 2026
+L’essentiel
+Quand le bailleur a souscrit une assurance ou une autre garantie couvrant les obligations locatives, il ne peut pas demander de caution, à peine de nullité (article 22-1 de la loi du 6 juillet 1989).
+L’exception vise les locataires étudiants ou apprentis.
+L’acte de cautionnement doit respecter des formes précises, sous peine de nullité.
+Sans durée précisée, la caution peut mettre fin à son engagement par lettre recommandée, effet à la fin du bail en cours.
+01 Pas de cumul entre GLI et caution
+La garantie des loyers impayés (GLI) est une assurance souscrite par le bailleur. L’article 22-1 prévoit que, si le bailleur a pris une assurance ou une autre garantie couvrant les obligations locatives du locataire, il ne peut pas exiger de caution. Un cautionnement demandé malgré cela est nul.
+L’exception concerne le locataire étudiant ou apprenti : pour un bailleur personne physique qui a souscrit une assurance privée, une caution reste possible dans ce cas. Un bailleur personne morale ne peut pas demander de caution à un étudiant boursier, sauf si elle émane d’un organisme figurant sur la liste prévue par la loi.
+L’interdiction ne s’applique pas à une société civile immobilière constituée entre parents jusqu’au quatrième degré inclus.
+02 Qui paie la prime d’assurance
+La GLI est souscrite par le bailleur, qui en supporte la prime. La liste des charges récupérables, fixée par le décret n° 87-713 du 26 août 1987, est limitative : à vérifier dans le bail, la prime ne devrait pas être réclamée au locataire comme une charge.
+03 Visale
+Visale est une garantie gratuite proposée par Action Logement. Elle couvre, selon les conditions du dispositif, les loyers et charges impayés pendant les trois premières années du bail. La demande se fait avant la signature du bail.
+04 L’acte de cautionnement
+Le cautionnement doit être écrit. Sous peine de nullité, l’acte comporte :
+le montant du loyer et ses conditions de révision ;
+la reproduction de l’avant-dernier alinéa de l’article 22-1 ;
+la mention exigée par l’article 2297 du Code civil, que la caution doit apposer elle-même.
+Le bailleur remet à la caution un exemplaire du contrat de location, sauf si l’acte de cautionnement figure dans le contrat lui-même.
+05 La durée de la caution
+Durée précisée : la caution ne peut pas se retirer et reste engagée jusqu’à la date prévue.
+Durée non précisée ou indéterminée : la caution peut mettre fin à son engagement par lettre recommandée avec avis de réception. L’effet intervient à la fin du bail en cours, et elle reste tenue des dettes nées pendant celui-ci.
+Décès de la caution : ses héritiers ne répondent que des dettes nées avant le décès.
+Le bailleur peut réclamer les loyers impayés pendant trois ans (article 7-1). Une caution simple n’est appelée qu’après que le bailleur s’est tourné vers le locataire ; une caution solidaire peut l’être directement dès le premier impayé.
+Ce que la règle prévoit pour chacun
+Côté locataire
+Il peut demander que le bailleur indique s’il a souscrit une assurance couvrant les loyers, ce qui commande la validité d’une caution.
+Il peut proposer une garantie de son choix, dans les limites de la loi.
+Côté propriétaire
+Il choisit entre assurance et caution : l’un exclut l’autre, sauf étudiant ou apprenti.
+Il veille à la forme de l’acte de cautionnement, dont les mentions sont exigées à peine de nullité.
+→ À lire aussi
+Dépôt de garantie : le maximum légal Guide
+Colocation : la clause de solidarité Guide
+Dossier de location : les pièces autorisées Guide
+? Questions fréquentes
+Un bailleur peut-il demander une caution s’il a une GLI ?
+Non, sauf si le locataire est étudiant ou apprenti. L’article 22-1 de la loi du 6 juillet 1989 interdit d’exiger une caution quand le bailleur a souscrit une assurance ou une autre garantie couvrant les obligations locatives, à peine de nullité.
+Qui paie la prime de la GLI ?
+Le bailleur, qui la souscrit. Le décret n° 87-713 fixe la liste, limitative, des charges récupérables : c’est à cette liste qu’il faut se reporter avant d’accepter qu’une prime figure dans les charges.
+Quelles mentions l’acte de cautionnement doit-il contenir ?
+Le montant du loyer et ses conditions de révision, la reproduction de l’avant-dernier alinéa de l’article 22-1 et la mention de l’article 2297 du Code civil, apposée par la caution elle-même. L’absence d’une de ces mentions entraîne la nullité.
+La caution peut-elle se retirer ?
+Si la durée n’est pas précisée, oui, par lettre recommandée avec avis de réception, avec effet à la fin du bail en cours. Si une durée est précisée, la caution reste engagée jusqu’à son terme.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Vérifier un avis d’imposition : service officiel, 2D-Doc | Scansa
+URL : https://scansa.fr/guides/verifier-avis-d-imposition.html
+
+Accueil / Guides / Vérifier un avis d’imposition
+Guide · Location
+Vérifier un avis d’imposition : le service officiel et le 2D-Doc
+Le service de vérification des avis d’impots.gouv.fr compare le numéro fiscal et la référence de l’avis (13 chiffres chacun) au dernier avis connu ; le 2D-Doc imprimé sur l’avis confirme que les données n’ont pas été modifiées.
+Mis à jour le 17 novembre 2026
+L’essentiel
+Le service de vérification des avis d’impots.gouv.fr compare le numéro fiscal et la référence de l’avis, deux numéros de 13 chiffres, au dernier avis connu de l’administration.
+« Conforme » : l’avis présenté est le plus récent pour ce foyer. « Non-conforme » : un avis plus récent existe, ou l’un des numéros a été mal saisi.
+Le 2D-Doc imprimé sur l’avis se lit avec une application de lecture reconnue : il confirme que les données n’ont pas été modifiées.
+Ni l’un ni l’autre ne mesure la solvabilité : ils établissent que la pièce est authentique et à jour.
+01 Le service officiel de vérification des avis
+L’administration fiscale met en ligne un « service de vérification des avis », accessible depuis impots.gouv.fr (entrée « Vérifier un avis d’impôt »). Il est destiné aux organismes qui demandent un avis d’impôt comme justificatif de revenus : une mairie, un bailleur, une agence. L’avis présenté peut être l’original papier, une photocopie ou un document imprimé depuis l’espace particulier du locataire.
+On y saisit deux numéros qui figurent sur l’avis : le numéro fiscal à 13 chiffres et la référence de l’avis, également à 13 chiffres. Le service répond par un résultat, jamais par le détail des revenus.
+Conforme : l’avis correspond au dernier avis que l’administration détient pour ce foyer fiscal.
+Non-conforme : soit un avis plus récent a été émis depuis, soit l’un des deux numéros a été mal recopié. Dans le premier cas, le locataire peut fournir l’avis le plus récent ; dans le second, il suffit de vérifier la saisie.
+Situation partielle : affichée avec « conforme » dans les cas de veuvage où deux déclarations sont nécessaires ; l’avis correspond alors à l’une d’elles.
+Un résultat « non-conforme » n’est donc pas, en soi, un signe de falsification : il invite à regarder si un avis plus récent existe, ou à recontrôler les numéros.
+02 Le 2D-Doc imprimé sur l’avis
+Le 2D-Doc est un code à barres en deux dimensions, signé électroniquement, que l’administration imprime sur certains documents. L’ANTS (France Titres), qui met en œuvre le dispositif pour le ministère de l’Intérieur, recense plusieurs applications de lecture reconnues, parmi lesquelles Otentik Code Reader et 2D-DOC Reader. Il n’existe donc pas une application unique : on choisit l’une de celles que l’ANTS référence.
+Les deux contrôles se complètent. Le 2D-Doc confirme que le document n’a pas été retouché. Le service en ligne confirme que l’avis est le plus récent. Aucun des deux ne remplace l’autre.
+03 Ce que le contrôle établit, et ce qu’il laisse ouvert
+Il établit que le numéro fiscal et la référence correspondent au dernier avis connu, et que les données du 2D-Doc sont celles que l’administration a signées.
+Il ne juge pas le niveau de revenus : le service ne vérifie pas le contenu des montants.
+Il ne vérifie pas les autres pièces du dossier (bulletins de salaire, contrat de travail), qui ont chacune leur contrôle propre.
+Il ne dit rien du projet de location : la décision reste celle du bailleur, sur des critères qu’il applique à tous les candidats.
+Une pièce vérifiée donne aux deux parties une base claire : le candidat sait que son document sera reconnu, le bailleur sait sur quoi il s’appuie.
+Le même contrôle, vu des deux côtés
+Côté locataire
+Vous gardez votre avis sous la main, en version papier ou imprimée depuis votre espace en ligne, avec le numéro fiscal et la référence qu’il porte. Si le résultat est « non-conforme » parce qu’un avis plus récent est sorti, vous remettez le dernier avis : c’est lui que la règle vise.
+Côté propriétaire
+Vous saisissez les numéros tels qu’ils sont imprimés et vous notez la date du contrôle dans le dossier. Un « non-conforme » appelle une question au candidat (un avis plus récent existe-t-il ?) avant toute conclusion.
+04 Ce que le bailleur peut demander
+Le décret n° 2015-1437 du 5 novembre 2015 fixe la liste, limitative, des pièces qu’un bailleur peut demander au candidat locataire et à sa caution. L’avis d’imposition y figure parmi les justificatifs de ressources. Pour le candidat, il peut s’agir du dernier avis ou de l’avant-dernier avis d’imposition ou de non-imposition. Pour une caution personne physique, seul le dernier avis est prévu.
+Le bailleur a le droit de demander à voir l’original d’une pièce que le locataire a fournie en copie. Une pièce qui ne figure pas dans la liste ne peut pas être exigée.
+→ À lire aussi
+Dossier de location : les pièces qui peuvent être demandées Guide
+Justificatif de domicile : lequel, de quand Document
+Assurance loyers impayés et caution Guide
+? Questions fréquentes
+Où vérifier un avis d’imposition fourni par un candidat locataire ?
+Sur le service de vérification des avis d’impots.gouv.fr, entrée « Vérifier un avis d’impôt ». Il demande le numéro fiscal et la référence de l’avis, tous deux à 13 chiffres, et répond « conforme » ou « non-conforme ».
+Que veut dire « non-conforme » ?
+Soit un avis plus récent a été émis depuis celui qui est présenté, soit l’un des deux numéros a été mal saisi. Ce résultat n’est pas une preuve de falsification : il appelle un second contrôle, ou la remise du dernier avis.
+Comment lire le 2D-Doc d’un avis d’imposition ?
+Avec une application de lecture reconnue par l’ANTS, par exemple Otentik Code Reader ou 2D-DOC Reader. Le 2D-Doc confirme que les données imprimées n’ont pas été modifiées ; il ne dit pas si l’avis est le plus récent.
+Quel avis d’imposition le bailleur peut-il demander ?
+Le décret n° 2015-1437 prévoit, pour le candidat locataire, le dernier ou l’avant-dernier avis d’imposition ou de non-imposition, et pour la caution personne physique le dernier avis. La liste des pièces est limitative.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## État des lieux : mentions obligatoires, entrée et sortie | Scansa
+URL : https://scansa.fr/guides/etat-des-lieux-mentions-obligatoires.html
+
+Accueil / Guides / État des lieux : les mentions obligatoires
+Guide · Location
+État des lieux : les mentions obligatoires, à l’entrée et à la sortie
+L’article 2 du décret n° 2016-382 du 30 mars 2016 liste les informations qu’un état des lieux comporte au moins ; trois mentions s’y ajoutent à la sortie. À l’entrée, dix jours permettent de le faire compléter.
+Mis à jour le 17 novembre 2026
+L’essentiel
+Le décret n° 2016-382 liste les informations qu’un état des lieux comporte au moins (article 2), à l’entrée comme à la sortie.
+À la sortie, trois mentions s’y ajoutent : le nouveau domicile du locataire, la date de l’état des lieux d’entrée et les évolutions constatées depuis.
+Après la signature de l’état des lieux d’entrée, le locataire a dix jours pour demander qu’il soit complété ; pour le chauffage, le premier mois de la période de chauffe (article 3-2 de la loi du 6 juillet 1989).
+Papier ou électronique, il est remis à chaque partie au moment de la signature.
+01 Les mentions communes à l’entrée et à la sortie
+L’état des lieux décrit le logement et constate son état de conservation. Il porte sur l’ensemble des locaux et équipements privatifs mentionnés au bail, dont le locataire a la jouissance exclusive (article 1 du décret). Il comporte au moins :
+le type d’état des lieux (entrée ou sortie) et sa date d’établissement ;
+la localisation du logement ;
+le nom ou la dénomination des parties, et le domicile ou le siège social du bailleur ;
+le cas échéant, le nom et le domicile des personnes mandatées pour le réaliser ;
+le cas échéant, les relevés des compteurs individuels d’eau ou d’énergie ;
+le détail et la destination des clés ou de tout autre moyen d’accès, privatif ou commun ;
+pour chaque pièce, la description précise de l’état des sols, murs, plafonds, équipements et éléments du logement, qui peut être complétée d’observations ou de réserves et illustrée d’images ;
+la signature des parties ou des personnes mandatées.
+02 Ce qui s’ajoute à la sortie
+l’adresse du nouveau domicile ou du lieu d’hébergement du locataire ;
+la date de réalisation de l’état des lieux d’entrée ;
+éventuellement, les évolutions de l’état de chaque pièce constatées depuis l’état des lieux d’entrée.
+Pour que la comparaison soit possible, le document est conçu de façon à rapprocher les deux états : un document unique, ou deux documents de présentation similaire. Le logement ne contient alors que les meubles ou équipements mentionnés au bail (article 3 du décret).
+Dans Scansa, un état des lieux est contrôlé sur ces mentions obligatoires. L’état réel des pièces n’est pas apprécié : c’est aux parties, sur place, de le constater.
+03 Les dix jours, et le premier mois de chauffe
+Le locataire peut demander au bailleur de compléter l’état des lieux d’entrée dans les dix jours qui suivent son établissement. Si le bailleur refuse, la commission départementale de conciliation peut être saisie. Pour les éléments de chauffage, la demande peut aussi être faite pendant le premier mois de la période de chauffe.
+S’il n’y a pas eu d’état des lieux, ou si l’une des parties n’en a pas reçu d’exemplaire, la partie qui a fait obstacle à son établissement ne peut pas invoquer la présomption de l’article 1731 du code civil (article 3-2).
+Ce que vous pouvez écrire
+Nous avons signé l’état des lieux d’entrée le [date]. Dans le délai de dix jours prévu par l’article 3-2 de la loi du 6 juillet 1989, je vous demande de le compléter sur le point suivant : [pièce, observation]. Je reste disponible pour fixer un moment sur place.
+04 Qui paie, quand un professionnel l’établit
+Entre bailleur et locataire qui l’établissent eux-mêmes, l’état des lieux ne coûte rien. Quand un professionnel mandaté l’établit à l’entrée, ses honoraires sont partagés ; la part du locataire ne peut pas dépasser celle du bailleur, ni un plafond par mètre carré de surface habitable fixé par voie réglementaire (3,03 € TTC par m² en 2026). À la sortie, la clause qui facture l’état des lieux au locataire est réputée non écrite, sauf quand un professionnel habilité intervient parce que l’état des lieux amiable n’a pas pu être établi : le coût est alors partagé par moitié, après un avis de sept jours donné aux deux parties.
+Le détail des montants est dans le guide État des lieux : qui paie quoi .
+05 Vétusté, grilles, format électronique
+La vétusté est l’état d’usure résultant du temps ou de l’usage normal des matériaux et équipements. Les parties peuvent convenir, dès la signature du bail, d’appliquer une grille de vétusté choisie parmi celles qui ont fait l’objet d’un accord collectif ; elle définit au minimum une durée de vie théorique et des coefficients d’abattement annuels sur le prix des réparations locatives (article 4 du décret).
+L’état des lieux peut être établi sur papier ou sous forme électronique. Il est remis en main propre ou par voie dématérialisée à chaque partie, au moment de la signature (article 3 du décret).
+Le même document, vu des deux côtés
+Côté locataire
+Vous relevez avec le bailleur chaque pièce, les compteurs et les clés, et vous demandez que vos réserves soient écrites avant de signer. Vous gardez votre exemplaire ; les dix jours courent à partir de l’établissement.
+Côté propriétaire
+Vous décrivez chaque pièce avec précision, vous notez les relevés de compteurs et le détail des clés, et vous remettez un exemplaire à la signature. Un état des lieux complet sert aux deux parties au moment de la comparaison à la sortie.
+→ À lire aussi
+État des lieux : qui paie quoi Guide
+Dépôt de garantie : le maximum légal Guide
+Analyse de bail de location Contrat
+? Questions fréquentes
+Quelles sont les mentions obligatoires d’un état des lieux ?
+Le type d’état des lieux, sa date, la localisation du logement, le nom des parties, les relevés de compteurs le cas échéant, le détail des clés, la description de chaque pièce et la signature des parties (décret n° 2016-382, article 2). À la sortie s’ajoutent le nouveau domicile du locataire, la date de l’état des lieux d’entrée et les évolutions constatées.
+Combien de temps a-t-on pour faire compléter l’état des lieux d’entrée ?
+Dix jours à compter de son établissement (article 3-2 de la loi du 6 juillet 1989). Pour les éléments de chauffage, la demande peut être faite pendant le premier mois de la période de chauffe.
+L’état des lieux peut-il être électronique ?
+Oui. L’article 3 du décret n° 2016-382 prévoit un support papier ou électronique, remis en main propre ou par voie dématérialisée à chaque partie au moment de la signature.
+Le locataire paie-t-il l’état des lieux de sortie ?
+Non, la clause qui le lui facture est réputée non écrite (article 4 k de la loi du 6 juillet 1989). L’exception est l’intervention d’un professionnel habilité quand l’état des lieux amiable est impossible : le coût est alors partagé par moitié.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Acte reçu : commandement de payer, assignation, délais | Scansa
+URL : https://scansa.fr/guides/acte-recu-delais.html
+
+Accueil / Guides / Un acte reçu : ce qu’il ouvre et les délais
+Guide · Location
+Vous avez reçu un acte sur votre logement : ce qu’il signifie et le délai qu’il ouvre
+Un commandement de payer visant la clause résolutoire ouvre six semaines pour payer (article 24 de la loi du 6 juillet 1989) ; un jugement signifié, un mois pour faire appel ; un commandement de quitter les lieux, deux mois avant l’expulsion.
+Mis à jour le 17 novembre 2026
+L’essentiel
+Commandement de payer visant la clause résolutoire : six semaines pour payer (article 24 de la loi du 6 juillet 1989, pour les baux conclus, reconduits ou renouvelés depuis le 29 juillet 2023).
+Jugement signifié : un mois pour faire appel en matière contentieuse (article 538 du code de procédure civile).
+Commandement de quitter les lieux : deux mois avant toute expulsion d’un lieu habité (article L412-1 du code des procédures civiles d’exécution), et pas d’expulsion du 1er novembre au 31 mars (article L412-6).
+Une mention manquante n’annule pas l’acte à elle seule : seul un juge décide.
+01 Cinq actes, cinq effets
+Un acte extrajudiciaire est remis ou signifié par un professionnel habilité. Il fait courir un délai, et chaque type d’acte ouvre un délai différent. La première question est donc : de quel acte s’agit-il.
+Acte reçu Ce qu’il signifie Le délai qu’il ouvre
+Commandement de payer visant la clause résolutoire Le bailleur demande le paiement d’une dette de loyer ou de charges, et annonce la clause résolutoire du bail Six semaines pour payer, avant que la clause produise effet
+Assignation Le bailleur saisit le juge, qui fixera une audience Le bailleur notifie l’assignation au préfet au moins six semaines avant l’audience
+Congé délivré par acte Le bailleur met fin au bail, pour reprise, vente ou motif légitime et sérieux Un préavis, selon le type de bail et le motif
+Signification d’un jugement Le jugement est porté à la connaissance de la partie Un mois pour faire appel, en matière contentieuse
+Commandement de quitter les lieux Le bailleur peut poursuivre l’expulsion, selon une décision de justice Deux mois avant toute expulsion d’un lieu habité
+02 Le commandement de payer visant la clause résolutoire
+Le bail comporte une clause qui le résilie en cas d’impayé de loyer ou de charges, ou de dépôt de garantie non versé. Elle ne produit effet que six semaines après un commandement de payer resté sans résultat (article 24, I). Le commandement doit mentionner, à peine de nullité, le délai de six semaines, le montant mensuel du loyer et des charges, le décompte de la dette, l’avertissement de la procédure d’expulsion, la possibilité de saisir le fonds de solidarité pour le logement et celle de demander des délais de paiement (article 1343-5 du code civil).
+Ce délai de six semaines résulte de la loi n° 2023-668 du 27 juillet 2023. L’ANIL indique qu’il s’applique aux baux conclus, reconduits ou renouvelés depuis le 29 juillet 2023. Pour un bail plus ancien, la Cour de cassation a jugé, dans un avis du 13 juin 2024, que cette loi ne s’applique pas immédiatement aux contrats en cours : le délai se lit alors dans le bail.
+Quand le bailleur est une personne physique ou une société civile familiale, le commandement est signalé à la CCAPEX dès que la dette atteint deux mois de loyer ou le double du loyer mensuel hors charges. S’il existe une caution, le commandement lui est signifié dans les quinze jours de sa signification au locataire.
+03 L’assignation
+L’assignation convoque le locataire devant le juge, à la date d’audience qu’elle indique. L’assignation est notifiée au préfet au moins six semaines avant l’audience, à peine d’irrecevabilité (article 24, III) ; le préfet saisit alors l’organisme chargé de l’accompagnement social, qui établit un diagnostic transmis au juge. Quand le bailleur est une personne morale (hors société civile familiale), il doit saisir la CCAPEX deux mois avant d’assigner (article 24, II).
+À l’audience, le juge peut accorder des délais de paiement jusqu’à trois ans, si le locataire peut s’acquitter de sa dette et a repris le paiement du loyer courant, et suspendre les effets de la clause résolutoire pendant ces délais (article 24, V et VII).
+04 Le jugement signifié, puis le commandement de quitter les lieux
+Le délai de recours par une voie ordinaire est d’un mois en matière contentieuse (article 538 du code de procédure civile) ; il court à compter de la notification du jugement.
+Si une expulsion est ordonnée, elle ne peut être poursuivie qu’après un commandement de quitter les lieux signifié par un professionnel habilité, et, pour un lieu habité, à l’expiration d’un délai de deux mois qui suit ce commandement (article L412-1 du code des procédures civiles d’exécution). Le juge peut réduire ou supprimer ce délai dans les cas que la loi prévoit.
+La trêve hivernale suspend l’exécution des expulsions du 1er novembre au 31 mars (article L412-6) : pour 2026-2027, du 1er novembre 2026 au 31 mars 2027. Elle n’empêche ni le jugement ni la signification du commandement, et elle ne suspend pas le loyer dû. Certaines situations en sont exclues, par exemple l’occupation obtenue par voie de fait ou le relogement correspondant aux besoins de la famille.
+05 Une mention manquante : ce que cela change
+Plusieurs actes doivent comporter des mentions précises, et certaines le sont à peine de nullité. L’absence d’une mention n’annule pas l’acte par elle-même : la nullité se discute devant un juge, qui seul la prononce. Tant qu’aucune décision n’est rendue, le délai ouvert par l’acte court. Dans Scansa, un acte reçu est reconnu par son type ; l’application contrôle les mentions que le code exige et calcule les délais (cartes « Vos délais » et « Que faire »).
+Le même acte, vu des deux côtés
+Côté locataire
+Vous notez la date de remise ou de signification, vous lisez le type d’acte et le délai qu’il ouvre, et vous cherchez un conseil sans attendre la fin du délai : une dette peut être réglée, un plan proposé, une audience préparée.
+Côté propriétaire
+Vous conservez l’acte et la date de signification, vous vérifiez que les mentions exigées y figurent, et vous respectez les délais de notification au préfet et de saisine de la CCAPEX qui conditionnent la recevabilité de votre demande.
+06 L’aide gratuite
+L’ADIL (agence départementale d’information sur le logement) donne un conseil juridique gratuit aux locataires comme aux bailleurs. Une ligne gratuite dédiée aux impayés de loyer est joignable au 0 805 16 00 75 ; l’adresse de l’ADIL du département se trouve sur anil.org.
+La CCAPEX (commission de coordination des actions de prévention des expulsions locatives) examine la situation des ménages en impayé et coordonne les aides.
+L’aide juridictionnelle prend en charge tout ou partie des frais de procédure et d’avocat, selon les ressources du demandeur.
+→ À lire aussi
+Congé donné par le bailleur Guide
+Préavis du locataire : un mois ou trois Guide
+Dépôt de garantie : le maximum légal Guide
+? Questions fréquentes
+Quel délai après un commandement de payer visant la clause résolutoire ?
+Six semaines pour payer, avant que la clause résolutoire produise effet (article 24, I, de la loi du 6 juillet 1989). Ce délai vaut pour les baux conclus, reconduits ou renouvelés depuis le 29 juillet 2023 ; pour un bail plus ancien, il se lit dans le bail.
+Une mention manquante rend-elle l’acte nul ?
+Pas automatiquement. L’absence d’une mention exigée n’annule pas l’acte par elle-même : seul un juge peut prononcer la nullité. Tant qu’il ne l’a pas fait, le délai ouvert par l’acte court.
+Quel délai pour faire appel d’un jugement signifié ?
+Un mois en matière contentieuse, à compter de la notification du jugement (article 538 du code de procédure civile).
+Peut-on être expulsé pendant la trêve hivernale ?
+Non, l’exécution des expulsions est suspendue du 1er novembre au 31 mars (article L412-6 du code des procédures civiles d’exécution). Le jugement et le commandement de quitter les lieux restent possibles, et le loyer reste dû.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Bail d’habitation : mentions obligatoires et annexes | Scansa
+URL : https://scansa.fr/guides/bail-mentions-obligatoires.html
+
+Accueil / Guides / Bail d’habitation : les mentions obligatoires
+Guide · Location
+Bail d’habitation : mentions obligatoires, annexes et mention manquante
+L’article 3 de la loi du 6 juillet 1989 impose un bail écrit, conforme au contrat type du décret n° 2015-587, avec des mentions et des annexes ; si l’une manque, chaque partie peut demander un contrat conforme.
+Mis à jour le 17 novembre 2026
+L’essentiel
+Le bail d’habitation est écrit et suit le contrat type du décret n° 2015-587 (article 3 de la loi du 6 juillet 1989).
+Sont obligatoires, entre autres : les parties, la durée, la surface habitable, le loyer, le dépôt de garantie, et en annexe la notice d’information, le dossier de diagnostic technique et, en copropriété, des extraits du règlement.
+Quand une mention manque, chaque partie peut demander un contrat conforme à tout moment ; si c’est la surface ou le loyer précédent, le locataire a un mois à compter de la prise d’effet pour le demander.
+En meublé, un inventaire et un état détaillé du mobilier sont annexés au bail.
+01 Un écrit, selon le contrat type
+Le contrat de location est établi par écrit et respecte un contrat type défini par décret en Conseil d’État. Pour la résidence principale, ce contrat type est annexé au décret n° 2015-587 du 29 mai 2015. Le décret n° 2026-596 du 6 juillet 2026 en a modifié les annexes pour les baux conclus ou renouvelés à partir du 1er octobre 2026 : il ajoute notamment un champ facultatif pour le numéro de téléphone mobile des parties et précise la clause résolutoire (six semaines après un commandement de payer resté sans résultat).
+02 Les mentions du bail
+Mention Ce que le bail indique Référence
+Les parties Nom et domicile ou siège du bailleur, et du mandataire s’il y en a un ; nom du locataire Loi 89-462, art. 3, 1° et 2°
+Durée Date de prise d’effet et durée du contrat Art. 3, 3°
+Le logement Description, destination des locaux, surface habitable, locaux et équipements privatifs, parties communes, équipements d’accès aux technologies de l’information et de la communication Art. 3, 4° et 5°
+Le loyer Montant, modalités de paiement, règles de révision Art. 3, 6°
+Loyer du précédent locataire Montant et date de versement du dernier loyer, si le précédent locataire a quitté le logement moins de dix-huit mois avant la signature Art. 3, 8°
+Travaux Nature et coût des travaux effectués depuis le dernier contrat ou renouvellement Art. 3, 9°
+Dépôt de garantie Montant, s’il est prévu Art. 3, 10°
+Coûts d’énergie Estimation des coûts annuels d’énergie, donnée à titre d’information, d’après le diagnostic de performance énergétique Art. 3
+03 Les annexes
+La notice d’information sur les droits et obligations des locataires et des bailleurs, dont le contenu est fixé par l’arrêté du 29 mai 2015 (article 3).
+Le dossier de diagnostic technique , annexé à la signature ou au renouvellement (article 3-3) : il comprend notamment le diagnostic de performance énergétique, le constat de risque d’exposition au plomb, un état relatif à l’amiante et un état de l’installation intérieure d’électricité et de gaz.
+En copropriété , les extraits du règlement qui concernent la destination de l’immeuble, la jouissance et l’usage des parties privatives et communes, et la quote-part des charges du lot loué (article 3).
+L’état des lieux d’entrée , établi à la remise des clés et joint au bail (article 3-2).
+Selon les cas : l’attestation d’assurance des risques locatifs, l’acte de cautionnement, les informations sur la réception de la télévision et d’internet, l’extrait d’un accord collectif ou d’une grille de vétusté choisie.
+Les contrôles que Scansa fait sur un bail d’habitation portent sur la présence de ces pièces (signatures, diagnostic de performance énergétique, notice d’information, inventaire du mobilier en meublé) et sur chaque clause, comparée à la loi avec l’article correspondant.
+04 Le bail meublé
+Un inventaire et un état détaillé du mobilier sont établis à la remise des clés puis à leur restitution, signés des deux parties et annexés au bail. Le mobilier doit atteindre la liste minimale fixée par le décret n° 2015-981 du 31 juillet 2015. Si la liste n’est pas respectée, le juge peut requalifier le bail en location vide.
+05 Quand une mention manque
+Le bailleur ne peut pas se prévaloir de la violation de l’article 3. Chaque partie peut, à tout moment, demander à l’autre la mise en conformité du contrat.
+Deux mentions ont une suite précise. Si la surface habitable ou le loyer du précédent locataire ne figure pas au bail, le locataire peut mettre en demeure le bailleur de compléter le contrat dans le mois qui suit la prise d’effet. Sans réponse dans le mois, ou en cas de refus, il peut saisir le juge dans les trois mois qui suivent sa demande, notamment pour obtenir une diminution du loyer.
+Quand la surface mentionnée est supérieure de plus d’un vingtième à la surface réelle, le locataire peut demander une diminution proportionnelle du loyer (article 3-1). À défaut d’accord, ou sans réponse du bailleur dans les deux mois, le juge peut être saisi dans les quatre mois de la demande. La diminution court à compter de la signature du bail ; si la demande est faite plus de six mois après la prise d’effet, elle court à compter de la demande.
+Ce que vous pouvez écrire
+Le bail signé le [date] ne mentionne pas [la surface habitable / le loyer du précédent locataire]. Conformément à l’article 3 de la loi du 6 juillet 1989, je vous demande de compléter le contrat dans un délai d’un mois.
+Le même contrat, vu des deux côtés
+Côté locataire
+Vous relisez le bail avec la liste ci-dessus et vous vérifiez la surface et le loyer. Un oubli se règle par une demande écrite dans le mois qui suit la prise d’effet.
+Côté propriétaire
+Vous complétez le bail avant la signature : un contrat qui reprend toutes les mentions et ses annexes vous protège aussi, puisque c’est l’article 3 qui encadre ce que vous pouvez invoquer.
+→ À lire aussi
+Analyse de bail de location Contrat
+État des lieux : les mentions obligatoires Guide
+Zone tendue : ce qui change pour le bail Guide
+Permis de louer Guide
+? Questions fréquentes
+Quelles mentions le bail d’habitation doit-il contenir ?
+Les parties, la date de prise d’effet et la durée, la description du logement et sa surface habitable, le loyer et sa révision, le dépôt de garantie, et selon les cas le loyer du précédent locataire et les travaux effectués (article 3 de la loi du 6 juillet 1989).
+Quelles annexes joindre au bail ?
+La notice d’information, le dossier de diagnostic technique (article 3-3), en copropriété les extraits du règlement, l’état des lieux d’entrée, et en meublé l’inventaire du mobilier, auxquels s’ajoutent d’autres pièces selon la situation.
+Que faire si la surface habitable n’est pas indiquée ?
+Mettre en demeure le bailleur de la porter au bail dans le mois qui suit la prise d’effet. S’il ne répond pas dans le mois ou refuse, le locataire peut saisir le juge dans les trois mois pour obtenir, le cas échéant, une diminution du loyer.
+Que se passe-t-il quand une autre mention manque ?
+Le bailleur ne peut pas se prévaloir de la violation de l’article 3, et chaque partie peut demander à tout moment un contrat conforme.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -1483,9 +2137,9 @@ Le téléchargement et un premier quota de pages sont gratuits. Les abonnements 
 Télécharger sur App Store
 Obtenir sur Google Play
 Ce qui est gratuit Les abonnements Payer et résilier Avis Questions fréquentes
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 01 Ce qui est gratuit
-Scansa se télécharge gratuitement sur l’App Store et sur Google Play, et un quota de pages est offert sans obligation d’achat : vous photographiez ou importez votre bail, votre courrier ou votre justificatif, et l’application vous montre les clauses à vérifier, l’article de loi qui s’applique et la réponse à envoyer.
+Scansa se télécharge gratuitement sur l’App Store et sur Google Play, et un quota de pages est offert sans obligation d’achat : vous photographiez ou importez votre bail, votre courrier ou votre justificatif, et l’application vous montre les clauses à vérifier, l’article de loi qui s’applique et ce qu’il faut faire.
 Ce quota sert à juger l’analyse sur un vrai document avant de payer quoi que ce soit.
 02 Les deux abonnements
 Au-delà du quota gratuit, deux abonnements sont proposés dans l’application :
@@ -1522,7 +2176,7 @@ Accueil / Outils / Mon justificatif est-il encore valable ?
 Outil gratuit
 Mon justificatif de domicile est-il encore valable ?
 Choisissez le document, indiquez sa date, et l’outil vous dit jusqu’à quel jour il reste dans les délais.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Trois mois pour une facture, une quittance ou une attestation d’hébergement ; douze mois pour un avis d’impôt.
 Pour l’assurance habitation, la fin de garantie inscrite sur l’attestation.
@@ -1530,23 +2184,23 @@ Ces délais sont ceux que Scansa applique. L’organisme qui vous demande le doc
 01 Le calcul
 Le calcul se fait dans votre navigateur : rien de ce que vous saisissez n’est envoyé ni enregistré.
 02 Les délais retenus
-Le détail des treize documents, ce que chacun prouve et les pièges qui font refuser un dossier sont sur la page justificatif de domicile .
+Le détail des treize documents, ce que chacun prouve et ce qui le fait refuser sont sur la page justificatif de domicile .
 ? Questions fréquentes
 Un justificatif de plus de trois mois est-il refusé ?
 Pas toujours : tout dépend de l’organisme. Pour une carte d’identité ou un passeport, la limite est d’un an. Bailleurs, banques et employeurs demandent souvent moins de trois mois.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
 
-## Dépôt de garantie : calcul du maximum, du délai de restitution et de la majoration | Scansa
+## Calcul du dépôt de garantie : maximum, délai, majoration | Scansa
 URL : https://scansa.fr/outils/depot-de-garantie-restitution.html
 
 Accueil / Outils / Dépôt de garantie : montant, délai, majoration
 Outil gratuit
 Dépôt de garantie : montant maximum, date de restitution, majoration de retard
 Indiquez le loyer, le dépôt versé et la date de remise des clés. L’outil calcule ce que le bailleur doit, jusqu’à quand, et prépare la lettre si le délai est dépassé.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Location vide : un mois de loyer hors charges au plus. Meublée : deux mois. Bail mobilité : aucun dépôt.
 Restitution sous un mois si l’état des lieux de sortie est conforme à celui d’entrée, deux mois sinon.
@@ -1563,7 +2217,7 @@ Analyse de bail de location Contrat
 À partir de la remise des clés au bailleur ou à son mandataire, en main propre ou par lettre recommandée (article 22 de la loi du 6 juillet 1989).
 Comment se calcule la majoration de retard ?
 10 % du loyer mensuel hors charges pour chaque période mensuelle commencée en retard. Elle n’est pas due quand le retard vient du locataire qui n’a pas donné sa nouvelle adresse.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -1575,7 +2229,7 @@ Accueil / Outils / Préavis du locataire : un mois ou trois
 Outil gratuit
 Préavis du locataire : la durée et la date de fin
 Le type de bail, la commune, votre situation, et la date de réception de votre lettre : l’outil donne le dernier jour de votre préavis.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Location vide : trois mois, ramenés à un mois en zone tendue ou dans les situations de l’article 15.
 Location meublée et bail mobilité : un mois.
@@ -1592,19 +2246,19 @@ Mon préavis commence-t-il le jour où j’envoie la lettre ?
 Non, le jour où le bailleur la reçoit : date de l’accusé de réception, de la signification ou de la remise en main propre.
 Comment savoir si mon logement est en zone tendue ?
 La liste des communes est fixée par décret. Le simulateur de service-public.gouv.fr permet de vérifier une adresse ; Scansa la vérifie aussi quand il lit votre bail.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
 
-## Période d’essai : calcul de la date de fin et du délai de prévenance | Scansa
+## Période d’essai : calcul de la date de fin | Scansa
 URL : https://scansa.fr/outils/periode-d-essai.html
 
 Accueil / Outils / Période d’essai : durée, renouvellement, délai de prévenance
 Outil gratuit
 Période d’essai : la date de fin et le délai de prévenance
 Le contrat, la catégorie, le premier jour : l’outil donne la date de fin, celle d’un renouvellement et le délai à respecter pour rompre.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 CDI : deux mois pour les ouvriers et employés, trois pour les agents de maîtrise et techniciens, quatre pour les cadres.
 Un seul renouvellement, s’il est prévu par un accord de branche étendu et par le contrat.
@@ -1619,19 +2273,19 @@ La période d’essai se compte-t-elle en jours ouvrés ?
 Non. Sauf mention contraire du contrat ou de la convention, elle se compte en jours calendaires, du premier jour de travail à la veille du même quantième.
 L’employeur peut-il rompre la période d’essai le dernier jour ?
 Il peut notifier la rupture, mais le délai de prévenance ne prolonge pas la période d’essai. S’il n’est pas respecté, le salarié a droit à une indemnité égale aux salaires du délai restant.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
 
-## Outils gratuits : dépôt de garantie, préavis, période d’essai, justificatif | Scansa
+## Outils gratuits : dépôt de garantie, préavis, essai | Scansa
 URL : https://scansa.fr/outils/
 
 Accueil / Outils
 Outils gratuits
 Les calculs du bail et du contrat de travail, faits pour vous.
 Dépôt de garantie, préavis, période d’essai, justificatif de domicile : la règle, le calcul, la date.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 Quatre calculs que l’on fait souvent à la main, et souvent de travers. Chacun cite l’article appliqué et tourne dans votre navigateur, sans compte et sans envoi de données.
 Mon justificatif est-il encore valable ?
 Le document, sa date, et le jour où il devient trop ancien.
@@ -1650,52 +2304,15 @@ Pour vérifier un bail entier, un état des lieux ou un contrat de travail, l’
 
 ---
 
-## Mentions légales | Scansa
-URL : https://scansa.fr/mentions-legales.html
-
-Accueil / Mentions légales
-Légal
-Mentions légales
-Mis à jour le 24 octobre 2026
-01 Éditeur du site
-Le site scansa.fr et l’application Scansa sont édités par :
-Nom : Brandon Zingila
-Statut : en cours de mise à jour
-Adresse : en cours de mise à jour
-Numéro d’immatriculation : en cours de mise à jour
-TVA : en cours de mise à jour
-Téléphone : en cours de mise à jour
-Courriel : contact@scansa.fr
-02 Directeur de la publication
-en cours de mise à jour .
-03 Hébergement
-Le site est hébergé par GitHub Pages, un service de GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis ( pages.github.com ).
-Les données de l’application (compte, documents, historique) ne sont pas hébergées avec le site. Leur hébergement est décrit dans la politique de confidentialité .
-04 Propriété intellectuelle
-Les textes, la charte graphique, les illustrations et le code du site et de l’application appartiennent à leur éditeur. Toute reproduction demande son accord préalable.
-Les textes de loi et les décisions de justice cités sur le site sont publics. Vous pouvez les consulter et les reproduire librement à partir de Légifrance .
-05 Données personnelles et cookies
-Ce site ne dépose aucun cookie et n’utilise aucun outil de mesure d’audience ni de publicité. Les polices de caractères sont servies depuis le site lui-même.
-Le formulaire de la page Contact transmet votre message par le service Formspree. Les informations que vous y saisissez servent uniquement à vous répondre.
-Le traitement des données dans l’application, vos droits d’accès, de rectification et d’effacement, et la façon de les exercer sont détaillés dans la politique de confidentialité . Vous pouvez aussi saisir la Commission nationale de l’informatique et des libertés ( cnil.fr ).
-06 Nature des informations publiées
-Les pages et les guides de ce site donnent une information générale sur le droit français, à la date indiquée en tête de chaque page. Ils ne constituent pas une consultation juridique et ne remplacent pas l’avis d’un professionnel du droit sur votre situation.
-La page Méthode et sources explique d’où viennent les règles citées et comment signaler une erreur. Les conditions d’utilisation de l’application figurent dans les conditions générales d’utilisation .
-07 Médiation de la consommation
-En cas de litige lié à un abonnement, vous pouvez d’abord nous écrire à contact@scansa.fr . Si aucune solution n’est trouvée, vous pouvez saisir gratuitement le médiateur de la consommation dont relève l’éditeur : en cours de mise à jour .
-← Retour à l’accueil
-
----
-
 ## Méthode et sources : comment Scansa vérifie ce qu’il écrit | Scansa
 URL : https://scansa.fr/methode-et-sources.html
 
 Accueil / Méthode et sources
 Méthode
 Méthode et sources
-Scansa signale des clauses et cite des articles de loi : 809, tirés de quinze textes. Cette page explique d’où viennent ces règles, comment elles sont vérifiées, et ce qu’une analyse automatique ne peut pas faire à votre place.
+Scansa signale des clauses et cite des articles de loi : 932, tirés des codes et des lois en vigueur. Cette page explique d’où viennent ces règles, comment elles sont vérifiées, et ce qu’une analyse automatique ne peut pas faire à votre place.
 Sources Rédaction Niveaux d’alerte L’application Limites Signaler une erreur
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 01 D’où viennent les règles citées
 Chaque page de ce site s’appuie sur des sources que vous pouvez ouvrir vous-même.
 Les textes en vigueur. Lois, codes, décrets et arrêtés, tels qu’ils sont publiés sur Légifrance . Nous citons le numéro de l’article, pas seulement le nom de la loi.
@@ -1720,20 +2337,23 @@ La base légale, source par source
 Source Texte Articles
 Loi du 6 juillet 1989 Rapports locatifs, bail mobilité 396
 Code du tourisme Meublés de tourisme, location saisonnière 100
+Code civil Louage, résidence secondaire, preuve 88
 Code du travail Période d’essai, CDD 67
 Code de commerce Bail commercial 66
-Code civil Louage, résidence secondaire, preuve 65
+Code des procédures civiles d’exécution Actes reçus : commandement, saisie, expulsion 55
+Code de procédure civile Actes reçus : mentions et délais 36
 Décret 2015-587 Contrat type de location 28
 Décret 87-713 Charges récupérables 14
 Décrets 2016-1104 et 2016-1105 Diagnostics gaz et électricité 14
 Décret 2002-120 Logement décent 12
 Code de la construction et de l’habitation Réponses aux questions posées dans le chat 12
 Décret 87-712 Réparations locatives 10
+Décret sur la reprise des lieux abandonnés Logement abandonné par le locataire 9
 Décret 2015-650 Loyers de référence 8
 Décret 2014-890 Honoraires de location 6
 Décret 2016-382 État des lieux 6
 Décret 2015-1437 Pièces du dossier de location 5
-Total : 809 articles, auxquels s’ajoute la liste des 3 689 communes en zone tendue (décret 2013-392 modifié). Le décret qui fixe les zones au 1er janvier 2027 sera chargé avant cette date.
+Total : 932 articles, relevés le 25 octobre 2026, auxquels s’ajoute la liste des communes situées en zone tendue, annexée au décret 2013-392.
 05 Les limites
 Une analyse automatique peut se tromper. Elle peut mal lire une photo, passer à côté d’une clause ou en signaler une à tort. Vérifiez toujours l’article cité avant d’agir.
 Un contrat ne dit pas tout. Votre situation dépend aussi de faits qui ne sont pas dans le document : la date de signature, la commune du logement, votre convention collective, ce qui s’est passé depuis.
@@ -1751,32 +2371,34 @@ Une référence inexacte, une règle qui a changé, une phrase peu claire : écr
 
 ---
 
-## À propos de Scansa, l’application qui lit vos contrats | Scansa
+## À propos de Scansa, le tiers de confiance du logement | Scansa
 URL : https://scansa.fr/a-propos.html
 
 Accueil / À propos
 À propos
-Scansa, l’application qui lit vos contrats avant vous
-Un bail, un état des lieux, un contrat de travail : on signe souvent sans tout lire, et sans savoir ce que la loi permet. Scansa a été créé pour cela.
+Scansa, le tiers de confiance du logement
+Un bail, un état des lieux, un justificatif, un acte reçu : on signe ou on répond souvent sans savoir ce que la règle prévoit. Scansa a été créé pour que les deux parties lisent le même document de la même façon.
 Télécharger sur App Store
 Obtenir sur Google Play
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 01 Ce que fait Scansa
-Scansa est une application pour iPhone et Android qui lit un contrat avant vous. Vous le photographiez ou vous importez le PDF ; l’application repère les clauses qui s’écartent de la loi française, cite l’article concerné et vous propose une réponse à envoyer.
-Elle sert avant de signer, mais aussi après : pour relire un bail avant de donner congé, contester une retenue sur un dépôt de garantie ou vérifier une clause que l’on vous oppose.
-02 Ce que Scansa lit
+Scansa est une application pour iPhone et Android qui vérifie les documents du logement selon la règle. Vous photographiez les pages ou vous importez le PDF ; l’application compare chaque clause aux textes qui s’appliquent, classe chaque point conforme, à vérifier ou à corriger, cite l’article et dit quoi faire.
+Scansa se veut un tiers de confiance : il ne défend ni le locataire ni le propriétaire, et rend le même rapport aux deux parties. Il sert avant la signature comme après : pour relire un bail avant un congé, préparer la restitution du dépôt de garantie ou vérifier une clause.
+02 Ce que Scansa vérifie
 Bail d’habitation, état des lieux, courriers Location
 Bail mobilité Location
 Bail commercial Location
 Location saisonnière Location
 Contrat de travail : période d’essai et CDD Travail
+Acte de commissaire de justice reçu Location
 Justificatif de domicile Document
+Tout ce que Scansa vérifie, et ce qu’il ne juge pas Synthèse
 Les contrats d’assurance, de crédit, d’abonnement et les mandats de vente ne sont pas encore analysés. Le site propose pour eux des guides de lecture, et des outils de calcul gratuits pour les questions qui reviennent le plus.
 03 Ce que Scansa n’est pas
 Scansa n’est pas un cabinet d’avocats et ne donne pas de conseil juridique personnalisé. L’analyse est faite par intelligence artificielle : elle peut se tromper, et elle ne connaît de votre situation que le document que vous lui montrez.
 Son rôle est de vous dire où regarder et quel texte citer. La page Méthode et sources détaille la démarche et ses limites.
 04 Qui édite Scansa
-Scansa est conçu et édité par Brandon Zingila. L’application, d’abord connue sous le nom de LeaseLens, est disponible sur l’App Store depuis mars 2026 et sur Google Play.
+Scansa est conçu et édité par Brandon Zingila. L’application est disponible sur l’App Store depuis mars 2026 et sur Google Play.
 Les informations sur l’éditeur et l’hébergeur figurent dans les mentions légales .
 05 Nous écrire
 Une question, une erreur à signaler, une proposition de partenariat : passez par la page Contact ou écrivez à contact@scansa.fr .
@@ -1794,7 +2416,7 @@ Un contrat de travail se signe vite, souvent le jour de l’embauche. Certaines 
 Télécharger sur App Store
 Obtenir sur Google Play
 Ce que Scansa vérifie Clauses à vérifier Les chiffres CDD, temps partiel, forfait Informations à l’embauche Questions fréquentes
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Une clause de non-concurrence n’est valable que si elle réunit quatre conditions, dont une contrepartie financière versée après la rupture.
 Période d’essai en CDI : deux mois pour les ouvriers et employés, trois pour les agents de maîtrise et techniciens, quatre pour les cadres. Elle ne se présume pas : il faut qu’elle soit écrite.
@@ -1925,7 +2547,7 @@ Que se passe-t-il si mon CDD n’indique pas de motif ?
 Il est réputé conclu pour une durée indéterminée (article L. 1242-12 du code du travail). La même règle vaut pour un CDD qui n’a pas été établi par écrit. Un contrat simplement remis en retard, plus de deux jours ouvrables après l’embauche, ouvre droit à une indemnité d’un mois de salaire au plus.
 Mon contrat est signé, puis-je encore contester une clause ?
 Oui. Signer ne rend pas valable une clause que la loi interdit ou que les juges écartent. Vous pouvez demander à l’employeur de ne pas l’appliquer, puis saisir le conseil de prud’hommes. Les délais pour agir sont courts : faites-vous conseiller sans attendre par un syndicat, un défenseur syndical ou un avocat.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -1937,7 +2559,7 @@ Accueil / Guides / Clause de non-concurrence : les quatre conditions
 Guide · Travail
 Clause de non-concurrence : les quatre conditions pour qu’elle soit valable
 Une clause de non-concurrence vous interdit, après votre départ, de travailler pour un concurrent. Elle n’est valable que si elle réunit quatre conditions fixées par la Cour de cassation en 2002. La plus souvent oubliée : la contrepartie financière.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 Quatre conditions cumulatives : intérêt légitime de l’entreprise, limite dans le temps et dans l’espace, prise en compte de l’emploi du salarié, contrepartie financière.
 La contrepartie se verse après la rupture. Incluse dans le salaire, ou dérisoire, elle ne compte pas.
@@ -1991,7 +2613,7 @@ L’employeur peut-il renoncer à la clause plusieurs semaines après mon dépar
 Seulement si le contrat ou la convention collective fixe un délai et qu’il le respecte. S’il vous a dispensé de préavis, la renonciation doit intervenir au plus tard le jour de votre départ effectif, même si le contrat prévoit un délai plus long (Cass. soc., 13 mars 2013, n° 11-21.150).
 La contrepartie peut-elle être versée chaque mois avec mon salaire ?
 Non. Elle indemnise une interdiction qui commence après la rupture et se paie donc après la rupture. La Cour de cassation a jugé nulle la clause dont la contrepartie était incluse dans la rémunération versée pendant le contrat (7 mars 2007, n° 05-45.511).
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -2003,7 +2625,7 @@ Accueil / Guides / Période d’essai : durées maximales et rupture
 Guide · Travail
 Période d’essai : la durée maximale, le renouvellement et la rupture
 Deux mois pour un employé, trois pour un technicien, quatre pour un cadre : la loi plafonne la période d’essai d’un CDI, et rien ne permet d’aller au-delà. Encore faut-il que l’essai soit écrit dans le contrat.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 CDI : deux mois pour les ouvriers et employés, trois pour les agents de maîtrise et techniciens, quatre pour les cadres.
 Un seul renouvellement, si un accord de branche étendu le prévoit et si le contrat le mentionne : quatre, six ou huit mois au total.
@@ -2053,7 +2675,7 @@ La période d’essai peut-elle être renouvelée deux fois ?
 Non. Elle ne peut être renouvelée qu’une fois, à condition qu’un accord de branche étendu le prévoie et que le contrat en mentionne la possibilité. Renouvellement compris, elle ne dépasse pas quatre mois pour un ouvrier ou un employé, six pour un agent de maîtrise ou un technicien, huit pour un cadre.
 Que se passe-t-il si l’employeur ne respecte pas le délai de prévenance ?
 L’essai n’est pas prolongé pour autant. L’employeur vous doit une indemnité compensatrice, égale au salaire et aux avantages que vous auriez perçus jusqu’à la fin du délai de prévenance, sauf faute grave de votre part (article L. 1221-25).
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -2065,7 +2687,7 @@ Accueil / Guides / Clause de mobilité : ce que le contrat peut prévoir
 Guide · Travail
 Clause de mobilité : ce que votre contrat peut prévoir, et ce qu’il ne peut pas
 En signant une clause de mobilité, vous acceptez à l’avance un changement de lieu de travail. La Cour de cassation y a mis trois limites : une zone précise, pas de changement d’employeur, et le respect de votre vie personnelle et familiale.
-Mis à jour le 24 octobre 2026
+Mis à jour le 17 novembre 2026
 L’essentiel
 La clause définit de façon précise sa zone géographique d’application.
 L’employeur ne peut pas se réserver le droit d’étendre cette zone.
@@ -2105,7 +2727,273 @@ L’employeur peut-il me muter dans une autre société du groupe ?
 Pas sur le fondement d’une clause signée à l’embauche. La clause par laquelle un salarié accepte à l’avance d’être muté dans une autre société, même du même groupe, est nulle (Cass. soc., 23 septembre 2009, n° 07-44.200). Il faut votre accord au moment du changement.
 Puis-je refuser une mutation prévue par ma clause ?
 Une clause valable vous engage en principe. Quand la mutation porte atteinte à votre vie personnelle et familiale, le juge vérifie toutefois qu’elle est justifiée par la tâche à accomplir et proportionnée au but recherché. Un refus peut avoir des conséquences sur votre contrat : exposez vos raisons par écrit et faites-vous conseiller avant de refuser.
-Cette page donne une information générale, à jour au 24 octobre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Ce que Scansa vérifie : documents, textes et limites | Scansa
+URL : https://scansa.fr/ce-que-scansa-verifie.html
+
+Accueil / Ce que Scansa vérifie
+Périmètre
+Ce que Scansa vérifie, et ce qu’il ne juge pas.
+Neuf familles de documents et les justificatifs de domicile. Pour chacune : les points contrôlés, les textes appliqués et les limites de la lecture. État de l’application au 25 octobre 2026.
+Télécharger sur App Store
+Obtenir sur Google Play
+Logement Travail Justificatifs Non analysés Limites Questions fréquentes
+Mis à jour le 17 novembre 2026
+L’essentiel
+Scansa lit neuf familles de documents : huit pour le logement, dont l’acte de commissaire de justice reçu, et le contrat de travail. S’y ajoutent les justificatifs de domicile.
+Chaque point est comparé à une base de 932 articles tirés de 18 textes, relevés le 25 octobre 2026. Le modèle indique la règle en cause, le programme en déduit l’article : aucun numéro n’est écrit au hasard.
+Le rapport classe chaque point conforme, à vérifier ou à corriger. Il ne déclare jamais un document entier conforme.
+Assurance, crédit, abonnement et mandat de vente ne sont pas analysés : le site propose seulement des guides de lecture.
+Un document que l’application ne reconnaît pas est refusé : il n’est ni enregistré ni décompté.
+01 Le principe
+Scansa vérifie un document selon la règle qui s’applique à lui, et rend le même rapport à chacune des parties. Un locataire et son propriétaire qui font lire le même bail obtiennent les mêmes constats, avec les mêmes articles.
+Pour chaque type de document, l’application sait quels textes s’appliquent : la loi du 6 juillet 1989 pour le bail d’habitation, le code civil pour la résidence secondaire, le code de commerce pour le bail commercial, le code du tourisme pour la location saisonnière, le code du travail pour le contrat de travail. Elle n’applique pas une règle hors de son champ : la loi de 1989 n’est jamais opposée à une location saisonnière.
+Un modèle de contrat non rempli est lu lui aussi, mais seules ses clauses sont vérifiées : sans noms, sans dates et sans montants, le reste ne peut pas l’être.
+02 Les documents du logement
+Bail d’habitation, vide ou meublé
+Ce que Scansa vérifie : chaque clause, comparée à l’article qui la régit ; les signatures ; le diagnostic de performance énergétique et la notice d’information ; l’inventaire du mobilier pour un meublé ; le dépôt de garantie (un mois de loyer hors charges en location vide, deux en meublé) ; la durée (neuf mois réservés aux étudiants en meublé, six ans lorsque le bailleur est une personne morale) ; la révision du loyer d’un logement classé F ou G ; le loyer de référence et la zone tendue ; le cumul d’une assurance loyers impayés et d’une caution ; les charges, les réparations, les pièces demandées et les honoraires.
+Ce qu’il ne juge pas : le montant du loyer au regard du marché, sauf là où un loyer de référence s’applique.
+Loi 89-462 · Code civil · décrets 2015-587, 87-712, 87-713, 2002-120, 2015-1437, 2014-890, 2015-650, 2016-1104, 2016-1105
+L’analyse du bail en détail
+Bail mobilité
+Ce que Scansa vérifie : les clauses propres à ce bail et le motif qui le permet (formation, stage, mission temporaire, par exemple). Un bail mobilité est toujours meublé : sans meubles, il est relu comme un bail d’habitation ordinaire.
+Ce qu’il ne juge pas : la réalité de la situation du locataire, que le document se contente de déclarer.
+Loi 89-462 · art. 25-12 et suivants
+Le guide du bail mobilité
+Bail commercial
+Ce que Scansa vérifie : la durée, le renouvellement, le congé et la clause résolutoire.
+Ce qu’il ne juge pas : le loyer et la répartition des charges, au-delà de ce que disent les clauses.
+Code de commerce · L. 145-4, L. 145-14, L. 145-41
+Le guide du bail commercial
+Location saisonnière
+Ce que Scansa vérifie : l’existence d’un contrat écrit, le prix demandé et l’état descriptif des lieux.
+Ce qu’il ne juge pas : les règles de la loi de 1989, qui ne s’appliquent pas à ce type de location.
+Code du tourisme · L. 324-2
+Le guide de la location saisonnière
+Bail de résidence secondaire
+Ce que Scansa vérifie : les clauses au regard du code civil, et la présence du diagnostic de performance énergétique.
+Ce qu’il ne juge pas : la durée, le loyer, le dépôt de garantie et le préavis, que les parties fixent librement pour une résidence secondaire. Scansa ne les signale donc pas comme à corriger.
+Code civil · art. 1713 et suivants
+État des lieux d’entrée ou de sortie
+Ce que Scansa vérifie : les mentions obligatoires : date, adresse, identité des parties, relevés des compteurs, détail pièce par pièce, signatures.
+Ce qu’il ne juge pas : l’état réel du logement. Une photo ne permet pas de dire si un mur est abîmé ou si une usure est normale.
+Décret 2016-382 · art. 2
+Le guide de l’état des lieux
+Congé, préavis, mise en demeure
+Ce que Scansa vérifie : la forme de l’envoi, la date, les parties, la durée du préavis (trois mois, ou un mois dans les cas prévus par la loi, dont la zone tendue) et les demandes contraires à la loi.
+Ce qu’il ne juge pas : la réalité du motif invoqué, et la date de réception du courrier lorsqu’elle n’y figure pas.
+Loi 89-462 · art. 15
+Le guide du préavis
+Acte de commissaire de justice reçu
+Ce que Scansa vérifie : le type d’acte, les mentions que la loi exige à peine de nullité, et les délais qui en découlent, calculés à partir de la date de l’acte. Le rapport dit ce qu’il est utile de faire et dans quel délai.
+Ce qu’il ne juge pas : la validité de l’acte. Une mention absente ne l’annule pas : seul un juge peut le faire. Les baux ruraux et les logements soumis à la loi de 1948 ne sont pas couverts. Scansa ne rédige jamais d’acte : c’est le rôle d’un professionnel habilité.
+Code de procédure civile · Code des procédures civiles d’exécution
+Le guide des délais
+03 Le contrat de travail
+CDI ou CDD
+Ce que Scansa vérifie : la durée de la période d’essai et de son renouvellement ; pour un CDD, le motif de recours, le terme, la durée totale et les mentions obligatoires.
+Ce qu’il ne juge pas : le salaire, le temps de travail, les congés, le préavis et la clause de non-concurrence. C’est pourquoi un contrat de travail n’est jamais déclaré conforme dans son ensemble.
+Code du travail · L. 1221-19 et suivants, L. 1242-12
+L’analyse du contrat de travail
+04 Les justificatifs de domicile
+Facture d’énergie, d’internet ou de téléphone, quittance, avis d’impôt, taxe foncière, attestation d’assurance ou d’hébergement, titre de propriété : l’application reconnaît le document, lit sa date et ses adresses, et rend l’un de trois résultats : valable, valable avec réserve, trop ancien. L’ancienneté est recalculée à chaque ouverture.
+Un bulletin de salaire, un extrait Kbis, une facture d’achat ou une amende sont reconnus, mais ne figurent sur aucune liste de justificatifs : ils sont signalés comme non valables.
+Les treize documents et leurs délais Document
+Mon justificatif est-il encore valable ? Outil
+05 Ce que Scansa n’analyse pas
+Quatre contrats courants ne sont pas lus par l’application. Le site propose pour chacun un guide qui dit quelles clauses relire et quel texte s’applique, mais aucun rapport n’est produit.
+Contrat d’assurance Guide de lecture
+Abonnement, télécom, salle de sport Guide de lecture
+Crédit à la consommation Guide de lecture
+Mandat de vente immobilier Guide de lecture
+Ne sont pas couverts non plus : les baux ruraux, les logements soumis à la loi de 1948, et tout document que l’application ne reconnaît pas. Un tel document est refusé : il n’est ni enregistré ni compté dans vos analyses.
+06 Les limites de la lecture
+Une photo floue, mal cadrée ou prise de biais peut fausser la lecture d’un chiffre ou d’une date. Un PDF d’origine donne un résultat plus sûr.
+Le loyer de référence est contrôlé à partir d’une liste de villes. Une mise à jour de cette liste et de celle des zones tendues est prévue.
+Le rapport s’appuie sur ce que dit le document. Il ne vérifie pas les faits qu’il déclare, comme la situation d’un locataire ou la surface réelle d’un logement.
+Scansa donne une information générale sur un document. Pour une situation précise ou un litige, l’avis d’un professionnel du droit reste nécessaire.
+→ Pour aller plus loin
+Méthode et sources Scansa
+Scansa pour les locataires Usages
+Scansa pour les propriétaires Usages
+Tarifs Scansa
+? Questions fréquentes
+Scansa dit-il qu’un bail est conforme ?
+Non. Scansa classe chaque point du bail : conforme, à vérifier ou à corriger. Il ne déclare jamais le document entier conforme, parce qu’un bail peut contenir une difficulté que la lecture d’une photo ne révèle pas.
+Le rapport est-il différent pour le locataire et pour le propriétaire ?
+Non. Le rapport ne dépend pas de la personne qui lance l’analyse. Les deux parties obtiennent les mêmes constats, avec les mêmes articles.
+Scansa vérifie-t-il un contrat d’assurance ou de crédit ?
+Pas encore. L’assurance, le crédit à la consommation, les abonnements et le mandat de vente ne sont pas analysés. Le site propose des guides de lecture pour ces contrats.
+Que se passe-t-il si j’envoie un document que Scansa ne connaît pas ?
+Il est refusé. Il n’est pas enregistré et ne compte pas dans vos analyses.
+Scansa peut-il me dire si un acte de commissaire de justice est nul ?
+Non. Scansa indique si les mentions exigées sont présentes et calcule vos délais. Une mention absente ne suffit pas à annuler un acte : seul un juge peut le faire.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Locataire : vérifier son bail, son état des lieux, ses courriers | Scansa
+URL : https://scansa.fr/locataires.html
+
+Accueil / Pour les locataires
+Pour les locataires
+Locataire : relire son bail, son état des lieux et ses courriers.
+De la candidature au départ, les documents qui engagent un locataire et ce que Scansa y vérifie. Le rapport est le même que celui qu’obtiendrait votre propriétaire.
+Télécharger sur App Store
+Obtenir sur Google Play
+Avant de signer Dossier État des lieux Pendant la location Au départ Questions fréquentes
+Mis à jour le 17 novembre 2026
+L’essentiel
+Avant de signer, Scansa relit le bail clause par clause et indique, pour chacune, l’article qui la régit.
+À l’entrée et à la sortie, il vérifie que l’état des lieux porte les mentions obligatoires.
+Pendant la location, il relit un congé, une mise en demeure ou un acte de commissaire de justice, et calcule vos délais.
+Pour votre dossier, il dit si chaque justificatif de domicile est encore valable.
+Le rapport est celui qu’obtiendrait votre propriétaire avec le même document.
+01 Avant de signer le bail
+Le bail fixe la durée, le loyer, les charges, le dépôt de garantie et ce que chacun doit faire pendant la location. Certaines clauses ne s’appliquent pas, même signées : la loi les répute non écrites. D’autres sont permises mais méritent d’être comprises avant de signer.
+Scansa relit chaque clause et la compare au texte qui la régit. Il vérifie aussi ce qui doit accompagner le bail : diagnostic de performance énergétique, notice d’information, inventaire du mobilier pour un meublé. Dans une ville où s’applique un loyer de référence, il compare le loyer demandé.
+Les mentions obligatoires du bail Guide
+Dépôt de garantie : le maximum légal Guide
+Zone tendue : ce qui change Guide
+La clause de solidarité en colocation Guide
+L’assurance habitation et le bailleur Guide
+02 Votre dossier de candidature
+La loi fixe la liste des pièces qu’un bailleur peut demander, et celles qu’il ne peut pas exiger. Pour le justificatif de domicile, Scansa lit la date et les adresses et dit si le document est valable, valable avec réserve ou trop ancien. Le résultat se met à jour tout seul avec le temps.
+Les pièces du dossier de location Guide
+Justificatif de domicile : lequel, de quand Document
+Mon justificatif est-il encore valable ? Outil
+03 À l’entrée et à la sortie
+L’état des lieux d’entrée sert de référence à la sortie : c’est lui qui décide de ce qui pourra être retenu sur le dépôt de garantie. Scansa vérifie qu’il porte les mentions exigées par le décret : date, parties, relevés des compteurs, détail pièce par pièce, signatures. Il ne juge pas l’état réel du logement.
+L’état des lieux et ses mentions Guide
+Les frais d’état des lieux Guide
+Restitution du dépôt de garantie Outil
+04 Pendant la location
+Un courrier de votre propriétaire, une mise en demeure ou un acte remis par un commissaire de justice appellent souvent une réponse dans un délai précis. Scansa relit le courrier, indique ce qu’il demande et si cette demande est prévue par la loi. Pour un acte, il calcule les délais à partir de sa date et dit ce qu’il est utile de faire.
+Acte de commissaire de justice : les délais Guide
+La quittance de loyer Guide
+Le congé donné par le bailleur Guide
+05 Au départ
+Le préavis du locataire est de trois mois en location vide, ou d’un mois dans les cas prévus par la loi : zone tendue, location meublée, premier emploi, mutation, perte d’emploi, raison de santé, entre autres. Scansa vérifie la durée annoncée dans votre courrier et sa forme d’envoi.
+Calculer son préavis Outil
+Préavis : un mois ou trois Guide
+Un rapport, deux lecteurs
+Côté locataire
+Vous savez quelles clauses s’appliquent, lesquelles ne s’appliquent pas, et sur quel article vous appuyer pour en parler avec votre propriétaire.
+Côté propriétaire
+Votre propriétaire peut faire lire le même bail. Il obtiendra le même rapport, ce qui place la discussion sur la règle plutôt que sur les positions de chacun.
+? Questions fréquentes
+Scansa remplace-t-il un avocat ?
+Non. Scansa donne une information générale sur votre document, avec les articles qui s’appliquent. Pour un litige ou une situation particulière, l’avis d’un professionnel du droit reste nécessaire.
+Que faire d’une clause classée « à corriger » ?
+Le rapport cite l’article qui s’applique et dit quoi faire. Le plus souvent, il suffit d’en parler avec votre propriétaire en vous appuyant sur ce texte. Si le désaccord persiste, un professionnel du droit peut vous conseiller.
+Puis-je faire vérifier un bail déjà signé ?
+Oui. Une clause que la loi répute non écrite ne s’applique pas, même après la signature. Le rapport vous dit lesquelles sont concernées.
+Scansa vérifie-t-il un bail meublé ?
+Oui. Le bail meublé est vérifié comme le bail vide, avec en plus l’inventaire du mobilier, la durée d’un an (ou neuf mois pour un étudiant) et le dépôt de garantie de deux mois au plus.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Propriétaire bailleur : un bail et un dossier en règle | Scansa
+URL : https://scansa.fr/proprietaires.html
+
+Accueil / Pour les propriétaires
+Pour les propriétaires
+Propriétaire : un bail et un dossier en règle avant de les envoyer.
+Les documents qu’un bailleur prépare ou reçoit, et ce que Scansa y vérifie. Le rapport est le même que celui qu’obtiendrait votre locataire.
+Télécharger sur App Store
+Obtenir sur Google Play
+Le bail Dossier État des lieux Congé et actes Autres locations Questions fréquentes
+Mis à jour le 17 novembre 2026
+L’essentiel
+Avant d’envoyer le bail, Scansa vérifie chaque clause, les annexes obligatoires et les montants encadrés.
+Il signale ce qui dépend de votre situation : bailleur personne morale, logement classé F ou G, ville soumise à un loyer de référence, zone tendue.
+Pour le dossier du candidat, il dit si chaque justificatif de domicile est encore valable.
+Résidence secondaire, location saisonnière, bail commercial : chaque bail est lu selon son propre texte.
+Le rapport est celui qu’obtiendrait votre locataire avec le même document.
+01 Avant de proposer le bail
+Un bail d’habitation doit contenir certaines mentions et être accompagné de certaines pièces. Une clause contraire à la loi ne s’applique pas, même signée : mieux vaut la repérer avant que le locataire ne la conteste.
+Scansa vérifie le dépôt de garantie (un mois de loyer hors charges en location vide, deux en meublé), la durée (six ans lorsque le bailleur est une personne morale), la révision du loyer d’un logement classé F ou G, le loyer de référence là où il s’applique, la présence du diagnostic de performance énergétique et de la notice d’information, et l’inventaire du mobilier pour un meublé.
+Les mentions obligatoires du bail Guide
+Zone tendue : ce qui change Guide
+Le permis de louer Guide
+Dépôt de garantie : le maximum légal Guide
+02 Le dossier du candidat
+La loi fixe la liste des pièces que vous pouvez demander à un candidat, et celles que vous ne pouvez pas exiger. Pour le justificatif de domicile, Scansa lit la date et les adresses et dit si le document est valable, valable avec réserve ou trop ancien.
+Si vous souscrivez une assurance loyers impayés, la loi limite la possibilité de demander en plus une caution. Scansa signale ce cumul dans le bail.
+Les pièces du dossier de location Guide
+Vérifier un avis d’imposition Guide
+Assurance loyers impayés et caution Guide
+Mon justificatif est-il encore valable ? Outil
+03 L’état des lieux
+Un état des lieux incomplet affaiblit ce que vous pourrez retenir sur le dépôt de garantie à la sortie. Scansa vérifie les mentions exigées par le décret : date, parties, relevés des compteurs, détail pièce par pièce, signatures. Il ne juge pas l’état réel du logement.
+L’état des lieux et ses mentions Guide
+Restitution du dépôt de garantie Outil
+04 Donner congé, relancer, recevoir un acte
+Un congé donné au locataire obéit à des délais et à des motifs précis. Scansa relit votre courrier avant l’envoi : forme, date, parties, préavis, demandes prévues par la loi. Si vous recevez un acte de commissaire de justice, il en vérifie les mentions et calcule les délais.
+Scansa ne rédige jamais d’acte de commissaire de justice : c’est le rôle d’un professionnel habilité.
+Le congé donné par le bailleur Guide
+Acte de commissaire de justice : les délais Guide
+05 Les autres locations
+Une résidence secondaire relève du code civil : durée, loyer, dépôt et préavis y sont libres, et Scansa ne les signale pas comme à corriger. Une location saisonnière relève du code du tourisme, un local commercial du code de commerce. Chaque bail est lu selon son propre texte.
+Bail de résidence secondaire Périmètre
+Location saisonnière : le contrat et ses règles Guide
+Bail commercial : durée, congé, renouvellement Guide
+Le bail mobilité Guide
+Un rapport, deux lecteurs
+Côté locataire
+Votre locataire peut faire lire le même bail. Il obtiendra le même rapport, avec les mêmes articles.
+Côté propriétaire
+Un bail relu avant l’envoi évite de découvrir une clause inapplicable au moment d’un désaccord, quand il est trop tard pour la corriger.
+? Questions fréquentes
+Scansa garantit-il que mon bail est valable ?
+Non. Scansa classe chaque point du bail : conforme, à vérifier ou à corriger. Il ne déclare jamais le bail entier conforme. Pour une situation particulière, l’avis d’un professionnel du droit reste utile.
+Scansa tient-il compte d’une SCI ?
+Oui. Lorsque le bailleur est une personne morale, comme une SCI, la durée minimale d’un bail vide est de six ans au lieu de trois. Scansa le vérifie.
+Puis-je faire vérifier un modèle de bail avant de le remplir ?
+Oui. Sur un modèle non rempli, seules les clauses sont vérifiées : sans noms, dates ni montants, le reste ne peut pas l’être.
+Scansa vérifie-t-il un mandat de gestion ou un mandat de vente ?
+Non. Le mandat de vente n’est pas analysé ; le site propose un guide de lecture. Une version pour les professionnels de l’immobilier est en préparation.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
+← Retour à l’accueil
+
+---
+
+## Scansa pour les professionnels de l’immobilier | Scansa
+URL : https://scansa.fr/professionnels.html
+
+Accueil / Professionnels
+Professionnels
+Scansa pour les professionnels de l’immobilier.
+Une version pensée pour ceux qui vérifient des baux, des états des lieux et des dossiers chaque semaine est en préparation. Elle sortira bientôt.
+Pour qui Aujourd’hui Nous écrire Questions fréquentes
+Mis à jour le 17 novembre 2026
+L’essentiel
+Une version de Scansa pour les professionnels de l’immobilier est en préparation.
+Elle repose sur la même base de règles que l’application : 932 articles tirés de 18 textes.
+Pour en être informé ou nous dire ce dont votre activité a besoin, écrivez-nous.
+01 Pour qui
+Agences, administrateurs de biens, gestionnaires locatifs, bailleurs qui gèrent plusieurs logements : tous ceux qui rédigent, reçoivent ou vérifient chaque mois des baux, des états des lieux et des dossiers de candidature.
+02 Ce que l’application vérifie déjà
+L’application grand public lit le bail d’habitation vide ou meublé, le bail mobilité, le bail commercial, la location saisonnière, le bail de résidence secondaire, l’état des lieux, les congés et mises en demeure, l’acte de commissaire de justice reçu, le contrat de travail et les justificatifs de domicile. Chaque point est classé conforme, à vérifier ou à corriger, avec l’article qui s’applique.
+Le rapport ne prend le parti de personne : c’est ce qui permet à un professionnel de le partager avec les deux parties.
+Le périmètre complet Périmètre
+Méthode et sources Scansa
+03 Nous écrire
+La version professionnelle n’a pas encore de date de sortie. Pour être prévenu, ou pour nous dire quels documents vous vérifiez le plus souvent, passez par la page de contact.
+Nous écrire
+? Questions fréquentes
+Quand la version professionnelle sera-t-elle disponible ?
+Bientôt. Nous ne donnons pas de date tant qu’elle n’est pas prête. Écrivez-nous pour être prévenu.
+Scansa rédige-t-il des actes ou des baux ?
+Non. Scansa vérifie des documents existants. Il ne rédige jamais d’acte de commissaire de justice : c’est le rôle d’un professionnel habilité.
+Cette page donne une information générale, à jour au 17 novembre 2026. Elle ne remplace pas l’avis d’un professionnel du droit sur votre situation. Les textes cités se consultent sur Légifrance ; notre méthode explique comment ils sont choisis et vérifiés.
 ← Retour à l’accueil
 
 ---
@@ -2115,9 +3003,9 @@ URL : https://scansa.fr/guides/
 
 Accueil / Guides
 Guides pratiques
-Vos droits, clause par clause.
-Des réponses courtes aux questions qui reviennent avant de signer un contrat ou d’y mettre fin : ce que dit la loi, l’article à citer, la phrase à écrire. Chaque guide indique ses sources et sa date de mise à jour.
-Mis à jour le 24 octobre 2026
+La règle, clause par clause.
+Des réponses courtes aux questions qui reviennent avant de signer un contrat ou d’y mettre fin : ce que dit la loi, le texte qui s’applique, ce qu’il est utile de faire. Chaque guide indique ses sources et sa date de mise à jour.
+Mis à jour le 17 novembre 2026
 Location
 Dépôt de garantie : le maximum légal
 Un mois en vide, deux en meublé, aucun en bail mobilité. Délai de restitution et majoration de 10 %.
@@ -2149,6 +3037,30 @@ Code de commerce · L. 145-4 à L. 145-41
 Location saisonnière : le contrat et ses règles
 Contrat écrit, prix, état descriptif, quatre-vingt-dix jours au plus.
 Code du tourisme · L. 324-1-1 et L. 324-2
+Permis de louer : déclaration et autorisation
+Déclaration sous 15 jours ou autorisation préalable, dans un périmètre fixé par la commune.
+CCH · L634-1
+Dossier de location : les pièces autorisées
+Une liste limitative de pièces, une amende de 3 000 € ou 15 000 € en cas de pièce non prévue.
+Loi 89-462 · art. 22-2
+Zone tendue : préavis et évolution du loyer
+Préavis d’un mois en location vide, loyer encadré à la relocation, liste de communes fixée par décret.
+Loi 89-462 · art. 15
+GLI et caution : pas les deux
+Pas de caution quand le bailleur a une GLI, sauf étudiant ou apprenti ; forme et durée du cautionnement.
+Loi 89-462 · art. 22-1
+Vérifier un avis d’imposition
+Service officiel et 2D-Doc : ce que le contrôle établit.
+Décret 2015-1437 · annexe
+État des lieux : les mentions obligatoires
+Les mentions du décret 2016-382, les dix jours, qui paie.
+Décret 2016-382 · art. 2
+Un acte reçu : ce qu’il ouvre et les délais
+Cinq actes, le délai de chacun et l’aide gratuite.
+Loi 89-462 · art. 24
+Bail d’habitation : les mentions obligatoires
+Les mentions, les annexes et la suite d’une mention manquante.
+Loi 89-462 · art. 3
 Travail
 Clause de non-concurrence : les quatre conditions
 Quatre conditions cumulatives, dont une contrepartie financière versée après la rupture.

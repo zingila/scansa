@@ -1,15 +1,32 @@
 # Scansa
 
-> Scansa est une application iPhone et Android qui analyse un contrat photographié ou importé en PDF : elle repère les clauses contraires au droit français, cite l'article de loi et propose une réponse à envoyer. Le site scansa.fr publie des pages et des guides en français sur les clauses à vérifier, avec leurs références.
+> Scansa est une application iPhone et Android qui vérifie les documents du logement selon la règle : bail vide ou meublé, bail mobilité, bail commercial, location saisonnière, état des lieux, congé, acte de commissaire de justice reçu, justificatif de domicile, et contrat de travail (période d'essai, CDD). Elle compare chaque clause à 932 articles en vigueur tirés de 18 textes (relevés sur Légifrance le 25 octobre 2026), classe chaque point conforme, à vérifier ou à corriger, cite l'article et dit quoi faire. Le rapport est le même pour le locataire et pour le propriétaire. Le site scansa.fr publie des guides et des outils gratuits en français.
 
-Les pages donnent une information générale, à jour au 24 octobre 2026. Elles ne remplacent pas l'avis d'un professionnel du droit. Les textes cités se consultent sur Légifrance.
+## Faits clés
+
+- Éditeur : Brandon Zingila. Application disponible sur l'App Store depuis mars 2026 et sur Google Play.
+- Base légale : 932 articles de 18 textes (loi du 6 juillet 1989, codes civil, de commerce, du tourisme, du travail, de la construction et de l'habitation, de procédure civile, des procédures civiles d'exécution, décrets de la location), relevés le 25 octobre 2026.
+- Méthode : le modèle énonce la règle appliquée, le programme en déduit l'article ; le modèle n'écrit jamais lui-même un numéro d'article.
+- Note App Store : 5/5 (6 notes au 10 novembre 2026).
+- Prix : téléchargement gratuit avec un quota de pages ; abonnements Premium à partir de 6,99 € et Titanium à partir de 14,99 €, prix et période affichés avant l'achat.
+- Non analysés : contrats d'assurance, de crédit, d'abonnement, mandats de vente (guides de lecture seulement).
+- Limites : information générale, pas un conseil juridique ; une analyse automatique peut se tromper ; l'état réel d'un logement n'est pas jugé sur photo ; seul un juge peut annuler un acte.
+
+Les pages donnent une information générale, à jour au 17 novembre 2026. Elles ne remplacent pas l'avis d'un professionnel du droit. Les textes cités se consultent sur Légifrance.
 
 ## Ce que Scansa analyse
 
+- [Ce que Scansa vérifie, et ce qu'il ne juge pas](https://scansa.fr/ce-que-scansa-verifie.html)
 - [Bail, état des lieux, courriers](https://scansa.fr/analyse-bail-location.html)
 - [Justificatif de domicile](https://scansa.fr/justificatif-de-domicile.html)
 - [Contrat de travail : essai et CDD](https://scansa.fr/analyse-contrat-de-travail.html)
 - [Tarifs : gratuit, Premium, Titanium](https://scansa.fr/tarifs.html)
+
+## Pour qui
+
+- [Locataires](https://scansa.fr/locataires.html)
+- [Propriétaires bailleurs](https://scansa.fr/proprietaires.html)
+- [Professionnels de l'immobilier (bientôt)](https://scansa.fr/professionnels.html)
 
 ## Guides de lecture (contrats que Scansa n'analyse pas encore)
 
@@ -40,6 +57,14 @@ Les pages donnent une information générale, à jour au 24 octobre 2026. Elles 
 - [Bail mobilité : qui peut le signer, ce qu'il interdit](https://scansa.fr/guides/bail-mobilite.html): Motif, durée d’un à dix mois, aucun dépôt de garantie, un mois de préavis.
 - [Bail commercial : durée, congé, renouvellement](https://scansa.fr/guides/bail-commercial-clauses.html): Neuf ans, congé triennal, renouvellement, clause résolutoire.
 - [Location saisonnière : le contrat et ses règles](https://scansa.fr/guides/location-saisonniere-contrat.html): Contrat écrit, prix, état descriptif, quatre-vingt-dix jours au plus.
+- [Permis de louer : déclaration et autorisation](https://scansa.fr/guides/permis-de-louer.html): Déclaration sous 15 jours ou autorisation préalable, dans un périmètre fixé par la commune.
+- [Dossier de location : les pièces autorisées](https://scansa.fr/guides/pieces-justificatives-dossier-location.html): Une liste limitative de pièces, une amende de 3 000 € ou 15 000 € en cas de pièce non prévue.
+- [Zone tendue : préavis et évolution du loyer](https://scansa.fr/guides/zone-tendue-bail.html): Préavis d’un mois en location vide, loyer encadré à la relocation, liste de communes fixée par décret.
+- [GLI et caution : pas les deux](https://scansa.fr/guides/gli-et-caution.html): Pas de caution quand le bailleur a une GLI, sauf étudiant ou apprenti ; forme et durée du cautionnement.
+- [Vérifier un avis d'imposition](https://scansa.fr/guides/verifier-avis-d-imposition.html): Service officiel et 2D-Doc : ce que le contrôle établit.
+- [État des lieux : les mentions obligatoires](https://scansa.fr/guides/etat-des-lieux-mentions-obligatoires.html): Les mentions du décret 2016-382, les dix jours, qui paie.
+- [Un acte reçu : ce qu'il ouvre et les délais](https://scansa.fr/guides/acte-recu-delais.html): Cinq actes, le délai de chacun et l’aide gratuite.
+- [Bail d'habitation : les mentions obligatoires](https://scansa.fr/guides/bail-mentions-obligatoires.html): Les mentions, les annexes et la suite d’une mention manquante.
 - [Clause de non-concurrence : les quatre conditions](https://scansa.fr/guides/clause-de-non-concurrence.html): Quatre conditions cumulatives, dont une contrepartie financière versée après la rupture.
 - [Période d'essai : durées maximales et rupture](https://scansa.fr/guides/periode-d-essai-duree-maximale.html): Deux, trois ou quatre mois selon la catégorie. Un seul renouvellement, et rien sans mention écrite.
 - [Clause de mobilité : ce que le contrat peut prévoir](https://scansa.fr/guides/clause-de-mobilite.html): Zone géographique précise, pas d’extension par l’employeur seul, pas de mutation dans une autre société.
@@ -48,6 +73,8 @@ Les pages donnent une information générale, à jour au 24 octobre 2026. Elles 
 
 - [Méthode et sources](https://scansa.fr/methode-et-sources.html): origine des règles citées, niveaux d'alerte, limites
 - [À propos](https://scansa.fr/a-propos.html): ce que fait Scansa et qui l'édite
+- [Mentions légales](https://scansa.fr/mentions-legales.html)
+- [Confidentialité](https://scansa.fr/privacy.html)
 - [Contact](https://scansa.fr/contact.html)
 - [App Store](https://apps.apple.com/app/id6758580692)
 - [Google Play](https://play.google.com/store/apps/details?id=com.zingila.leaselens)
