@@ -327,11 +327,11 @@
     },
     {
       n: 12, title: 'État des lieux', status: 'bad',
-      text: 'L’état des lieux de sortie sera dressé par commissaire de justice, ses honoraires étant intégralement à la charge du locataire.',
+      text: 'L’état des lieux de sortie sera dressé par un professionnel habilité, ses honoraires étant intégralement à la charge du locataire.',
       heading: 'Les honoraires ne peuvent pas être<br>mis entièrement à votre charge.',
-      explain: 'Si l’état des lieux est établi par un commissaire de justice faute d’accord amiable, ses frais sont partagés par moitié. Une clause qui vous facture l’état des lieux est réputée non écrite.',
+      explain: 'Si l’état des lieux est établi par un professionnel habilité faute d’accord amiable, ses frais sont partagés par moitié. Une clause qui vous facture l’état des lieux est réputée non écrite.',
       ref: 'Loi 89-462, art. 3-2 et 4 k',
-      reply: '« Un état des lieux amiable et gratuit peut être établi entre nous. À défaut, les frais du commissaire de justice sont partagés par moitié, selon l’article 3-2 de la loi du 6 juillet 1989. »'
+      reply: '« Un état des lieux amiable et gratuit peut être établi entre nous. À défaut, les frais du professionnel habilité sont partagés par moitié, selon l’article 3-2 de la loi du 6 juillet 1989. »'
     }
   ];
 
